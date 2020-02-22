@@ -12,19 +12,22 @@ namespace App\Repository;
 use Doctrine\ORM\EntityRepository;
 use Doctrine\ORM\QueryBuilder;
 
-class EventRepository extends EntityRepository
+
+class EventsRepository extends EntityRepository
 {
+
     public function getEventsBetweenDates(string $beginDate, string $endDate): Array
     {
+
         /** @var QueryBuilder $qb */
         $qb = $this->createQueryBuilder();
         $qb->select('e')
-            ->from('Event', 'e')
-            ->where('e.evtDateStart >= :beginDate')
-            ->andWhere('e.evtDateEnd >= :endDate')
+            ->from('Events', 'e')
+            ->where('e.date_start >= :beginDate')
+            ->andWhere('e.date_end >= :endDate')
             ->orderBy('u.name', 'ASC')
-            ->setParameter('evtDateStart', $beginDate)
-            ->setParameter('evtDateEnd', $endDate)
+            ->setParameter('dateStart', $beginDate)
+            ->setParameter('dateEnd', $endDate)
         ;
 
         return $qb->getQuery()->getResult();
