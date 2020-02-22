@@ -1,0 +1,167 @@
+[
+    {
+        "federation": "equitation_concours_complet",
+        "count": 628262
+    },
+    {
+        "federation": "equitation_dressage",
+        "count": 628262
+    },
+    {
+        "federation": "equitation_obstacle",
+        "count": 628262
+    },
+    {
+        "federation": "escrime",
+        "count": 56832
+    },
+    {
+        "federation": "football",
+        "count": 2108811
+    },
+    {
+        "federation": "gymnastique_artistique",
+        "count": 312270
+    },
+    {
+        "federation": "gymnastique_rythmique",
+        "count": 312270
+    },
+    {
+        "federation": "halterophilie",
+        "count": 25883
+    },
+    {
+        "federation": "handball",
+        "count": 2108811
+    },
+    {
+        "federation": "hockey_sur_gazon",
+        "count": 17124
+    },
+    {
+        "federation": "judo",
+        "count": 546954
+    },
+    {
+        "federation": "athletisme",
+        "count": 314692
+    },
+    {
+        "federation": "aviron",
+        "count": 39724
+    },
+    {
+        "federation": "badminton",
+        "count": 188183
+    },
+    {
+        "federation": "basketball",
+        "count": 525040
+    },
+    {
+        "federation": "boxe",
+        "count": 59874
+    },
+    {
+        "federation": "canoe_kayak_sprint",
+        "count": 57579
+    },
+    {
+        "federation": "canoe_kayak_slalom",
+        "count": 57579
+    },
+    {
+        "federation": "cyclisme_sur_piste",
+        "count": 116068
+    },
+    {
+        "federation": "VTT",
+        "count": 116068
+    },
+    {
+        "federation": "cyclisme_sur_route",
+        "count": 116068
+    },
+    {
+        "federation":"tir_a_l_arc",
+        "count": 74133
+    },
+    {
+        "federation":"triathlon",
+        "count": 54839
+    },
+    {
+        "federation":"voile",
+        "count": 240668
+    },
+    {
+        "federation":"volleyball",
+        "count": 105304
+    },
+    {
+        "federation":"beach_volley",
+        "count": 105304
+    },
+    {
+        "federation":"golf",
+        "count": 412726
+    },
+    {
+        "federation":"rugby",
+        "count": 334853
+    },
+    {
+        "federation":"karate",
+        "count": 253088
+    },
+    {
+        "federation":"skate",
+        "count": 65855
+    },
+    {
+        "federation":"baseball",
+        "count": 15395
+    },
+    {
+        "federation":"equitation_concours_complet",
+        "count": 628262
+    },
+    {
+        "federation":"lutte",
+        "count": 20417
+    }, 
+    {
+        "federation":"natation",
+        "count": 308863
+    }, 
+    {
+        "federation":"natation_synchronise",
+        "count": 308863
+    }, 
+    {
+        "federation":"plongeon",
+        "count": 308863
+    }, 
+    {
+        "federation":"pentathlon_moderne",
+        "count": 2020
+    }, 
+    {
+        "federation":"taekwondo",
+        "count": 54819
+    }, 
+    {
+        "federation":"tennis",
+        "count": 985551
+    }, 
+    {
+        "federation":"tennis_de_table",
+        "count": 207437
+    }, 
+    {
+        "federation":"tir",
+        "count": 224025
+    } 
+  
+]

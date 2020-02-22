@@ -1,0 +1,4400 @@
+[
+  {
+    "name": "ABBESSES",
+    "latitude": 48.884594208,
+    "longitude": 2.33794977706,
+    "nb_valid": 36670
+  },
+  {
+    "name": "ABLON",
+    "latitude": 48.7255353058,
+    "longitude": 2.41956502438,
+    "nb_valid": 10678
+  },
+  {
+    "name": "ACHERES-GRAND-CORMIER",
+    "latitude": 48.9554022445,
+    "longitude": 2.09352190295,
+    "nb_valid": 512
+  },
+  {
+    "name": "ACHERES-VILLE",
+    "latitude": 48.9706650483,
+    "longitude": 2.07773176593,
+    "nb_valid": 37250
+  },
+  {
+    "name": "AEROPORT CHARLES DE GAULLE 1",
+    "latitude": 48.9706650483,
+    "longitude": 2.07773176593,
+    "nb_valid": 68018
+  },
+  {
+    "name": "AEROPORT CHARLES DE GAULLE 2-TGV",
+    "latitude": 48.8724040944,
+    "longitude": 2.40857757742,
+    "nb_valid": 97870
+  },
+  {
+    "name": "ALESIA",
+    "latitude": 49.0100018671,
+    "longitude": 2.56055884389,
+    "nb_valid": 110484
+  },
+  {
+    "name": "ALEXANDRE DUMAS",
+    "latitude": 49.0097564521,
+    "longitude": 2.56123269523,
+    "nb_valid": 76062
+  },
+  {
+    "name": "ALLEE DE LA TOUR RENDEZ-VOUS",
+    "latitude": 49.0047256245,
+    "longitude": 2.57129484307,
+    "nb_valid": 1373
+  },
+  {
+    "name": "ALMA-MARCEAU",
+    "latitude": 49.0046874618,
+    "longitude": 2.57058948552,
+    "nb_valid": 79089
+  },
+  {
+    "name": "ANATOLE FRANCE",
+    "latitude": 48.7295507227,
+    "longitude": 2.36826412862,
+    "nb_valid": 91681
+  },
+  {
+    "name": "ANDRESY",
+    "latitude": 48.7296473558,
+    "longitude": 2.36001341286,
+    "nb_valid": 4688
+  },
+  {
+    "name": "ANGERVILLE",
+    "latitude": 48.7290239851,
+    "longitude": 2.36991322479,
+    "nb_valid": 2410
+  },
+  {
+    "name": "ANTONY",
+    "latitude": 48.9658555744,
+    "longitude": 2.36357222397,
+    "nb_valid": 176789
+  },
+  {
+    "name": "ANVERS",
+    "latitude": 48.8281884763,
+    "longitude": 2.32716464961,
+    "nb_valid": 129447
+  },
+  {
+    "name": "ARCUEIL-CACHAN",
+    "latitude": 48.8437717867,
+    "longitude": 2.41013203808,
+    "nb_valid": 85460
+  },
+  {
+    "name": "ARGENTEUIL",
+    "latitude": 48.8563773572,
+    "longitude": 2.39456194456,
+    "nb_valid": 174389
+  },
+  {
+    "name": "ARGENTINE",
+    "latitude": 48.8971438185,
+    "longitude": 2.50640824702,
+    "nb_valid": 77252
+  },
+  {
+    "name": "ARPAJON",
+    "latitude": 48.864766845,
+    "longitude": 2.3009910035,
+    "nb_valid": 9950
+  },
+  {
+    "name": "ARTS ET METIERS",
+    "latitude": 48.892082786,
+    "longitude": 2.28500950275,
+    "nb_valid": 80186
+  },
+  {
+    "name": "ASNIERES",
+    "latitude": 48.9748208646,
+    "longitude": 2.04908312149,
+    "nb_valid": 74253
+  },
+  {
+    "name": "ASSEMBLEE NATIONALE",
+    "latitude": 48.8978323851,
+    "longitude": 2.33802674023,
+    "nb_valid": 22211
+  },
+  {
+    "name": "ATHIS-MONS",
+    "latitude": 48.3112962757,
+    "longitude": 2.00352500008,
+    "nb_valid": 7809
+  },
+  {
+    "name": "AUBER",
+    "latitude": 48.7549465264,
+    "longitude": 2.30098685572,
+    "nb_valid": 98444
+  },
+  {
+    "name": "AUBERGENVILLE-ELISABETHVILLE",
+    "latitude": 48.7549465264,
+    "longitude": 2.30098685572,
+    "nb_valid": 27206
+  },
+  {
+    "name": "AUBERVILLIERS-PANTIN (QUATRE CHEMINS)",
+    "latitude": 48.8828686476,
+    "longitude": 2.34413063372,
+    "nb_valid": 256638
+  },
+  {
+    "name": "AULNAY-SOUS-BOIS",
+    "latitude": 48.897923573,
+    "longitude": 2.56171430404,
+    "nb_valid": 210883
+  },
+  {
+    "name": "AUSTERLITZ",
+    "latitude": 48.7988925001,
+    "longitude": 2.32813692306,
+    "nb_valid": 377063
+  },
+  {
+    "name": "AUVERS-SUR-OISE",
+    "latitude": 48.9467969421,
+    "longitude": 2.25789748266,
+    "nb_valid": 676
+  },
+  {
+    "name": "AVENUE DU PRESIDENT KENNEDY",
+    "latitude": 48.8755940499,
+    "longitude": 2.28932258961,
+    "nb_valid": 2397
+  },
+  {
+    "name": "AVENUE EMILE ZOLA",
+    "latitude": 48.5860078899,
+    "longitude": 2.24107008227,
+    "nb_valid": 42227
+  },
+  {
+    "name": "AVENUE FOCH",
+    "latitude": 48.8653227117,
+    "longitude": 2.35672986917,
+    "nb_valid": 8277
+  },
+  {
+    "name": "AVENUE HENRI MARTIN",
+    "latitude": 48.8655864776,
+    "longitude": 2.35673675681,
+    "nb_valid": 12702
+  },
+  {
+    "name": "AVRON",
+    "latitude": 48.9056221191,
+    "longitude": 2.28351732969,
+    "nb_valid": 45691
+  },
+  {
+    "name": "BAGNEUX",
+    "latitude": 48.9057060504,
+    "longitude": 2.28362870267,
+    "nb_valid": 53942
+  },
+  {
+    "name": "BAGNEUX-SUR-LOING",
+    "latitude": 48.9272506106,
+    "longitude": 2.27433613239,
+    "nb_valid": 534
+  },
+  {
+    "name": "BALARD",
+    "latitude": 48.8607869635,
+    "longitude": 2.32099819195,
+    "nb_valid": 202309
+  },
+  {
+    "name": "BALLANCOURT",
+    "latitude": 48.7126289875,
+    "longitude": 2.40363310491,
+    "nb_valid": 2762
+  },
+  {
+    "name": "BARBES-ROCHECHOUART",
+    "latitude": 48.8721574949,
+    "longitude": 2.32992717061,
+    "nb_valid": 252129
+  },
+  {
+    "name": "BASILIQUE DE SAINT-DENIS",
+    "latitude": 48.9721416769,
+    "longitude": 1.84834880828,
+    "nb_valid": 125356
+  },
+  {
+    "name": "BASTILLE",
+    "latitude": 48.9037599302,
+    "longitude": 2.39228705964,
+    "nb_valid": 238925
+  },
+  {
+    "name": "BECON-LES-BRUYERES",
+    "latitude": 48.9067006317,
+    "longitude": 2.46052340367,
+    "nb_valid": 66202
+  },
+  {
+    "name": "BEL-AIR",
+    "latitude": 48.763375153,
+    "longitude": 2.36779053573,
+    "nb_valid": 64726
+  },
+  {
+    "name": "BELLEVILLE",
+    "latitude": 48.9319502424,
+    "longitude": 2.4962382812,
+    "nb_valid": 195392
+  },
+  {
+    "name": "BELLEVUE",
+    "latitude": 48.9321960051,
+    "longitude": 2.49551314123,
+    "nb_valid": 7823
+  },
+  {
+    "name": "BELLOY-SAINT-MARTIN",
+    "latitude": 48.9321960051,
+    "longitude": 2.49551314123,
+    "nb_valid": 636
+  },
+  {
+    "name": "BERAULT",
+    "latitude": 48.4452537046,
+    "longitude": 1.77958370837,
+    "nb_valid": 77785
+  },
+  {
+    "name": "BERCY",
+    "latitude": 48.842436797,
+    "longitude": 2.365184812,
+    "nb_valid": 157815
+  },
+  {
+    "name": "BESSANCOURT",
+    "latitude": 48.8425280268,
+    "longitude": 2.36543338473,
+    "nb_valid": 4306
+  },
+  {
+    "name": "BEYNES",
+    "latitude": 48.8422653865,
+    "longitude": 2.36533865297,
+    "nb_valid": 873
+  },
+  {
+    "name": "BIBLIOTHEQUE FRANCOIS MITTERRAND",
+    "latitude": 49.0704623634,
+    "longitude": 2.17530420995,
+    "nb_valid": 248467
+  },
+  {
+    "name": "BIEVRES",
+    "latitude": 48.8255702286,
+    "longitude": 2.38116559196,
+    "nb_valid": 3162
+  },
+  {
+    "name": "BILLANCOURT",
+    "latitude": 48.8536480563,
+    "longitude": 2.27948706498,
+    "nb_valid": 61124
+  },
+  {
+    "name": "BIR-HAKEIM (GRENELLE)",
+    "latitude": 48.8470195819,
+    "longitude": 2.29542047803,
+    "nb_valid": 146017
+  },
+  {
+    "name": "BLANC-MESNIL",
+    "latitude": 48.8709741382,
+    "longitude": 2.27557452685,
+    "nb_valid": 52060
+  },
+  {
+    "name": "BLANCHE",
+    "latitude": 48.8644617484,
+    "longitude": 2.27212062164,
+    "nb_valid": 66649
+  },
+  {
+    "name": "BOBIGNY-PABLO PICASSO",
+    "latitude": 48.8515102782,
+    "longitude": 2.39830234427,
+    "nb_valid": 267019
+  },
+  {
+    "name": "BOBIGNY-PANTIN (RAYMOND QUENEAU)",
+    "latitude": 48.2295499366,
+    "longitude": 2.70393605431,
+    "nb_valid": 86015
+  },
+  {
+    "name": "BOIGNEVILLE",
+    "latitude": 48.7933362962,
+    "longitude": 2.32220163367,
+    "nb_valid": 63
+  },
+  {
+    "name": "BOIS-COLOMBES",
+    "latitude": 48.8359308792,
+    "longitude": 2.27816167128,
+    "nb_valid": 70957
+  },
+  {
+    "name": "BOIS-LE-ROI",
+    "latitude": 48.8361229793,
+    "longitude": 2.27811917696,
+    "nb_valid": 6786
+  },
+  {
+    "name": "BOISSIERE",
+    "latitude": 48.5315019865,
+    "longitude": 2.37051849774,
+    "nb_valid": 49593
+  },
+  {
+    "name": "BOISSISE-LE-ROI",
+    "latitude": 48.8834361881,
+    "longitude": 2.34977444365,
+    "nb_valid": 494
+  },
+  {
+    "name": "BOISSY-L'AILLERIE",
+    "latitude": 48.8838039424,
+    "longitude": 2.35061300069,
+    "nb_valid": 1507
+  },
+  {
+    "name": "BOISSY-SAINT-LEGER",
+    "latitude": 48.8303885897,
+    "longitude": 2.39344969832,
+    "nb_valid": 100553
+  },
+  {
+    "name": "BOLIVAR",
+    "latitude": 48.9365268526,
+    "longitude": 2.35939826103,
+    "nb_valid": 9564
+  },
+  {
+    "name": "BONDY",
+    "latitude": 48.938082615,
+    "longitude": 2.36074604376,
+    "nb_valid": 72521
+  },
+  {
+    "name": "BONNE NOUVELLE",
+    "latitude": 48.8524794228,
+    "longitude": 2.36932058493,
+    "nb_valid": 115268
+  },
+  {
+    "name": "BONNIERES",
+    "latitude": 48.8534369623,
+    "longitude": 2.36873657263,
+    "nb_valid": 2611
+  },
+  {
+    "name": "BOTZARIS",
+    "latitude": 48.8534394276,
+    "longitude": 2.36951356952,
+    "nb_valid": 19019
+  },
+  {
+    "name": "BOUCICAUT",
+    "latitude": 48.9421254551,
+    "longitude": 2.35672974153,
+    "nb_valid": 49220
+  },
+  {
+    "name": "BOUFFEMONT-MOISSELLES",
+    "latitude": 49.4262015914,
+    "longitude": 2.08850697394,
+    "nb_valid": 6548
+  },
+  {
+    "name": "BOUGIVAL",
+    "latitude": 48.9057626571,
+    "longitude": 2.26996477919,
+    "nb_valid": 2888
+  },
+  {
+    "name": "BOULAINVILLIERS",
+    "latitude": 48.8413382509,
+    "longitude": 2.40091853812,
+    "nb_valid": 3329
+  },
+  {
+    "name": "BOULEVARD VICTOR",
+    "latitude": 48.8723101138,
+    "longitude": 2.37670214473,
+    "nb_valid": 23986
+  },
+  {
+    "name": "BOULOGNE-JEAN JAURES",
+    "latitude": 48.8718487938,
+    "longitude": 2.37659368274,
+    "nb_valid": 104274
+  },
+  {
+    "name": "BOULOGNE-PONT DE SAINT CLOUD",
+    "latitude": 48.8189478009,
+    "longitude": 2.22980800373,
+    "nb_valid": 66639
+  },
+  {
+    "name": "BOURAY",
+    "latitude": 49.0984002625,
+    "longitude": 2.36127055524,
+    "nb_valid": 8113
+  },
+  {
+    "name": "BOURG-LA-REINE",
+    "latitude": 48.8760012915,
+    "longitude": 2.22595909514,
+    "nb_valid": 100073
+  },
+  {
+    "name": "BOURGET T11",
+    "latitude": 48.8454707076,
+    "longitude": 2.42920516635,
+    "nb_valid": 18586
+  },
+  {
+    "name": "BOURRON-MARLOTTE-GREZ",
+    "latitude": 48.8403887481,
+    "longitude": 2.37991127145,
+    "nb_valid": 612
+  },
+  {
+    "name": "BOURSE",
+    "latitude": 48.8400013895,
+    "longitude": 2.3795540112,
+    "nb_valid": 104286
+  },
+  {
+    "name": "BOUSSY-SAINT-ANTOINE",
+    "latitude": 49.0353113094,
+    "longitude": 2.21024652104,
+    "nb_valid": 35289
+  },
+  {
+    "name": "BOUTIGNY-SUR-ESSONNE",
+    "latitude": 48.8599987304,
+    "longitude": 1.8755955903,
+    "nb_valid": 489
+  },
+  {
+    "name": "BREGUET-SABIN",
+    "latitude": 48.8298750437,
+    "longitude": 2.37669589214,
+    "nb_valid": 36882
+  },
+  {
+    "name": "BRETIGNY",
+    "latitude": 48.8299902817,
+    "longitude": 2.37574814434,
+    "nb_valid": 63597
+  },
+  {
+    "name": "BREUILLET-BRUYERES-LE-CHATEL",
+    "latitude": 48.7510232733,
+    "longitude": 2.2158608601,
+    "nb_valid": 1833
+  },
+  {
+    "name": "BREUILLET-VILLAGE",
+    "latitude": 48.8321105601,
+    "longitude": 2.23863934858,
+    "nb_valid": 2902
+  },
+  {
+    "name": "BREVAL",
+    "latitude": 48.8539426071,
+    "longitude": 2.28933453277,
+    "nb_valid": 1975
+  },
+  {
+    "name": "BROCHANT",
+    "latitude": 48.9323054161,
+    "longitude": 2.47567437083,
+    "nb_valid": 81531
+  },
+  {
+    "name": "BRUNOY",
+    "latitude": 48.8839585735,
+    "longitude": 2.33192659089,
+    "nb_valid": 37489
+  },
+  {
+    "name": "BRUYERES-SUR-OISE",
+    "latitude": 48.9478076496,
+    "longitude": 2.33918092342,
+    "nb_valid": 592
+  },
+  {
+    "name": "BRY-SUR-MARNE",
+    "latitude": 48.9065332885,
+    "longitude": 2.45000466303,
+    "nb_valid": 51059
+  },
+  {
+    "name": "BUNO-GIRONVILLE",
+    "latitude": 48.9063747703,
+    "longitude": 2.44918990449,
+    "nb_valid": 238
+  },
+  {
+    "name": "BURES-SUR-YVETTE",
+    "latitude": 48.895454673,
+    "longitude": 2.4253268888,
+    "nb_valid": 9154
+  },
+  {
+    "name": "BUSSY-SAINT-GEORGES",
+    "latitude": 48.3416635419,
+    "longitude": 2.37881544334,
+    "nb_valid": 99293
+  },
+  {
+    "name": "BUTTES-CHAUMONT",
+    "latitude": 48.9142464743,
+    "longitude": 2.27159875039,
+    "nb_valid": 16232
+  },
+  {
+    "name": "BUZENVAL",
+    "latitude": 48.4755230724,
+    "longitude": 2.69203325987,
+    "nb_valid": 48739
+  },
+  {
+    "name": "CADET",
+    "latitude": 48.8669831104,
+    "longitude": 2.29005883493,
+    "nb_valid": 83199
+  },
+  {
+    "name": "CAMBRONNE",
+    "latitude": 48.5297469186,
+    "longitude": 2.57207366138,
+    "nb_valid": 70084
+  },
+  {
+    "name": "CAMPO-FORMIO",
+    "latitude": 49.0758428848,
+    "longitude": 2.02495293138,
+    "nb_valid": 41053
+  },
+  {
+    "name": "CARDINAL-LEMOINE",
+    "latitude": 48.7521857235,
+    "longitude": 2.50455983832,
+    "nb_valid": 41916
+  },
+  {
+    "name": "CARREFOUR PLEYEL",
+    "latitude": 48.8808212614,
+    "longitude": 2.37414715384,
+    "nb_valid": 65878
+  },
+  {
+    "name": "CENSIER-DAUBENTON",
+    "latitude": 48.8940482842,
+    "longitude": 2.48034887033,
+    "nb_valid": 50194
+  },
+  {
+    "name": "CERGY LE HAUT",
+    "latitude": 48.894012515,
+    "longitude": 2.47979332996,
+    "nb_valid": 14248
+  },
+  {
+    "name": "CERGY-PREFECTURE",
+    "latitude": 48.8701642009,
+    "longitude": 2.35049797186,
+    "nb_valid": 153524
+  },
+  {
+    "name": "CERGY-SAINT-CHRISTOPHE",
+    "latitude": 48.8701642009,
+    "longitude": 2.35049797186,
+    "nb_valid": 109196
+  },
+  {
+    "name": "CERNAY",
+    "latitude": 48.1864372096,
+    "longitude": 1.38624502094,
+    "nb_valid": 27888
+  },
+  {
+    "name": "CESSON",
+    "latitude": 49.0387620448,
+    "longitude": 1.58153210234,
+    "nb_valid": 12516
+  },
+  {
+    "name": "CHAMARANDE",
+    "latitude": 49.1667750398,
+    "longitude": 2.36230352857,
+    "nb_valid": 1114
+  },
+  {
+    "name": "CHAMP DE COURSES D'ENGHIEN",
+    "latitude": 48.8794817719,
+    "longitude": 2.38911580738,
+    "nb_valid": 9679
+  },
+  {
+    "name": "CHAMP DE MARS-TOUR EIFFEL",
+    "latitude": 48.8410940563,
+    "longitude": 2.2879457665,
+    "nb_valid": 10393
+  },
+  {
+    "name": "CHAMPAGNE-SUR-OISE",
+    "latitude": 49.0451694612,
+    "longitude": 2.32291784485,
+    "nb_valid": 2206
+  },
+  {
+    "name": "CHAMPAGNE-SUR-SEINE",
+    "latitude": 48.8542517035,
+    "longitude": 2.13213244525,
+    "nb_valid": 3750
+  },
+  {
+    "name": "CHAMPBENOIST-POIGNY",
+    "latitude": 48.8565315515,
+    "longitude": 2.27516715469,
+    "nb_valid": 1970
+  },
+  {
+    "name": "CHAMPIGNY",
+    "latitude": 48.8420053473,
+    "longitude": 2.23888732579,
+    "nb_valid": 107205
+  },
+  {
+    "name": "CHAMPS-ELYSEES-CLEMENCEAU",
+    "latitude": 48.8407450152,
+    "longitude": 2.2285369815,
+    "nb_valid": 55665
+  },
+  {
+    "name": "CHANGIS-SAINT-JEAN",
+    "latitude": 48.5328901041,
+    "longitude": 2.29008251383,
+    "nb_valid": 2357
+  },
+  {
+    "name": "CHANTELOUP-LES-VIGNES",
+    "latitude": 48.7803137964,
+    "longitude": 2.31230771689,
+    "nb_valid": 7830
+  },
+  {
+    "name": "CHAPONVAL",
+    "latitude": 48.3326836438,
+    "longitude": 2.69248019059,
+    "nb_valid": 52
+  },
+  {
+    "name": "CHARDON-LAGACHE",
+    "latitude": 48.8686959778,
+    "longitude": 2.34072072367,
+    "nb_valid": 20818
+  },
+  {
+    "name": "CHARENTON-ECOLES",
+    "latitude": 48.6810166163,
+    "longitude": 2.53313065657,
+    "nb_valid": 96760
+  },
+  {
+    "name": "CHARLES DE GAULLE ETOILE",
+    "latitude": 48.4344906129,
+    "longitude": 2.37667281716,
+    "nb_valid": 281765
+  },
+  {
+    "name": "CHARLES MICHELS",
+    "latitude": 48.8561407093,
+    "longitude": 2.37020933841,
+    "nb_valid": 117782
+  },
+  {
+    "name": "CHARONNE",
+    "latitude": 48.7682217804,
+    "longitude": 2.36804152067,
+    "nb_valid": 81012
+  },
+  {
+    "name": "CHARS",
+    "latitude": 48.6067449526,
+    "longitude": 2.30205969425,
+    "nb_valid": 1223
+  },
+  {
+    "name": "CHARTRETTES",
+    "latitude": 48.5775084894,
+    "longitude": 2.19206306877,
+    "nb_valid": 118
+  },
+  {
+    "name": "CHATEAU D'EAU",
+    "latitude": 48.5645970265,
+    "longitude": 2.17097626506,
+    "nb_valid": 127720
+  },
+  {
+    "name": "CHATEAU DE VINCENNES",
+    "latitude": 48.9432369891,
+    "longitude": 1.54138115647,
+    "nb_valid": 146416
+  },
+  {
+    "name": "CHATEAU ROUGE",
+    "latitude": 48.8223099329,
+    "longitude": 2.23132315987,
+    "nb_valid": 203507
+  },
+  {
+    "name": "CHATEAU-LANDON",
+    "latitude": 48.8905871866,
+    "longitude": 2.32017475579,
+    "nb_valid": 37684
+  },
+  {
+    "name": "CHATELET",
+    "latitude": 48.699732433,
+    "longitude": 2.50607815457,
+    "nb_valid": 303214
+  },
+  {
+    "name": "CHATELET-LES HALLES",
+    "latitude": 49.155189859,
+    "longitude": 2.32575400036,
+    "nb_valid": 883674
+  },
+  {
+    "name": "CHATILLON-MONTROUGE",
+    "latitude": 48.8449011387,
+    "longitude": 2.52592254657,
+    "nb_valid": 210276
+  },
+  {
+    "name": "CHATOU-CROISSY",
+    "latitude": 48.9250943511,
+    "longitude": 1.44379093871,
+    "nb_valid": 43035
+  },
+  {
+    "name": "CHAUSSEE D'ANTIN (LA FAYETTE)",
+    "latitude": 48.3713832905,
+    "longitude": 2.38720979587,
+    "nb_valid": 205379
+  },
+  {
+    "name": "CHAVILLE RIVE DROITE",
+    "latitude": 48.6962527469,
+    "longitude": 2.16437824279,
+    "nb_valid": 35420
+  },
+  {
+    "name": "CHAVILLE RIVE GAUCHE",
+    "latitude": 48.8365364329,
+    "longitude": 2.70898174226,
+    "nb_valid": 6741
+  },
+  {
+    "name": "CHAVILLE-VELIZY",
+    "latitude": 48.8850167892,
+    "longitude": 2.3967512888,
+    "nb_valid": 12108
+  },
+  {
+    "name": "CHELLES-GOURNAY",
+    "latitude": 48.973659013,
+    "longitude": 2.36605171568,
+    "nb_valid": 89004
+  },
+  {
+    "name": "CHEMIN D'ANTONY",
+    "latitude": 48.8785141131,
+    "longitude": 2.38161451194,
+    "nb_valid": 3317
+  },
+  {
+    "name": "CHEMIN VERT",
+    "latitude": 48.851812133,
+    "longitude": 2.40102227052,
+    "nb_valid": 36384
+  },
+  {
+    "name": "CHENAY-GAGNY",
+    "latitude": 48.8758906819,
+    "longitude": 2.34412603046,
+    "nb_valid": 31576
+  },
+  {
+    "name": "CHESSY - MARNE-LA-VALLEE",
+    "latitude": 48.8475070811,
+    "longitude": 2.30296829919,
+    "nb_valid": 107051
+  },
+  {
+    "name": "CHEVALERET",
+    "latitude": 48.8354953554,
+    "longitude": 2.3588234891,
+    "nb_valid": 43153
+  },
+  {
+    "name": "CHILLY-MAZARIN",
+    "latitude": 48.8987339907,
+    "longitude": 2.38053703549,
+    "nb_valid": 6733
+  },
+  {
+    "name": "CHOISY-LE-ROI",
+    "latitude": 48.8466568513,
+    "longitude": 2.35162325638,
+    "nb_valid": 145355
+  },
+  {
+    "name": "CITE",
+    "latitude": 48.7385627773,
+    "longitude": 2.36991014668,
+    "nb_valid": 35994
+  },
+  {
+    "name": "CITE UNIVERSITAIRE",
+    "latitude": 48.9195730741,
+    "longitude": 2.34330593051,
+    "nb_valid": 188377
+  },
+  {
+    "name": "CLAMART",
+    "latitude": 48.8404866526,
+    "longitude": 2.35173948717,
+    "nb_valid": 15270
+  },
+  {
+    "name": "CLICHY-LEVALLOIS",
+    "latitude": 48.8042049383,
+    "longitude": 2.2890572536,
+    "nb_valid": 139790
+  },
+  {
+    "name": "COIGNIERES",
+    "latitude": 49.0478762034,
+    "longitude": 2.01099976,
+    "nb_valid": 2501
+  },
+  {
+    "name": "COLOMBES",
+    "latitude": 49.0478762034,
+    "longitude": 2.01099976,
+    "nb_valid": 48495
+  },
+  {
+    "name": "COLONEL FABIEN",
+    "latitude": 49.0364639807,
+    "longitude": 2.07953494,
+    "nb_valid": 125443
+  },
+  {
+    "name": "COMBS-LA-VILLE-QUINCY",
+    "latitude": 49.0364639807,
+    "longitude": 2.07953494,
+    "nb_valid": 37407
+  },
+  {
+    "name": "COMMERCE",
+    "latitude": 49.0496470052,
+    "longitude": 2.03429446048,
+    "nb_valid": 79935
+  },
+  {
+    "name": "COMPANS",
+    "latitude": 49.0496470052,
+    "longitude": 2.03429446048,
+    "nb_valid": 134
+  },
+  {
+    "name": "CONCORDE",
+    "latitude": 48.9850047004,
+    "longitude": 2.25747415863,
+    "nb_valid": 116234
+  },
+  {
+    "name": "CONFLANS-FIN-D'OISE",
+    "latitude": 48.9850047004,
+    "longitude": 2.25747415863,
+    "nb_valid": 27034
+  },
+  {
+    "name": "CONFLANS-SAINTE-HONORINE",
+    "latitude": 48.9495813451,
+    "longitude": 2.34252182604,
+    "nb_valid": 53902
+  },
+  {
+    "name": "CONVENTION",
+    "latitude": 48.5649494957,
+    "longitude": 2.59455181601,
+    "nb_valid": 124464
+  },
+  {
+    "name": "CORBEIL-ESSONNES",
+    "latitude": 47.9861923599,
+    "longitude": 3.33759167772,
+    "nb_valid": 39035
+  },
+  {
+    "name": "CORENTIN CARIOU",
+    "latitude": 48.5142458762,
+    "longitude": 2.21551781058,
+    "nb_valid": 97285
+  },
+  {
+    "name": "CORENTIN-CELTON",
+    "latitude": 48.9794479839,
+    "longitude": 2.29247712881,
+    "nb_valid": 106883
+  },
+  {
+    "name": "CORMEILLES-EN-PARISIS",
+    "latitude": 48.8572934139,
+    "longitude": 2.29039155346,
+    "nb_valid": 25932
+  },
+  {
+    "name": "CORVISART",
+    "latitude": 49.1360005646,
+    "longitude": 2.24267777678,
+    "nb_valid": 48235
+  },
+  {
+    "name": "COUDRAY-MONTCEAUX",
+    "latitude": 48.4068056249,
+    "longitude": 2.79923356025,
+    "nb_valid": 49
+  },
+  {
+    "name": "COUILLY-SAINT-GERMAIN-QUINCY",
+    "latitude": 48.5455953478,
+    "longitude": 3.28731284984,
+    "nb_valid": 309
+  },
+  {
+    "name": "COULOMMIERS",
+    "latitude": 48.8069850716,
+    "longitude": 2.51030723712,
+    "nb_valid": 9808
+  },
+  {
+    "name": "COUR SAINT-EMILION",
+    "latitude": 48.3240522735,
+    "longitude": 3.13113953462,
+    "nb_valid": 141166
+  },
+  {
+    "name": "COURBEVOIE",
+    "latitude": 48.8679053449,
+    "longitude": 2.31354554995,
+    "nb_valid": 26489
+  },
+  {
+    "name": "COURCELLE-SUR-YVETTE",
+    "latitude": 48.8676021452,
+    "longitude": 2.31389412912,
+    "nb_valid": 3869
+  },
+  {
+    "name": "COURCELLES",
+    "latitude": 48.9591640631,
+    "longitude": 3.02611129429,
+    "nb_valid": 78918
+  },
+  {
+    "name": "COURONNES",
+    "latitude": 48.9703669331,
+    "longitude": 2.02751877569,
+    "nb_valid": 76894
+  },
+  {
+    "name": "CRECY-EN-BRIE-LA-CHAPELLE",
+    "latitude": 49.1873335365,
+    "longitude": 2.45952008111,
+    "nb_valid": 932
+  },
+  {
+    "name": "CRETEIL POMP",
+    "latitude": 49.0693141355,
+    "longitude": 2.14169693141,
+    "nb_valid": 120957
+  },
+  {
+    "name": "CRETEIL-L'ECHAT (HOPITAL MONDOR)",
+    "latitude": 48.8452047036,
+    "longitude": 2.26644154308,
+    "nb_valid": 41059
+  },
+  {
+    "name": "CRETEIL-P. LAC",
+    "latitude": 48.8215957673,
+    "longitude": 2.41373751752,
+    "nb_valid": 74520
+  },
+  {
+    "name": "CRETEIL-PREFECTURE (HOTEL DE VILLE)",
+    "latitude": 48.9076645839,
+    "longitude": 2.23830930229,
+    "nb_valid": 138033
+  },
+  {
+    "name": "CRETEIL-UNIVERSITE",
+    "latitude": 48.8751498197,
+    "longitude": 2.29590490608,
+    "nb_valid": 74918
+  },
+  {
+    "name": "CRIMEE",
+    "latitude": 48.8742384767,
+    "longitude": 2.29449059283,
+    "nb_valid": 169241
+  },
+  {
+    "name": "CROIX DE CHAVAUX (JACQUES DUCLOS)",
+    "latitude": 48.874613927,
+    "longitude": 2.29556736975,
+    "nb_valid": 153958
+  },
+  {
+    "name": "CROUY-SUR-OURCQ",
+    "latitude": 48.8747486507,
+    "longitude": 2.29556025621,
+    "nb_valid": 1070
+  },
+  {
+    "name": "DAMMARTIN-JUILLY-SAINT-MARD",
+    "latitude": 48.8465346367,
+    "longitude": 2.28599922342,
+    "nb_valid": 10921
+  },
+  {
+    "name": "DANUBE",
+    "latitude": 48.8545804991,
+    "longitude": 2.38556348082,
+    "nb_valid": 19851
+  },
+  {
+    "name": "DAUMESNIL",
+    "latitude": 49.1626705808,
+    "longitude": 1.93692863442,
+    "nb_valid": 125104
+  },
+  {
+    "name": "DENFERT-ROCHEREAU",
+    "latitude": 48.448384567,
+    "longitude": 1.48087093272,
+    "nb_valid": 205410
+  },
+  {
+    "name": "DEUIL-MONTMAGNY",
+    "latitude": 48.4870763944,
+    "longitude": 2.69503731923,
+    "nb_valid": 24299
+  },
+  {
+    "name": "DOMONT",
+    "latitude": 48.8724249145,
+    "longitude": 2.35604490767,
+    "nb_valid": 27644
+  },
+  {
+    "name": "DOURDAN",
+    "latitude": 48.8444563946,
+    "longitude": 2.44043997806,
+    "nb_valid": 4564
+  },
+  {
+    "name": "DOURDAN-LA-FORET",
+    "latitude": 48.8873749106,
+    "longitude": 2.3496940822,
+    "nb_valid": 331
+  },
+  {
+    "name": "DRANCY",
+    "latitude": 48.8785656258,
+    "longitude": 2.36216007192,
+    "nb_valid": 90056
+  },
+  {
+    "name": "DUGNY COURNEU",
+    "latitude": 49.0379489417,
+    "longitude": 3.40959736125,
+    "nb_valid": 4698
+  },
+  {
+    "name": "DUGOMMIER",
+    "latitude": 48.0734070101,
+    "longitude": 1.3384347632,
+    "nb_valid": 77171
+  },
+  {
+    "name": "DUPLEIX",
+    "latitude": 48.8570599663,
+    "longitude": 2.34771187993,
+    "nb_valid": 84095
+  },
+  {
+    "name": "DUROC",
+    "latitude": 48.8575563594,
+    "longitude": 2.34830889513,
+    "nb_valid": 88955
+  },
+  {
+    "name": "ECOLE MILITAIRE",
+    "latitude": 48.8583823703,
+    "longitude": 2.34756482975,
+    "nb_valid": 95565
+  },
+  {
+    "name": "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+    "latitude": 48.8577088197,
+    "longitude": 2.34794431111,
+    "nb_valid": 66226
+  },
+  {
+    "name": "ECOUEN-EZANVILLE",
+    "latitude": 48.8587991981,
+    "longitude": 2.34730585275,
+    "nb_valid": 15262
+  },
+  {
+    "name": "EDGAR QUINET",
+    "latitude": 48.8618222746,
+    "longitude": 2.34701268722,
+    "nb_valid": 53681
+  },
+  {
+    "name": "EGLISE D'AUTEUIL",
+    "latitude": 48.8618222746,
+    "longitude": 2.34701268722,
+    "nb_valid": 4870
+  },
+  {
+    "name": "EGLISE DE PANTIN",
+    "latitude": 48.8618222746,
+    "longitude": 2.34701268722,
+    "nb_valid": 99677
+  },
+  {
+    "name": "EGLY",
+    "latitude": 48.8106010945,
+    "longitude": 2.30035747443,
+    "nb_valid": 3462
+  },
+  {
+    "name": "EMERAINVILLE-PONTAULT-COMBAULT",
+    "latitude": 48.8107464886,
+    "longitude": 2.30167855546,
+    "nb_valid": 53703
+  },
+  {
+    "name": "ENGHIEN-LES-BAINS",
+    "latitude": 48.8852112182,
+    "longitude": 2.1559034719,
+    "nb_valid": 70394
+  },
+  {
+    "name": "EPINAY SEIN T11",
+    "latitude": 49.2613222981,
+    "longitude": 1.87258946785,
+    "nb_valid": 23892
+  },
+  {
+    "name": "EPINAY VIL T11",
+    "latitude": 48.8731092743,
+    "longitude": 2.33345121858,
+    "nb_valid": 6953
+  },
+  {
+    "name": "EPINAY-SUR-ORGE",
+    "latitude": 48.8729376577,
+    "longitude": 2.33347913185,
+    "nb_valid": 16082
+  },
+  {
+    "name": "EPINAY-SUR-SEINE",
+    "latitude": 48.8125717163,
+    "longitude": 2.18825986001,
+    "nb_valid": 13094
+  },
+  {
+    "name": "EPINAY-VILLETANEUSE",
+    "latitude": 48.8046833562,
+    "longitude": 2.18863027784,
+    "nb_valid": 87926
+  },
+  {
+    "name": "EPLUCHES",
+    "latitude": 48.7997288253,
+    "longitude": 2.18368410985,
+    "nb_valid": 210
+  },
+  {
+    "name": "EPONE-MEZIERES",
+    "latitude": 48.874144083,
+    "longitude": 2.58333116078,
+    "nb_valid": 8657
+  },
+  {
+    "name": "ERAGNY-NEUVILLE",
+    "latitude": 48.874144083,
+    "longitude": 2.58333116078,
+    "nb_valid": 6920
+  },
+  {
+    "name": "ERMONT-EAUBONNE",
+    "latitude": 48.7479419019,
+    "longitude": 2.31271101352,
+    "nb_valid": 91421
+  },
+  {
+    "name": "ERMONT-HALTE",
+    "latitude": 48.9346085677,
+    "longitude": 2.32149519817,
+    "nb_valid": 6440
+  },
+  {
+    "name": "ESBLY",
+    "latitude": 48.8574200375,
+    "longitude": 2.3681082907,
+    "nb_valid": 12093
+  },
+  {
+    "name": "ESPLANADE DE LA DEFENSE",
+    "latitude": 48.8699501349,
+    "longitude": 2.78222672345,
+    "nb_valid": 279415
+  },
+  {
+    "name": "ESSONNES-ROBINSON",
+    "latitude": 48.8349477223,
+    "longitude": 2.36812632906,
+    "nb_valid": 2813
+  },
+  {
+    "name": "ETAMPES",
+    "latitude": 48.9919382203,
+    "longitude": 3.36492712887,
+    "nb_valid": 32303
+  },
+  {
+    "name": "ETIENNE-MARCEL",
+    "latitude": 48.7006808037,
+    "longitude": 2.30784118734,
+    "nb_valid": 65161
+  },
+  {
+    "name": "ETRECHY",
+    "latitude": 48.7637868096,
+    "longitude": 2.41138672494,
+    "nb_valid": 3175
+  },
+  {
+    "name": "EUROPE",
+    "latitude": 48.9363891471,
+    "longitude": 2.3636407022,
+    "nb_valid": 21882
+  },
+  {
+    "name": "EVRY",
+    "latitude": 48.8549363766,
+    "longitude": 2.34732131573,
+    "nb_valid": 7191
+  },
+  {
+    "name": "EVRY-COURCOURONNES",
+    "latitude": 48.8210896506,
+    "longitude": 2.33897847201,
+    "nb_valid": 130252
+  },
+  {
+    "name": "EXELMANS",
+    "latitude": 48.8203500342,
+    "longitude": 2.33858074964,
+    "nb_valid": 56609
+  },
+  {
+    "name": "FAIDHERBE-CHALIGNY",
+    "latitude": 48.8142394455,
+    "longitude": 2.27448967218,
+    "nb_valid": 84059
+  },
+  {
+    "name": "FALGUIERE",
+    "latitude": 48.9045730665,
+    "longitude": 2.55501426701,
+    "nb_valid": 23074
+  },
+  {
+    "name": "FAREMOUTIERS-POMMEUSE",
+    "latitude": 48.8976374479,
+    "longitude": 2.29741994815,
+    "nb_valid": 1718
+  },
+  {
+    "name": "FELIX FAURE",
+    "latitude": 48.9078684796,
+    "longitude": 2.54638039943,
+    "nb_valid": 32941
+  },
+  {
+    "name": "FILLES DU CALVAIRE",
+    "latitude": 48.8510502823,
+    "longitude": 2.34427334542,
+    "nb_valid": 40802
+  },
+  {
+    "name": "FONTAINE-LE-PORT",
+    "latitude": 48.7340881621,
+    "longitude": 2.37125037622,
+    "nb_valid": 228
+  },
+  {
+    "name": "FONTAINE-MICHALON",
+    "latitude": 48.7434839859,
+    "longitude": 1.92103660004,
+    "nb_valid": 18263
+  },
+  {
+    "name": "FONTAINEBLEAU-AVON",
+    "latitude": 48.8984911016,
+    "longitude": 2.36365138218,
+    "nb_valid": 29640
+  },
+  {
+    "name": "FONTENAY-AUX-ROSES",
+    "latitude": 48.9239186266,
+    "longitude": 2.25934570305,
+    "nb_valid": 28225
+  },
+  {
+    "name": "FONTENAY-LE-FLEURY",
+    "latitude": 48.8776101874,
+    "longitude": 2.37081139531,
+    "nb_valid": 11969
+  },
+  {
+    "name": "FONTENAY-SOUS-BOIS",
+    "latitude": 48.667901961,
+    "longitude": 2.54754804581,
+    "nb_valid": 67311
+  },
+  {
+    "name": "FORT D'AUBERVILLIERS",
+    "latitude": 48.8447947646,
+    "longitude": 2.29395196364,
+    "nb_valid": 130016
+  },
+  {
+    "name": "FR. POPULAIRE",
+    "latitude": 48.991391402,
+    "longitude": 2.66505986931,
+    "nb_valid": 79542
+  },
+  {
+    "name": "FRANCONVILLE-LE-PLESSIS-BOUCHARD",
+    "latitude": 48.8662858046,
+    "longitude": 2.32294341224,
+    "nb_valid": 48216
+  },
+  {
+    "name": "FRANKLIN-D.ROOSEVELT",
+    "latitude": 48.866818369,
+    "longitude": 2.32208284869,
+    "nb_valid": 332120
+  },
+  {
+    "name": "FRATERNELLE",
+    "latitude": 48.8661671149,
+    "longitude": 2.32317568086,
+    "nb_valid": 7776
+  },
+  {
+    "name": "FREINVILLE-SEVRAN",
+    "latitude": 48.9910125487,
+    "longitude": 2.07376988648,
+    "nb_valid": 753
+  },
+  {
+    "name": "FREPILLON",
+    "latitude": 48.9910125487,
+    "longitude": 2.07376988648,
+    "nb_valid": 3048
+  },
+  {
+    "name": "GABRIEL PERI-ASNIERES-GENNEVILLIERS",
+    "latitude": 48.9919254925,
+    "longitude": 2.07449946383,
+    "nb_valid": 148604
+  },
+  {
+    "name": "GAGNY",
+    "latitude": 48.9966300907,
+    "longitude": 2.09777398846,
+    "nb_valid": 47628
+  },
+  {
+    "name": "GAITE",
+    "latitude": 48.8373074946,
+    "longitude": 2.29663034323,
+    "nb_valid": 90374
+  },
+  {
+    "name": "GALLIENI (PARC DE BAGNOLET)",
+    "latitude": 48.6134279136,
+    "longitude": 2.4729336491,
+    "nb_valid": 142692
+  },
+  {
+    "name": "GAMBETTA",
+    "latitude": 48.8948364684,
+    "longitude": 2.38252234342,
+    "nb_valid": 169592
+  },
+  {
+    "name": "GARANCIERES-LA QUEUE",
+    "latitude": 48.8270854489,
+    "longitude": 2.27941168205,
+    "nb_valid": 3240
+  },
+  {
+    "name": "GARCHES-MARNES-LA-COQUETTE",
+    "latitude": 48.9684962675,
+    "longitude": 2.19344286781,
+    "nb_valid": 23610
+  },
+  {
+    "name": "GARE DE GENNEVILLIERS",
+    "latitude": 48.8297905137,
+    "longitude": 2.35041487201,
+    "nb_valid": 20201
+  },
+  {
+    "name": "GARE DE L'EST",
+    "latitude": 48.9317348255,
+    "longitude": 2.3782254904,
+    "nb_valid": 872668
+  },
+  {
+    "name": "GARE DE LYON",
+    "latitude": 48.8826810476,
+    "longitude": 2.8543159251,
+    "nb_valid": 1104637
+  },
+  {
+    "name": "GARE DU NORD",
+    "latitude": 48.8085020653,
+    "longitude": 3.08034301057,
+    "nb_valid": 781322
+  },
+  {
+    "name": "GARGAN",
+    "latitude": 48.8333385593,
+    "longitude": 2.38663240207,
+    "nb_valid": 4977
+  },
+  {
+    "name": "GARGENVILLE",
+    "latitude": 48.8981188775,
+    "longitude": 2.24794284966,
+    "nb_valid": 3187
+  },
+  {
+    "name": "GARGES-SARCELLES",
+    "latitude": 48.7012177212,
+    "longitude": 2.09797585569,
+    "nb_valid": 233591
+  },
+  {
+    "name": "GARIBALDI",
+    "latitude": 48.8792141342,
+    "longitude": 2.30352872537,
+    "nb_valid": 87388
+  },
+  {
+    "name": "GAZERAN",
+    "latitude": 48.8690911629,
+    "longitude": 2.38054258599,
+    "nb_valid": 1625
+  },
+  {
+    "name": "GENTILLY",
+    "latitude": 48.8595573169,
+    "longitude": 2.90573696319,
+    "nb_valid": 84598
+  },
+  {
+    "name": "GEORGE V",
+    "latitude": 49.2639441445,
+    "longitude": 2.46891411535,
+    "nb_valid": 130694
+  },
+  {
+    "name": "GIF-SUR-YVETTE",
+    "latitude": 49.2639441445,
+    "longitude": 2.46891411535,
+    "nb_valid": 12845
+  },
+  {
+    "name": "GLACIERE",
+    "latitude": 49.2310180602,
+    "longitude": 2.88736670498,
+    "nb_valid": 77184
+  },
+  {
+    "name": "GONCOURT (HOPITAL SAINT-LOUIS)",
+    "latitude": 48.7712660381,
+    "longitude": 2.43530633971,
+    "nb_valid": 72670
+  },
+  {
+    "name": "GOUSSAINVILLE",
+    "latitude": 48.7967407666,
+    "longitude": 2.44943317569,
+    "nb_valid": 47420
+  },
+  {
+    "name": "GRAND-BOURG",
+    "latitude": 48.7687151253,
+    "longitude": 2.46456499321,
+    "nb_valid": 1890
+  },
+  {
+    "name": "GRANDS BOULEVARDS (RUE MONTMARTRE)",
+    "latitude": 48.779905317,
+    "longitude": 2.45936839626,
+    "nb_valid": 124936
+  },
+  {
+    "name": "GRAVIGNY-BALIZY",
+    "latitude": 48.7899783103,
+    "longitude": 2.45045317792,
+    "nb_valid": 3562
+  },
+  {
+    "name": "GRETZ-ARMAINVILLIERS",
+    "latitude": 48.8907889695,
+    "longitude": 2.3773157556,
+    "nb_valid": 6756
+  },
+  {
+    "name": "GRIGNY-CENTRE",
+    "latitude": 48.8579655912,
+    "longitude": 2.43555571569,
+    "nb_valid": 52984
+  },
+  {
+    "name": "GROS-NOYER-SAINT-PRIX",
+    "latitude": 49.0918829954,
+    "longitude": 3.06269040835,
+    "nb_valid": 11556
+  },
+  {
+    "name": "GROSLAY",
+    "latitude": 49.0325740896,
+    "longitude": 2.69945308646,
+    "nb_valid": 10050
+  },
+  {
+    "name": "GUERARD-LA-CELLE-SUR-MORIN",
+    "latitude": 48.9227111893,
+    "longitude": 2.40662275371,
+    "nb_valid": 587
+  },
+  {
+    "name": "GUILLERVAL",
+    "latitude": 48.8819319987,
+    "longitude": 2.39344545649,
+    "nb_valid": 87
+  },
+  {
+    "name": "GUY MOQUET",
+    "latitude": 48.8394454284,
+    "longitude": 2.39618288645,
+    "nb_valid": 119734
+  },
+  {
+    "name": "HAUSSMANN-SAINT-LAZARE",
+    "latitude": 48.8395496456,
+    "longitude": 2.39570328944,
+    "nb_valid": 348413
+  },
+  {
+    "name": "HAVRE-CAUMARTIN",
+    "latitude": 48.9455555392,
+    "longitude": 2.34731292517,
+    "nb_valid": 119600
+  },
+  {
+    "name": "HERBLAY",
+    "latitude": 48.8938802825,
+    "longitude": 2.39773885065,
+    "nb_valid": 46146
+  },
+  {
+    "name": "HERICY",
+    "latitude": 48.8342929805,
+    "longitude": 2.33285230996,
+    "nb_valid": 344
+  },
+  {
+    "name": "HOCHE",
+    "latitude": 48.8334508582,
+    "longitude": 2.33174013099,
+    "nb_valid": 165853
+  },
+  {
+    "name": "HOTEL DE VILLE",
+    "latitude": 48.8342929805,
+    "longitude": 2.33285230996,
+    "nb_valid": 309348
+  },
+  {
+    "name": "HOUDAN",
+    "latitude": 48.8343581655,
+    "longitude": 2.2840072433,
+    "nb_valid": 8764
+  },
+  {
+    "name": "HOUILLES-CARRIERES-SUR-SEINE",
+    "latitude": 48.9760542531,
+    "longitude": 2.33852407065,
+    "nb_valid": 116008
+  },
+  {
+    "name": "IENA",
+    "latitude": 48.7836246222,
+    "longitude": 2.21443350205,
+    "nb_valid": 46283
+  },
+  {
+    "name": "IGNY",
+    "latitude": 48.8983255584,
+    "longitude": 2.35182955013,
+    "nb_valid": 2500
+  },
+  {
+    "name": "Inconnu",
+    "latitude": 48.8259205461,
+    "longitude": 2.31338008738,
+    "nb_valid": 59434
+  },
+  {
+    "name": "INVALIDES",
+    "latitude": 48.7944688845,
+    "longitude": 2.27265034466,
+    "nb_valid": 92562
+  },
+  {
+    "name": "ISLES-ARMENTIERES-CONGIS",
+    "latitude": 48.7789363931,
+    "longitude": 2.3674058645,
+    "nb_valid": 737
+  },
+  {
+    "name": "ISSOU-PORCHEVILLE",
+    "latitude": 49.0329720468,
+    "longitude": 2.33682968984,
+    "nb_valid": 816
+  },
+  {
+    "name": "ISSY",
+    "latitude": 48.1472180399,
+    "longitude": 2.7627283872,
+    "nb_valid": 18882
+  },
+  {
+    "name": "ISSY-VAL DE SEINE",
+    "latitude": 48.533732834,
+    "longitude": 2.00877181387,
+    "nb_valid": 62349
+  },
+  {
+    "name": "IVRY-SUR-SEINE",
+    "latitude": 48.5356206226,
+    "longitude": 1.99590198765,
+    "nb_valid": 15833
+  },
+  {
+    "name": "JACQUES BONSERGENT",
+    "latitude": 48.9327062187,
+    "longitude": 2.45476638277,
+    "nb_valid": 47229
+  },
+  {
+    "name": "JASMIN",
+    "latitude": 48.9177837253,
+    "longitude": 2.41769109334,
+    "nb_valid": 32470
+  },
+  {
+    "name": "JAURES",
+    "latitude": 48.73095467,
+    "longitude": 1.36997423412,
+    "nb_valid": 148097
+  },
+  {
+    "name": "JAVEL",
+    "latitude": 48.8390411437,
+    "longitude": 2.38962001134,
+    "nb_valid": 161784
+  },
+  {
+    "name": "JOINVILLE-LE-PONT",
+    "latitude": 48.850434549,
+    "longitude": 2.29361243991,
+    "nb_valid": 95317
+  },
+  {
+    "name": "JOURDAIN",
+    "latitude": 48.8470525545,
+    "longitude": 2.31642435206,
+    "nb_valid": 94961
+  },
+  {
+    "name": "JOUY-EN-JOSAS",
+    "latitude": 48.8469891061,
+    "longitude": 2.31700523574,
+    "nb_valid": 2914
+  },
+  {
+    "name": "JULES JOFFRIN",
+    "latitude": 48.8546821569,
+    "longitude": 2.3060974037,
+    "nb_valid": 147984
+  },
+  {
+    "name": "JUSSIEU",
+    "latitude": 48.814803007,
+    "longitude": 2.42237614285,
+    "nb_valid": 107737
+  },
+  {
+    "name": "JUVISY",
+    "latitude": 49.0232063781,
+    "longitude": 2.36222298238,
+    "nb_valid": 161204
+  },
+  {
+    "name": "JUZIERS",
+    "latitude": 48.8406632293,
+    "longitude": 2.32638461079,
+    "nb_valid": 1463
+  },
+  {
+    "name": "KLEBER",
+    "latitude": 48.8471500557,
+    "longitude": 2.26913587273,
+    "nb_valid": 21706
+  },
+  {
+    "name": "L'ABBAYE",
+    "latitude": 48.89325759,
+    "longitude": 2.41331313951,
+    "nb_valid": 1711
+  },
+  {
+    "name": "L'ETANG-LA-VILLE",
+    "latitude": 48.5824855969,
+    "longitude": 2.22243331383,
+    "nb_valid": 2075
+  },
+  {
+    "name": "L'ISLE-ADAM-PARMAIN",
+    "latitude": 48.8974328495,
+    "longitude": 2.39504174968,
+    "nb_valid": 4936
+  },
+  {
+    "name": "LA BARRE-ORMESSON",
+    "latitude": 48.805770376,
+    "longitude": 2.61939577899,
+    "nb_valid": 16473
+  },
+  {
+    "name": "LA CELLE-SAINT-CLOUD",
+    "latitude": 48.9727491198,
+    "longitude": 2.30713703071,
+    "nb_valid": 4712
+  },
+  {
+    "name": "LA CHAPELLE",
+    "latitude": 48.6050762776,
+    "longitude": 1.6816457804,
+    "nb_valid": 235493
+  },
+  {
+    "name": "LA COURNEUVE 8 MAI 1945",
+    "latitude": 48.9555044771,
+    "longitude": 2.2955916949,
+    "nb_valid": 184131
+  },
+  {
+    "name": "LA COURNEUVE-AUBERVILLIERS",
+    "latitude": 48.6694837261,
+    "longitude": 2.3326229292,
+    "nb_valid": 138154
+  },
+  {
+    "name": "LA CROIX-DE-BERNY-FRESNES",
+    "latitude": 48.9558430475,
+    "longitude": 2.30222274181,
+    "nb_valid": 94949
+  },
+  {
+    "name": "LA DEFENSE-GRANDE ARCHE",
+    "latitude": 48.9533964617,
+    "longitude": 2.3023404202,
+    "nb_valid": 1859266
+  },
+  {
+    "name": "LA FERTE-ALAIS",
+    "latitude": 48.9582696037,
+    "longitude": 2.32824501027,
+    "nb_valid": 1829
+  },
+  {
+    "name": "LA FERTE-SOUS-JOUARRE",
+    "latitude": 48.8975167168,
+    "longitude": 2.32372791301,
+    "nb_valid": 19006
+  },
+  {
+    "name": "LA FOURCHE",
+    "latitude": 49.0551017605,
+    "longitude": 2.12273590827,
+    "nb_valid": 70308
+  },
+  {
+    "name": "LA FRETTE-MONTIGNY",
+    "latitude": 48.9633441128,
+    "longitude": 1.80909450877,
+    "nb_valid": 4017
+  },
+  {
+    "name": "LA GARENNE-COLOMBES",
+    "latitude": 48.9633441128,
+    "longitude": 1.80909450877,
+    "nb_valid": 57988
+  },
+  {
+    "name": "LA GRANDE PAROISSE",
+    "latitude": 49.0183491636,
+    "longitude": 2.09090606335,
+    "nb_valid": 434
+  },
+  {
+    "name": "LA HACQUINIERE",
+    "latitude": 48.9806461004,
+    "longitude": 2.27208477275,
+    "nb_valid": 4198
+  },
+  {
+    "name": "LA MOTTE-PICQUET-GRENELLE",
+    "latitude": 48.9806461004,
+    "longitude": 2.27208477275,
+    "nb_valid": 137446
+  },
+  {
+    "name": "LA MUETTE",
+    "latitude": 48.9803775554,
+    "longitude": 2.27003542627,
+    "nb_valid": 78421
+  },
+  {
+    "name": "LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON",
+    "latitude": 48.9906512497,
+    "longitude": 2.26318262286,
+    "nb_valid": 5045
+  },
+  {
+    "name": "LA PLAINE-STADE DE FRANCE",
+    "latitude": 48.9030729142,
+    "longitude": 2.81024822073,
+    "nb_valid": 148634
+  },
+  {
+    "name": "LA REMISE A JORELLE",
+    "latitude": 48.9127049753,
+    "longitude": 2.43542099299,
+    "nb_valid": 916
+  },
+  {
+    "name": "LA TOUR MAUBOURG",
+    "latitude": 48.8886312178,
+    "longitude": 2.24793243532,
+    "nb_valid": 57922
+  },
+  {
+    "name": "LA VARENNE-CHENNEVIERES",
+    "latitude": 48.6055558264,
+    "longitude": 2.46245649278,
+    "nb_valid": 47553
+  },
+  {
+    "name": "LA VERRIERE",
+    "latitude": 48.4369239376,
+    "longitude": 2.15953058757,
+    "nb_valid": 44965
+  },
+  {
+    "name": "LAGNY-THORIGNY",
+    "latitude": 48.8638074378,
+    "longitude": 2.34888065259,
+    "nb_valid": 49200
+  },
+  {
+    "name": "LAMARCK-CAULAINCOURT",
+    "latitude": 48.1376108053,
+    "longitude": 3.28974196062,
+    "nb_valid": 47535
+  },
+  {
+    "name": "LAPLACE",
+    "latitude": 48.4936445785,
+    "longitude": 2.19458169917,
+    "nb_valid": 94885
+  },
+  {
+    "name": "LARDY",
+    "latitude": 48.8787703685,
+    "longitude": 2.32226521312,
+    "nb_valid": 2842
+  },
+  {
+    "name": "LAUMIERE",
+    "latitude": 49.0184202918,
+    "longitude": 1.14900354805,
+    "nb_valid": 141424
+  },
+  {
+    "name": "LE BOURGET",
+    "latitude": 48.6344790233,
+    "longitude": 2.45228989254,
+    "nb_valid": 160601
+  },
+  {
+    "name": "LE BRAS-DE-FER",
+    "latitude": 48.6260224281,
+    "longitude": 2.42873898735,
+    "nb_valid": 27396
+  },
+  {
+    "name": "LE GUICHET",
+    "latitude": 48.8429386959,
+    "longitude": 2.26003290221,
+    "nb_valid": 18536
+  },
+  {
+    "name": "LE KREMLIN-BICETRE",
+    "latitude": 48.8501778619,
+    "longitude": 2.38409221007,
+    "nb_valid": 106642
+  },
+  {
+    "name": "LE MEE",
+    "latitude": 48.8444701413,
+    "longitude": 2.31785278304,
+    "nb_valid": 32757
+  },
+  {
+    "name": "LE PARC-DE-SAINT-MAUR",
+    "latitude": 48.8086539649,
+    "longitude": 2.99310989478,
+    "nb_valid": 44845
+  },
+  {
+    "name": "LE PELETIER",
+    "latitude": 48.8966643963,
+    "longitude": 2.24007925205,
+    "nb_valid": 74271
+  },
+  {
+    "name": "LE PERRAY",
+    "latitude": 48.8427467798,
+    "longitude": 2.29191241332,
+    "nb_valid": 3519
+  },
+  {
+    "name": "LE PLESSIS-CHENET",
+    "latitude": 48.0965027788,
+    "longitude": 2.77230261766,
+    "nb_valid": 213
+  },
+  {
+    "name": "LE RAINCY-VILLEMOMBLE-MONTFERMEIL",
+    "latitude": 49.1795049508,
+    "longitude": 3.12061291667,
+    "nb_valid": 96599
+  },
+  {
+    "name": "LE STADE",
+    "latitude": 48.863257945,
+    "longitude": 2.36666109472,
+    "nb_valid": 18949
+  },
+  {
+    "name": "LE VAL-D'OR",
+    "latitude": 48.4872228755,
+    "longitude": 2.75115365838,
+    "nb_valid": 29019
+  },
+  {
+    "name": "LE VERT-DE-MAISONS",
+    "latitude": 48.743373402,
+    "longitude": 2.29639315754,
+    "nb_valid": 28846
+  },
+  {
+    "name": "LE VESINET-CENTRE",
+    "latitude": 48.416377033,
+    "longitude": 2.72666153173,
+    "nb_valid": 32082
+  },
+  {
+    "name": "LE VESINET-LE PECQ",
+    "latitude": 48.78761468,
+    "longitude": 2.29249298056,
+    "nb_valid": 43816
+  },
+  {
+    "name": "LEDRU-ROLLIN",
+    "latitude": 48.8072466121,
+    "longitude": 2.0405192047,
+    "nb_valid": 91893
+  },
+  {
+    "name": "LES AGNETTES-ASNIERES-GENNEVILLIERS",
+    "latitude": 48.8437202616,
+    "longitude": 2.46370803804,
+    "nb_valid": 75225
+  },
+  {
+    "name": "LES ARDOINES",
+    "latitude": 48.9149497564,
+    "longitude": 2.40440908743,
+    "nb_valid": 38305
+  },
+  {
+    "name": "LES BACONNETS",
+    "latitude": 48.9937134813,
+    "longitude": 2.23427639398,
+    "nb_valid": 59921
+  },
+  {
+    "name": "LES BOULLEREAUX-CHAMPIGNY",
+    "latitude": 48.9937134813,
+    "longitude": 2.23427639398,
+    "nb_valid": 26333
+  },
+  {
+    "name": "LES CLAIRIERES-DE-VERNEUIL",
+    "latitude": 48.8698082202,
+    "longitude": 2.30747079345,
+    "nb_valid": 2189
+  },
+  {
+    "name": "LES COQUETIERS",
+    "latitude": 48.8686998474,
+    "longitude": 2.30950515734,
+    "nb_valid": 1351
+  },
+  {
+    "name": "LES COURTILLES",
+    "latitude": 48.7416844931,
+    "longitude": 2.35279538131,
+    "nb_valid": 145927
+  },
+  {
+    "name": "LES GOBELINS",
+    "latitude": 48.926640202,
+    "longitude": 2.51910376383,
+    "nb_valid": 60234
+  },
+  {
+    "name": "LES GRESILLONS",
+    "latitude": 49.0454302542,
+    "longitude": 2.19708767832,
+    "nb_valid": 18622
+  },
+  {
+    "name": "LES HALLES",
+    "latitude": 48.906567146,
+    "longitude": 2.3659203194,
+    "nb_valid": 237974
+  },
+  {
+    "name": "LES MUREAUX",
+    "latitude": 48.8846809737,
+    "longitude": 2.34266003734,
+    "nb_valid": 60012
+  },
+  {
+    "name": "LES NOUES",
+    "latitude": 48.8856611127,
+    "longitude": 2.34254965326,
+    "nb_valid": 13112
+  },
+  {
+    "name": "LES PAVILLONS-SOUS-BOIS",
+    "latitude": 48.9163823099,
+    "longitude": 2.2946851117,
+    "nb_valid": 2432
+  },
+  {
+    "name": "LES SABLONS (JARDIN D'ACCLIMATATION)",
+    "latitude": 48.883734281,
+    "longitude": 2.52543425077,
+    "nb_valid": 155232
+  },
+  {
+    "name": "LES SAULES",
+    "latitude": 48.8386316462,
+    "longitude": 2.32249174982,
+    "nb_valid": 9284
+  },
+  {
+    "name": "LES VALLEES",
+    "latitude": 48.8653353173,
+    "longitude": 2.41669727286,
+    "nb_valid": 47141
+  },
+  {
+    "name": "LES YVRIS-NOISY-LE-GRAND",
+    "latitude": 48.8649166851,
+    "longitude": 2.39898444025,
+    "nb_valid": 8770
+  },
+  {
+    "name": "LES-ESSARTS-LE-ROI",
+    "latitude": 48.8651634349,
+    "longitude": 2.39874659344,
+    "nb_valid": 5318
+  },
+  {
+    "name": "LIBERTE",
+    "latitude": 48.8104024644,
+    "longitude": 1.76505675656,
+    "nb_valid": 89316
+  },
+  {
+    "name": "LIEGE",
+    "latitude": 48.838282546,
+    "longitude": 2.18711070973,
+    "nb_valid": 40902
+  },
+  {
+    "name": "LIEUSAINT-MOISSY",
+    "latitude": 48.9545625628,
+    "longitude": 2.30230508203,
+    "nb_valid": 80088
+  },
+  {
+    "name": "LIMAY",
+    "latitude": 48.959128021,
+    "longitude": 2.32927569976,
+    "nb_valid": 4653
+  },
+  {
+    "name": "LIVRY-SUR-SEINE",
+    "latitude": 48.9436300067,
+    "longitude": 2.41147348701,
+    "nb_valid": 705
+  },
+  {
+    "name": "LIZY-SUR-OURCQ",
+    "latitude": 48.9334498408,
+    "longitude": 2.30708965353,
+    "nb_valid": 2010
+  },
+  {
+    "name": "LOGNES",
+    "latitude": 48.8759910648,
+    "longitude": 2.35788077193,
+    "nb_valid": 47210
+  },
+  {
+    "name": "LONGJUMEAU",
+    "latitude": 48.8761263529,
+    "longitude": 2.35804750536,
+    "nb_valid": 2814
+  },
+  {
+    "name": "LONGUEVILLE",
+    "latitude": 48.8762727035,
+    "longitude": 2.35805790434,
+    "nb_valid": 7123
+  },
+  {
+    "name": "LOUIS BLANC",
+    "latitude": 48.8773756199,
+    "longitude": 2.35945661694,
+    "nb_valid": 41695
+  },
+  {
+    "name": "LOUISE MICHEL",
+    "latitude": 48.843985582,
+    "longitude": 2.37301421994,
+    "nb_valid": 84417
+  },
+  {
+    "name": "LOURMEL",
+    "latitude": 48.8460276494,
+    "longitude": 2.37496291887,
+    "nb_valid": 62404
+  },
+  {
+    "name": "LOUVECIENNES",
+    "latitude": 48.8447601713,
+    "longitude": 2.37359365326,
+    "nb_valid": 1380
+  },
+  {
+    "name": "LOUVRE-RIVOLI",
+    "latitude": 48.8437725769,
+    "longitude": 2.37391647117,
+    "nb_valid": 54246
+  },
+  {
+    "name": "LOUVRES",
+    "latitude": 48.8441393499,
+    "longitude": 2.37325997671,
+    "nb_valid": 9426
+  },
+  {
+    "name": "LOZERE",
+    "latitude": 48.9601628869,
+    "longitude": 2.36584210766,
+    "nb_valid": 11000
+  },
+  {
+    "name": "LUXEMBOURG",
+    "latitude": 48.9352661458,
+    "longitude": 2.34786240776,
+    "nb_valid": 121888
+  },
+  {
+    "name": "LUZARCHES",
+    "latitude": 48.9361346923,
+    "longitude": 2.34644376242,
+    "nb_valid": 531
+  },
+  {
+    "name": "LYCEE HENRI SELLIER",
+    "latitude": 48.9549290045,
+    "longitude": 2.39095508616,
+    "nb_valid": 1482
+  },
+  {
+    "name": "M. MONTROUGE",
+    "latitude": 48.9600337639,
+    "longitude": 2.34341454388,
+    "nb_valid": 127623
+  },
+  {
+    "name": "MABILLON",
+    "latitude": 48.9302061789,
+    "longitude": 2.42346455238,
+    "nb_valid": 29581
+  },
+  {
+    "name": "MADELEINE",
+    "latitude": 48.8809220076,
+    "longitude": 2.35632854366,
+    "nb_valid": 158611
+  },
+  {
+    "name": "MAGENTA",
+    "latitude": 48.8795512844,
+    "longitude": 2.35699516401,
+    "nb_valid": 74335
+  },
+  {
+    "name": "MAIRIE D'ISSY",
+    "latitude": 48.8807689583,
+    "longitude": 2.35711533495,
+    "nb_valid": 114222
+  },
+  {
+    "name": "MAIRIE D'IVRY",
+    "latitude": 48.8798501425,
+    "longitude": 2.35745934659,
+    "nb_valid": 77826
+  },
+  {
+    "name": "MAIRIE DE CLICHY",
+    "latitude": 48.8807689583,
+    "longitude": 2.35711533495,
+    "nb_valid": 212526
+  },
+  {
+    "name": "MAIRIE DE MONTREUIL",
+    "latitude": 48.8809220076,
+    "longitude": 2.35632854366,
+    "nb_valid": 271257
+  },
+  {
+    "name": "MAIRIE DE SAINT-OUEN",
+    "latitude": 48.9072725871,
+    "longitude": 2.51650989339,
+    "nb_valid": 112423
+  },
+  {
+    "name": "MAIRIE DES LILAS",
+    "latitude": 48.9829797632,
+    "longitude": 1.80890782598,
+    "nb_valid": 96288
+  },
+  {
+    "name": "MAISON BLANCHE",
+    "latitude": 48.9771607155,
+    "longitude": 2.39067488093,
+    "nb_valid": 47655
+  },
+  {
+    "name": "MAISONS-ALFORT-ALFORTVILLE",
+    "latitude": 48.9767478483,
+    "longitude": 2.39059365128,
+    "nb_valid": 88448
+  },
+  {
+    "name": "MAISONS-ALFORT-LES JUILLIOTTES",
+    "latitude": 48.9060940502,
+    "longitude": 2.33183083796,
+    "nb_valid": 64401
+  },
+  {
+    "name": "MAISONS-ALFORT-STADE",
+    "latitude": 48.9140932644,
+    "longitude": 2.43127800347,
+    "nb_valid": 38610
+  },
+  {
+    "name": "MAISONS-LAFFITTE",
+    "latitude": 48.6259908189,
+    "longitude": 1.7716956844,
+    "nb_valid": 91496
+  },
+  {
+    "name": "MAISSE",
+    "latitude": 48.9328961655,
+    "longitude": 2.30794323409,
+    "nb_valid": 1246
+  },
+  {
+    "name": "MALAKOFF-PLATEAU DE VANVES",
+    "latitude": 48.8152299365,
+    "longitude": 2.34089113242,
+    "nb_valid": 63742
+  },
+  {
+    "name": "MALAKOFF-RUE ETIENNE DOLET",
+    "latitude": 48.8720238095,
+    "longitude": 2.30056045125,
+    "nb_valid": 72192
+  },
+  {
+    "name": "MALESHERBES",
+    "latitude": 48.829826379,
+    "longitude": 2.29566198282,
+    "nb_valid": 44929
+  },
+  {
+    "name": "MANTES-LA-JOLIE",
+    "latitude": 48.7835009757,
+    "longitude": 2.23098355894,
+    "nb_valid": 31709
+  },
+  {
+    "name": "MANTES-STATION",
+    "latitude": 48.7849021663,
+    "longitude": 2.23713270497,
+    "nb_valid": 7842
+  },
+  {
+    "name": "MARAICHERS",
+    "latitude": 48.6981969763,
+    "longitude": 2.13656671706,
+    "nb_valid": 60379
+  },
+  {
+    "name": "MARCADET-POISSONNIERS",
+    "latitude": 48.9554374261,
+    "longitude": 2.30787256835,
+    "nb_valid": 50729
+  },
+  {
+    "name": "MARCEL SEMBAT",
+    "latitude": 48.9150967438,
+    "longitude": 1.50534780686,
+    "nb_valid": 160731
+  },
+  {
+    "name": "MAREIL-MARLY",
+    "latitude": 49.2852635241,
+    "longitude": 1.78506622348,
+    "nb_valid": 58
+  },
+  {
+    "name": "MAREIL-SUR-MAULDRE",
+    "latitude": 48.831129548,
+    "longitude": 2.34351165775,
+    "nb_valid": 390
+  },
+  {
+    "name": "MARLES-EN-BRIE",
+    "latitude": 48.8699575127,
+    "longitude": 2.37109483973,
+    "nb_valid": 3907
+  },
+  {
+    "name": "MARLY-LE-ROI",
+    "latitude": 49.023161999,
+    "longitude": 2.46216896477,
+    "nb_valid": 6513
+  },
+  {
+    "name": "MAROLLES-EN-HUREPOIX",
+    "latitude": 48.6484891117,
+    "longitude": 2.43533053155,
+    "nb_valid": 8349
+  },
+  {
+    "name": "MARX DORMOY",
+    "latitude": 48.8714977394,
+    "longitude": 2.34315477308,
+    "nb_valid": 88623
+  },
+  {
+    "name": "MASSY-PALAISEAU",
+    "latitude": 48.8714977394,
+    "longitude": 2.34315477308,
+    "nb_valid": 199214
+  },
+  {
+    "name": "MASSY-VERRIERES",
+    "latitude": 48.6857136264,
+    "longitude": 2.31762640497,
+    "nb_valid": 12724
+  },
+  {
+    "name": "MAUBERT-MUTUALITE",
+    "latitude": 48.7464523207,
+    "longitude": 2.72722937143,
+    "nb_valid": 43756
+  },
+  {
+    "name": "MAULE",
+    "latitude": 48.6539697593,
+    "longitude": 2.39617681244,
+    "nb_valid": 1499
+  },
+  {
+    "name": "MAURECOURT",
+    "latitude": 48.9960988426,
+    "longitude": 2.25965561906,
+    "nb_valid": 5151
+  },
+  {
+    "name": "MEAUX",
+    "latitude": 48.9843159621,
+    "longitude": 2.35340724587,
+    "nb_valid": 141144
+  },
+  {
+    "name": "MELUN",
+    "latitude": 48.8107753218,
+    "longitude": 2.9537303831,
+    "nb_valid": 159152
+  },
+  {
+    "name": "MENILMONTANT",
+    "latitude": 48.3745250134,
+    "longitude": 2.05991234764,
+    "nb_valid": 73318
+  },
+  {
+    "name": "MENNECY",
+    "latitude": 48.8928288534,
+    "longitude": 2.3274284585,
+    "nb_valid": 5410
+  },
+  {
+    "name": "MERIEL",
+    "latitude": 48.9482081285,
+    "longitude": 2.35746152626,
+    "nb_valid": 1546
+  },
+  {
+    "name": "MERY-VAL D'OISE",
+    "latitude": 48.8750293419,
+    "longitude": 2.32671784022,
+    "nb_valid": 4181
+  },
+  {
+    "name": "MEUDON",
+    "latitude": 48.8735133896,
+    "longitude": 2.32754308036,
+    "nb_valid": 6987
+  },
+  {
+    "name": "MEUDON-VAL-FLEURY",
+    "latitude": 48.8737134067,
+    "longitude": 2.32769540963,
+    "nb_valid": 18830
+  },
+  {
+    "name": "MEULAN-HARDRICOURT",
+    "latitude": 48.7399874304,
+    "longitude": 2.3594678211,
+    "nb_valid": 4491
+  },
+  {
+    "name": "MICHEL BIZOT",
+    "latitude": 48.8347500104,
+    "longitude": 2.27124150094,
+    "nb_valid": 38533
+  },
+  {
+    "name": "MICHEL-ANGE-AUTEUIL",
+    "latitude": 48.9902899964,
+    "longitude": 2.16190660559,
+    "nb_valid": 38004
+  },
+  {
+    "name": "MICHEL-ANGE-MOLITOR",
+    "latitude": 48.4428820633,
+    "longitude": 2.76092673374,
+    "nb_valid": 36087
+  },
+  {
+    "name": "MIRABEAU",
+    "latitude": 48.8912285932,
+    "longitude": 2.40235214254,
+    "nb_valid": 27908
+  },
+  {
+    "name": "MIROMESNIL",
+    "latitude": 48.8962264947,
+    "longitude": 2.31880232726,
+    "nb_valid": 143523
+  },
+  {
+    "name": "MITRY-CLAYE",
+    "latitude": 48.9158378929,
+    "longitude": 2.42500989427,
+    "nb_valid": 26243
+  },
+  {
+    "name": "MONCEAU",
+    "latitude": 48.7867161822,
+    "longitude": 2.25450215204,
+    "nb_valid": 38839
+  },
+  {
+    "name": "MONNERVILLE",
+    "latitude": 48.9335864037,
+    "longitude": 2.37108317162,
+    "nb_valid": 201
+  },
+  {
+    "name": "MONTEREAU",
+    "latitude": 48.8794703691,
+    "longitude": 2.40122176128,
+    "nb_valid": 15207
+  },
+  {
+    "name": "MONTFORT-L'AMAURY-MERE",
+    "latitude": 48.8574779825,
+    "longitude": 2.35157756299,
+    "nb_valid": 5084
+  },
+  {
+    "name": "MONTGALLET",
+    "latitude": 48.8574518326,
+    "longitude": 2.35100846139,
+    "nb_valid": 48795
+  },
+  {
+    "name": "MONTGERON-CROSNE",
+    "latitude": 48.9065365591,
+    "longitude": 2.44399233455,
+    "nb_valid": 38238
+  },
+  {
+    "name": "MONTGEROULT-COURCELLES",
+    "latitude": 48.9274028908,
+    "longitude": 2.39247111933,
+    "nb_valid": 162
+  },
+  {
+    "name": "MONTIGNY-BEAUCHAMP",
+    "latitude": 48.7960253678,
+    "longitude": 1.60270169299,
+    "nb_valid": 44504
+  },
+  {
+    "name": "MONTIGNY-SUR-LOING",
+    "latitude": 48.9203793748,
+    "longitude": 2.18535337629,
+    "nb_valid": 2048
+  },
+  {
+    "name": "MONTPARNASSE",
+    "latitude": 48.9203793748,
+    "longitude": 2.18535337629,
+    "nb_valid": 948104
+  },
+  {
+    "name": "MONTREUIL",
+    "latitude": 48.9203793748,
+    "longitude": 2.18535337629,
+    "nb_valid": 20724
+  },
+  {
+    "name": "MONTRY-CONDE",
+    "latitude": 48.8647940658,
+    "longitude": 2.29416201811,
+    "nb_valid": 109
+  },
+  {
+    "name": "MONTSOULT-MAFFLIERS",
+    "latitude": 48.7401815211,
+    "longitude": 2.23096112506,
+    "nb_valid": 19160
+  },
+  {
+    "name": "MORET-VENEUX-LES-SABLONS",
+    "latitude": 48.7814043209,
+    "longitude": 2.20912922729,
+    "nb_valid": 7196
+  },
+  {
+    "name": "MORMANT",
+    "latitude": 48.8623647041,
+    "longitude": 2.31390957779,
+    "nb_valid": 2560
+  },
+  {
+    "name": "MORTCERF",
+    "latitude": 48.8623253291,
+    "longitude": 2.31513843219,
+    "nb_valid": 753
+  },
+  {
+    "name": "MOULIN-GALANT",
+    "latitude": 48.8629018918,
+    "longitude": 2.31391107854,
+    "nb_valid": 6065
+  },
+  {
+    "name": "MOUROUX",
+    "latitude": 48.9984153932,
+    "longitude": 3.00795305575,
+    "nb_valid": 639
+  },
+  {
+    "name": "MOUTON-DUVERNET",
+    "latitude": 48.9792922476,
+    "longitude": 1.78397340775,
+    "nb_valid": 35889
+  },
+  {
+    "name": "MUSEE D'ORSAY",
+    "latitude": 48.8196744882,
+    "longitude": 2.25875976703,
+    "nb_valid": 16994
+  },
+  {
+    "name": "NANGIS",
+    "latitude": 48.8298901578,
+    "longitude": 2.2631785657,
+    "nb_valid": 7659
+  },
+  {
+    "name": "NANTERRE-PREFECTURE",
+    "latitude": 48.8301196393,
+    "longitude": 2.26368964874,
+    "nb_valid": 202948
+  },
+  {
+    "name": "NANTERRE-UNIVERSITE",
+    "latitude": 48.813989052,
+    "longitude": 2.39168697166,
+    "nb_valid": 67578
+  },
+  {
+    "name": "NANTERRE-VILLE",
+    "latitude": 48.9108025897,
+    "longitude": 2.23398860143,
+    "nb_valid": 108107
+  },
+  {
+    "name": "NANTEUIL-SAACY",
+    "latitude": 48.87080998,
+    "longitude": 2.36102746692,
+    "nb_valid": 5859
+  },
+  {
+    "name": "NATION",
+    "latitude": 48.9708834042,
+    "longitude": 2.36600388911,
+    "nb_valid": 386106
+  },
+  {
+    "name": "NATIONALE",
+    "latitude": 48.8247670255,
+    "longitude": 2.26053991367,
+    "nb_valid": 99709
+  },
+  {
+    "name": "NEMOURS-SAINT-PIERRE",
+    "latitude": 48.8525040906,
+    "longitude": 2.26817674944,
+    "nb_valid": 12373
+  },
+  {
+    "name": "NEUILLY-PLAISANCE",
+    "latitude": 48.8831474514,
+    "longitude": 2.37100144075,
+    "nb_valid": 176584
+  },
+  {
+    "name": "NEUVILLE UNIVERSITE",
+    "latitude": 48.8814985959,
+    "longitude": 2.37026212666,
+    "nb_valid": 29386
+  },
+  {
+    "name": "NEZEL-AULNAY",
+    "latitude": 48.8824652456,
+    "longitude": 2.37015796174,
+    "nb_valid": 392
+  },
+  {
+    "name": "NOGENT-LE-PERREUX",
+    "latitude": 48.8461236669,
+    "longitude": 2.27771173983,
+    "nb_valid": 40179
+  },
+  {
+    "name": "NOGENT-SUR-MARNE",
+    "latitude": 48.8461921405,
+    "longitude": 2.27676096738,
+    "nb_valid": 68382
+  },
+  {
+    "name": "NOINTEL-MOURS",
+    "latitude": 48.8247110179,
+    "longitude": 2.31882969127,
+    "nb_valid": 3902
+  },
+  {
+    "name": "NOISIEL",
+    "latitude": 48.9078125468,
+    "longitude": 2.45435282652,
+    "nb_valid": 76317
+  },
+  {
+    "name": "NOISY-CHAMPS",
+    "latitude": 48.9527263299,
+    "longitude": 2.34346127953,
+    "nb_valid": 162992
+  },
+  {
+    "name": "NOISY-LE-GRAND-MONT D'EST",
+    "latitude": 47.9734303157,
+    "longitude": 3.39286472634,
+    "nb_valid": 224151
+  },
+  {
+    "name": "NOISY-LE-ROI",
+    "latitude": 48.8210388151,
+    "longitude": 2.46385679536,
+    "nb_valid": 515
+  },
+  {
+    "name": "NOISY-LE-SEC",
+    "latitude": 48.955576348,
+    "longitude": 2.35832285615,
+    "nb_valid": 87791
+  },
+  {
+    "name": "NOTRE-DAME-DE-LORETTE",
+    "latitude": 48.875111817,
+    "longitude": 2.38941503204,
+    "nb_valid": 63407
+  },
+  {
+    "name": "NOTRE-DAME-DES-CHAMPS",
+    "latitude": 48.5104473928,
+    "longitude": 1.55777636925,
+    "nb_valid": 37725
+  },
+  {
+    "name": "OBERKAMPF",
+    "latitude": 48.764776013,
+    "longitude": 2.16394708588,
+    "nb_valid": 97473
+  },
+  {
+    "name": "ODEON",
+    "latitude": 48.8924395905,
+    "longitude": 2.34465700413,
+    "nb_valid": 72830
+  },
+  {
+    "name": "OLYMPIADES",
+    "latitude": 48.8459506666,
+    "longitude": 2.35505026306,
+    "nb_valid": 120180
+  },
+  {
+    "name": "OPERA",
+    "latitude": 48.8461511231,
+    "longitude": 2.3549179837,
+    "nb_valid": 233670
+  },
+  {
+    "name": "ORANGIS-BOIS DE L'EPINE",
+    "latitude": 48.6892154809,
+    "longitude": 2.38352086874,
+    "nb_valid": 24292
+  },
+  {
+    "name": "ORGERUS-BEHOUST",
+    "latitude": 48.6896979337,
+    "longitude": 2.38275720308,
+    "nb_valid": 2354
+  },
+  {
+    "name": "ORLY VILLE",
+    "latitude": 48.9922412813,
+    "longitude": 1.84513444487,
+    "nb_valid": 19217
+  },
+  {
+    "name": "ORSAY-VILLE",
+    "latitude": 48.8716497691,
+    "longitude": 2.29352429034,
+    "nb_valid": 38103
+  },
+  {
+    "name": "OSNY",
+    "latitude": 48.9357480421,
+    "longitude": 2.33910838701,
+    "nb_valid": 2850
+  },
+  {
+    "name": "OURCQ",
+    "latitude": 48.9219261433,
+    "longitude": 2.51644353517,
+    "nb_valid": 116632
+  },
+  {
+    "name": "OZOIR-LA-FERRIERE",
+    "latitude": 48.8680644232,
+    "longitude": 2.07671910268,
+    "nb_valid": 20908
+  },
+  {
+    "name": "PALAIS ROYAL-MUSEE DU LOUVRE",
+    "latitude": 49.1147839701,
+    "longitude": 2.21001986929,
+    "nb_valid": 125172
+  },
+  {
+    "name": "PALAISEAU",
+    "latitude": 48.7819866725,
+    "longitude": 2.18049375093,
+    "nb_valid": 28337
+  },
+  {
+    "name": "PALAISEAU-VILLEBON",
+    "latitude": 48.9663265448,
+    "longitude": 2.31658207116,
+    "nb_valid": 9182
+  },
+  {
+    "name": "PANTIN",
+    "latitude": 48.7567394335,
+    "longitude": 2.36836469863,
+    "nb_valid": 85014
+  },
+  {
+    "name": "PARC DES EXPOSITIONS",
+    "latitude": 49.126780942,
+    "longitude": 2.50614368925,
+    "nb_valid": 37254
+  },
+  {
+    "name": "PARC-DE-SCEAUX",
+    "latitude": 48.8427199544,
+    "longitude": 2.13812505878,
+    "nb_valid": 13881
+  },
+  {
+    "name": "PARMENTIER",
+    "latitude": 48.8843987952,
+    "longitude": 2.36049131853,
+    "nb_valid": 76536
+  },
+  {
+    "name": "PASSY",
+    "latitude": 48.9207859699,
+    "longitude": 2.41059861373,
+    "nb_valid": 88461
+  },
+  {
+    "name": "PASTEUR",
+    "latitude": 48.92078597,
+    "longitude": 2.41059861509,
+    "nb_valid": 54551
+  },
+  {
+    "name": "PELLEPORT",
+    "latitude": 48.9243538797,
+    "longitude": 2.38638829106,
+    "nb_valid": 9072
+  },
+  {
+    "name": "PERE LACHAISE",
+    "latitude": 48.7616936904,
+    "longitude": 2.30422734619,
+    "nb_valid": 118520
+  },
+  {
+    "name": "PEREIRE-LEVALLOIS",
+    "latitude": 48.8921870764,
+    "longitude": 2.2370180564,
+    "nb_valid": 91554
+  },
+  {
+    "name": "PERNETY",
+    "latitude": 48.8921870764,
+    "longitude": 2.2370180564,
+    "nb_valid": 62018
+  },
+  {
+    "name": "PERSAN-BEAUMONT",
+    "latitude": 48.8921870764,
+    "longitude": 2.2370180564,
+    "nb_valid": 40886
+  },
+  {
+    "name": "PETIT-JOUY-LES-LOGES",
+    "latitude": 48.8921870764,
+    "longitude": 2.2370180564,
+    "nb_valid": 1251
+  },
+  {
+    "name": "PETIT-VAUX",
+    "latitude": 48.8921233638,
+    "longitude": 2.23721353646,
+    "nb_valid": 2581
+  },
+  {
+    "name": "PHILIPPE AUGUSTE",
+    "latitude": 48.9096663654,
+    "longitude": 2.43748780358,
+    "nb_valid": 44646
+  },
+  {
+    "name": "PICPUS",
+    "latitude": 48.4849573772,
+    "longitude": 2.35185842142,
+    "nb_valid": 30450
+  },
+  {
+    "name": "PIERRE CURIE",
+    "latitude": 48.9508199876,
+    "longitude": 3.12490901802,
+    "nb_valid": 41312
+  },
+  {
+    "name": "PIERREFITTE T11",
+    "latitude": 48.8871839469,
+    "longitude": 2.32577967481,
+    "nb_valid": 4320
+  },
+  {
+    "name": "PIERREFITTE-STAINS",
+    "latitude": 48.9802635207,
+    "longitude": 2.18001238078,
+    "nb_valid": 69476
+  },
+  {
+    "name": "PIERRELAYE",
+    "latitude": 48.909632934,
+    "longitude": 2.23968411711,
+    "nb_valid": 6467
+  },
+  {
+    "name": "PIGALLE",
+    "latitude": 48.3787957608,
+    "longitude": 2.89720177648,
+    "nb_valid": 123834
+  },
+  {
+    "name": "PLACE D'ITALIE",
+    "latitude": 48.6952641221,
+    "longitude": 2.15164203862,
+    "nb_valid": 286137
+  },
+  {
+    "name": "PLACE DE CLICHY",
+    "latitude": 48.8487416657,
+    "longitude": 2.29893091175,
+    "nb_valid": 226447
+  },
+  {
+    "name": "PLACE DES FETES",
+    "latitude": 48.8493505536,
+    "longitude": 2.29830140173,
+    "nb_valid": 41667
+  },
+  {
+    "name": "PLACE MONGE (JARDIN DES PLANTES)",
+    "latitude": 48.8493505536,
+    "longitude": 2.29830140173,
+    "nb_valid": 59829
+  },
+  {
+    "name": "PLAISANCE",
+    "latitude": 48.8580460563,
+    "longitude": 2.27415463109,
+    "nb_valid": 150747
+  },
+  {
+    "name": "PLAISIR-GRIGNON",
+    "latitude": 48.5914608202,
+    "longitude": 2.26693797261,
+    "nb_valid": 27467
+  },
+  {
+    "name": "PLAISIR-LES-CLAYES",
+    "latitude": 48.9349758267,
+    "longitude": 2.32679331227,
+    "nb_valid": 7480
+  },
+  {
+    "name": "POISSONNIERE",
+    "latitude": 48.918113804,
+    "longitude": 2.36266560018,
+    "nb_valid": 91917
+  },
+  {
+    "name": "POISSY",
+    "latitude": 48.8930946286,
+    "longitude": 2.48791098763,
+    "nb_valid": 131758
+  },
+  {
+    "name": "PONT DE LEVALLOIS-BECON",
+    "latitude": 48.8577254129,
+    "longitude": 2.31056596095,
+    "nb_valid": 155533
+  },
+  {
+    "name": "PONT DE NEUILLY (AVENUE DE MADRID)",
+    "latitude": 48.7953838356,
+    "longitude": 2.51342329955,
+    "nb_valid": 108435
+  },
+  {
+    "name": "PONT DE RUNGIS",
+    "latitude": 48.7553892687,
+    "longitude": 1.94383520242,
+    "nb_valid": 4151
+  },
+  {
+    "name": "PONT DE SEVRES",
+    "latitude": 48.7553892687,
+    "longitude": 1.94383520242,
+    "nb_valid": 121527
+  },
+  {
+    "name": "PONT-CARDINET",
+    "latitude": 49.202693603,
+    "longitude": 1.92054770607,
+    "nb_valid": 43473
+  },
+  {
+    "name": "PONT-MARIE (CITE DES ARTS)",
+    "latitude": 48.4824105013,
+    "longitude": 1.52235765163,
+    "nb_valid": 39721
+  },
+  {
+    "name": "PONT-NEUF (LA MONNAIE)",
+    "latitude": 48.9558768749,
+    "longitude": 2.31152630869,
+    "nb_valid": 32028
+  },
+  {
+    "name": "PONT-PETIT",
+    "latitude": 48.8821891367,
+    "longitude": 2.7060141784,
+    "nb_valid": 946
+  },
+  {
+    "name": "PONTHIERRY-PRINGY",
+    "latitude": 48.8896740712,
+    "longitude": 2.3387606492,
+    "nb_valid": 2508
+  },
+  {
+    "name": "PONTOISE",
+    "latitude": 48.7831075504,
+    "longitude": 2.36715783332,
+    "nb_valid": 33956
+  },
+  {
+    "name": "PORCHEFONTAINE",
+    "latitude": 48.8082965868,
+    "longitude": 2.33435430694,
+    "nb_valid": 7540
+  },
+  {
+    "name": "PORT ROYAL",
+    "latitude": 48.5204035911,
+    "longitude": 2.25473970107,
+    "nb_valid": 89124
+  },
+  {
+    "name": "PORTE D'AUTEUIL",
+    "latitude": 47.961118247,
+    "longitude": 3.51433646502,
+    "nb_valid": 11441
+  },
+  {
+    "name": "PORTE D'ITALIE",
+    "latitude": 48.8852161821,
+    "longitude": 2.37966307748,
+    "nb_valid": 65376
+  },
+  {
+    "name": "PORTE D'IVRY",
+    "latitude": 48.9307395712,
+    "longitude": 2.42579142691,
+    "nb_valid": 52970
+  },
+  {
+    "name": "PORTE D'ORLEANS",
+    "latitude": 48.6233322411,
+    "longitude": 2.45140909559,
+    "nb_valid": 151216
+  },
+  {
+    "name": "PORTE DAUPHINE",
+    "latitude": 48.8771578388,
+    "longitude": 2.55288164979,
+    "nb_valid": 57453
+  },
+  {
+    "name": "PORTE DE BAGNOLET",
+    "latitude": 48.5661178207,
+    "longitude": 2.49271300424,
+    "nb_valid": 105350
+  },
+  {
+    "name": "PORTE DE CHAMPERRET",
+    "latitude": 48.7054039248,
+    "longitude": 2.19273488481,
+    "nb_valid": 100697
+  },
+  {
+    "name": "PORTE DE CHARENTON",
+    "latitude": 48.8101299573,
+    "longitude": 2.36226338713,
+    "nb_valid": 67939
+  },
+  {
+    "name": "PORTE DE CHOISY",
+    "latitude": 48.9318139969,
+    "longitude": 2.28865600596,
+    "nb_valid": 101254
+  },
+  {
+    "name": "PORTE DE CLICHY",
+    "latitude": 48.5387752566,
+    "longitude": 2.62552215507,
+    "nb_valid": 87292
+  },
+  {
+    "name": "PORTE DE CLIGNANCOURT",
+    "latitude": 48.8053776622,
+    "longitude": 2.48634974878,
+    "nb_valid": 154912
+  },
+  {
+    "name": "PORTE DE LA CHAPELLE",
+    "latitude": 48.8748743434,
+    "longitude": 2.34019988439,
+    "nb_valid": 66855
+  },
+  {
+    "name": "PORTE DE LA VILLETTE",
+    "latitude": 48.6930965921,
+    "longitude": 1.85659206527,
+    "nb_valid": 126926
+  },
+  {
+    "name": "PORTE DE MONTREUIL",
+    "latitude": 49.0961208107,
+    "longitude": 2.74468620744,
+    "nb_valid": 79484
+  },
+  {
+    "name": "PORTE DE PANTIN",
+    "latitude": 48.5738077927,
+    "longitude": 2.47946916961,
+    "nb_valid": 148078
+  },
+  {
+    "name": "PORTE DE SAINT-CLOUD",
+    "latitude": 48.8890765929,
+    "longitude": 2.51256682693,
+    "nb_valid": 103023
+  },
+  {
+    "name": "PORTE DE SAINT-OUEN",
+    "latitude": 48.9310542278,
+    "longitude": 2.26060231561,
+    "nb_valid": 102212
+  },
+  {
+    "name": "PORTE DE VANVES",
+    "latitude": 48.8564199914,
+    "longitude": 2.21657223779,
+    "nb_valid": 123591
+  },
+  {
+    "name": "PORTE DE VERSAILLES",
+    "latitude": 48.7889148967,
+    "longitude": 2.43207011795,
+    "nb_valid": 142049
+  },
+  {
+    "name": "PORTE DE VINCENNES",
+    "latitude": 48.8900862356,
+    "longitude": 2.13460087523,
+    "nb_valid": 242660
+  },
+  {
+    "name": "PORTE DES LILAS",
+    "latitude": 48.8979734463,
+    "longitude": 2.12211744747,
+    "nb_valid": 101275
+  },
+  {
+    "name": "PORTE DOREE",
+    "latitude": 48.9333553822,
+    "longitude": 2.29460298939,
+    "nb_valid": 73488
+  },
+  {
+    "name": "PORTE MAILLOT",
+    "latitude": 48.8512711264,
+    "longitude": 2.37611877334,
+    "nb_valid": 202739
+  },
+  {
+    "name": "PORTE-DE-CLICHY",
+    "latitude": 48.9085270178,
+    "longitude": 2.53228744219,
+    "nb_valid": 36374
+  },
+  {
+    "name": "PRE SAINT-GERVAIS",
+    "latitude": 48.9231037797,
+    "longitude": 2.28627957753,
+    "nb_valid": 11574
+  },
+  {
+    "name": "PRESLES-COURCELLES",
+    "latitude": 48.7825054355,
+    "longitude": 2.4095416551,
+    "nb_valid": 2857
+  },
+  {
+    "name": "PROVINS",
+    "latitude": 48.7396810434,
+    "longitude": 2.28766749545,
+    "nb_valid": 8513
+  },
+  {
+    "name": "PUTEAUX",
+    "latitude": 48.9517087836,
+    "longitude": 2.32021652167,
+    "nb_valid": 33827
+  },
+  {
+    "name": "PYRAMIDES",
+    "latitude": 48.8248485695,
+    "longitude": 2.51185555209,
+    "nb_valid": 102256
+  },
+  {
+    "name": "PYRENEES",
+    "latitude": 48.97749309,
+    "longitude": 2.37224292371,
+    "nb_valid": 58067
+  },
+  {
+    "name": "QUAI DE LA GARE",
+    "latitude": 48.9926138816,
+    "longitude": 1.95547924753,
+    "nb_valid": 93635
+  },
+  {
+    "name": "QUAI DE LA RAPEE",
+    "latitude": 48.8925047614,
+    "longitude": 2.49938845729,
+    "nb_valid": 30249
+  },
+  {
+    "name": "QUATRE SEPTEMBRE",
+    "latitude": 48.8574714089,
+    "longitude": 2.22060356003,
+    "nb_valid": 67581
+  },
+  {
+    "name": "RAMBOUILLET",
+    "latitude": 48.9302142123,
+    "longitude": 2.28372255733,
+    "nb_valid": 47642
+  },
+  {
+    "name": "RAMBUTEAU",
+    "latitude": 48.9307570033,
+    "longitude": 2.28417444828,
+    "nb_valid": 85866
+  },
+  {
+    "name": "RANELAGH",
+    "latitude": 48.9027680256,
+    "longitude": 2.23954203632,
+    "nb_valid": 49202
+  },
+  {
+    "name": "RASPAIL",
+    "latitude": 48.9766656914,
+    "longitude": 2.37741967331,
+    "nb_valid": 53992
+  },
+  {
+    "name": "REAUMUR-SEBASTOPOL",
+    "latitude": 48.8358634842,
+    "longitude": 2.35258892564,
+    "nb_valid": 145065
+  },
+  {
+    "name": "RENNES",
+    "latitude": 48.9208728035,
+    "longitude": 2.31383538247,
+    "nb_valid": 20997
+  },
+  {
+    "name": "REPUBLIQUE",
+    "latitude": 48.8623162787,
+    "longitude": 2.34567382822,
+    "nb_valid": 512301
+  },
+  {
+    "name": "REUILLY-DIDEROT",
+    "latitude": 48.9785246243,
+    "longitude": 2.38504919201,
+    "nb_valid": 164834
+  },
+  {
+    "name": "RICHARD LENOIR",
+    "latitude": 48.8498504878,
+    "longitude": 2.22123268327,
+    "nb_valid": 44216
+  },
+  {
+    "name": "RICHELIEU-DROUOT",
+    "latitude": 48.9499377357,
+    "longitude": 2.32883217135,
+    "nb_valid": 107781
+  },
+  {
+    "name": "RIQUET",
+    "latitude": 48.8215175225,
+    "longitude": 2.25133615621,
+    "nb_valid": 49431
+  },
+  {
+    "name": "RIS-ORANGIS",
+    "latitude": 48.9925919556,
+    "longitude": 1.91353050671,
+    "nb_valid": 8361
+  },
+  {
+    "name": "ROBESPIERRE",
+    "latitude": 49.0331827681,
+    "longitude": 2.47803336649,
+    "nb_valid": 119111
+  },
+  {
+    "name": "ROBINSON",
+    "latitude": 48.9024441906,
+    "longitude": 2.51169930327,
+    "nb_valid": 57955
+  },
+  {
+    "name": "ROISSY-EN-BRIE",
+    "latitude": 48.8811915206,
+    "longitude": 2.27168672105,
+    "nb_valid": 37551
+  },
+  {
+    "name": "ROME",
+    "latitude": 48.7450721669,
+    "longitude": 2.4175209779,
+    "nb_valid": 60325
+  },
+  {
+    "name": "ROSA PARKS",
+    "latitude": 48.9136368639,
+    "longitude": 2.25732601832,
+    "nb_valid": 167945
+  },
+  {
+    "name": "ROSNY-BOIS-PERRIER",
+    "latitude": 48.8231518558,
+    "longitude": 2.57983725527,
+    "nb_valid": 74768
+  },
+  {
+    "name": "ROSNY-SOUS-BOIS",
+    "latitude": 48.7219159611,
+    "longitude": 1.8900045637,
+    "nb_valid": 55816
+  },
+  {
+    "name": "ROSNY-SUR-SEINE",
+    "latitude": 49.2208070506,
+    "longitude": 1.90529906189,
+    "nb_valid": 1765
+  },
+  {
+    "name": "ROUGEMONT-CHANTELOUP",
+    "latitude": 48.9069318321,
+    "longitude": 2.43862449586,
+    "nb_valid": 4107
+  },
+  {
+    "name": "RUE DE LA POMPE (AVENUE GEORGES MANDEL)",
+    "latitude": 48.8260549965,
+    "longitude": 2.40674222593,
+    "nb_valid": 74757
+  },
+  {
+    "name": "RUE DES BOULETS",
+    "latitude": 48.8796347607,
+    "longitude": 2.32702220089,
+    "nb_valid": 56082
+  },
+  {
+    "name": "RUE DU BAC",
+    "latitude": 48.6283755508,
+    "longitude": 2.56958354824,
+    "nb_valid": 37294
+  },
+  {
+    "name": "RUEIL-MALMAISON",
+    "latitude": 48.9841727553,
+    "longitude": 1.74778618291,
+    "nb_valid": 136231
+  },
+  {
+    "name": "SAINT-AMBROISE",
+    "latitude": 48.5102651762,
+    "longitude": 2.67897398269,
+    "nb_valid": 61007
+  },
+  {
+    "name": "SAINT-AUGUSTIN",
+    "latitude": 49.0217572686,
+    "longitude": 3.03175844447,
+    "nb_valid": 49440
+  },
+  {
+    "name": "SAINT-CHERON",
+    "latitude": 48.8392193,
+    "longitude": 2.63321091342,
+    "nb_valid": 3304
+  },
+  {
+    "name": "SAINT-CLOUD",
+    "latitude": 48.7022393869,
+    "longitude": 2.29455774921,
+    "nb_valid": 72349
+  },
+  {
+    "name": "SAINT-CYR",
+    "latitude": 48.513754591,
+    "longitude": 3.25003498258,
+    "nb_valid": 36710
+  },
+  {
+    "name": "SAINT-DENIS",
+    "latitude": 48.8812858119,
+    "longitude": 2.36554431917,
+    "nb_valid": 362127
+  },
+  {
+    "name": "SAINT-DENIS-PORTE DE PARIS",
+    "latitude": 48.8814047322,
+    "longitude": 2.36521878185,
+    "nb_valid": 110438
+  },
+  {
+    "name": "SAINT-DENIS-UNIVERSITE",
+    "latitude": 48.8887060198,
+    "longitude": 2.28808363305,
+    "nb_valid": 138893
+  },
+  {
+    "name": "SAINT-FARGEAU",
+    "latitude": 48.8389609394,
+    "longitude": 2.28270002724,
+    "nb_valid": 14958
+  },
+  {
+    "name": "SAINT-FRANCOIS-XAVIER",
+    "latitude": 48.8612145286,
+    "longitude": 2.12319109459,
+    "nb_valid": 41831
+  },
+  {
+    "name": "SAINT-GEORGES",
+    "latitude": 48.780087152,
+    "longitude": 2.19650581249,
+    "nb_valid": 22714
+  },
+  {
+    "name": "SAINT-GERMAIN-BEL-AIR-FOURQUEUX",
+    "latitude": 48.8608062913,
+    "longitude": 2.34110859163,
+    "nb_valid": 922
+  },
+  {
+    "name": "SAINT-GERMAIN-DES-PRES",
+    "latitude": 49.0493256018,
+    "longitude": 2.50175806584,
+    "nb_valid": 97047
+  },
+  {
+    "name": "SAINT-GERMAIN-EN-LAYE",
+    "latitude": 48.7059689848,
+    "longitude": 2.21226237802,
+    "nb_valid": 134775
+  },
+  {
+    "name": "SAINT-GERMAIN-GRANDE-CEINTURE",
+    "latitude": 48.8457430732,
+    "longitude": 2.33992799972,
+    "nb_valid": 39
+  },
+  {
+    "name": "SAINT-GRATIEN",
+    "latitude": 49.1171321315,
+    "longitude": 2.42010703417,
+    "nb_valid": 19356
+  },
+  {
+    "name": "SAINT-JACQUES",
+    "latitude": 48.9160965041,
+    "longitude": 2.51506144619,
+    "nb_valid": 34748
+  },
+  {
+    "name": "SAINT-LAZARE",
+    "latitude": 48.8530167679,
+    "longitude": 2.33550205309,
+    "nb_valid": 955451
+  },
+  {
+    "name": "SAINT-LEU-LA-FORET",
+    "latitude": 48.8700997328,
+    "longitude": 2.32516410954,
+    "nb_valid": 12310
+  },
+  {
+    "name": "SAINT-MAMMES",
+    "latitude": 48.8706670209,
+    "longitude": 2.32575263529,
+    "nb_valid": 1932
+  },
+  {
+    "name": "SAINT-MANDE-TOURELLE",
+    "latitude": 48.869633173,
+    "longitude": 2.32627227403,
+    "nb_valid": 96585
+  },
+  {
+    "name": "SAINT-MARCEL",
+    "latitude": 48.8809135284,
+    "longitude": 2.35883323697,
+    "nb_valid": 68569
+  },
+  {
+    "name": "SAINT-MARTIN-D'ETAMPES",
+    "latitude": 48.7836872152,
+    "longitude": 2.24697764916,
+    "nb_valid": 4187
+  },
+  {
+    "name": "SAINT-MAUR",
+    "latitude": 48.5852787101,
+    "longitude": 1.5924579153,
+    "nb_valid": 56423
+  },
+  {
+    "name": "SAINT-MAUR-CRETEIL",
+    "latitude": 48.8241050307,
+    "longitude": 2.27304152514,
+    "nb_valid": 70989
+  },
+  {
+    "name": "SAINT-MICHEL",
+    "latitude": 48.8110991977,
+    "longitude": 2.38355147965,
+    "nb_valid": 76323
+  },
+  {
+    "name": "SAINT-MICHEL NOTRE DAME",
+    "latitude": 48.9033300946,
+    "longitude": 2.30592414987,
+    "nb_valid": 118891
+  },
+  {
+    "name": "SAINT-MICHEL-SUR-ORGE",
+    "latitude": 48.8619369141,
+    "longitude": 2.44131094125,
+    "nb_valid": 17851
+  },
+  {
+    "name": "SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY",
+    "latitude": 48.8186764099,
+    "longitude": 2.3197403133,
+    "nb_valid": 956
+  },
+  {
+    "name": "SAINT-OUEN",
+    "latitude": 48.9635179464,
+    "longitude": 2.36025075865,
+    "nb_valid": 36229
+  },
+  {
+    "name": "SAINT-OUEN-L'AUMONE",
+    "latitude": 48.9119648979,
+    "longitude": 2.33392489048,
+    "nb_valid": 18114
+  },
+  {
+    "name": "SAINT-OUEN-L'AUMONE-LIESSE",
+    "latitude": 48.7804547115,
+    "longitude": 2.19140991927,
+    "nb_valid": 12866
+  },
+  {
+    "name": "SAINT-OUEN-L'AUMONE-QUARTIER DE L'EGLISE",
+    "latitude": 48.9356057093,
+    "longitude": 2.33433291316,
+    "nb_valid": 3991
+  },
+  {
+    "name": "SAINT-PAUL (LE MARAIS)",
+    "latitude": 48.879761254,
+    "longitude": 2.41647964367,
+    "nb_valid": 122039
+  },
+  {
+    "name": "SAINT-PHILIPPE-DU-ROULE",
+    "latitude": 48.8224378346,
+    "longitude": 2.35847388385,
+    "nb_valid": 64353
+  },
+  {
+    "name": "SAINT-PLACIDE",
+    "latitude": 48.8020493803,
+    "longitude": 2.42648240848,
+    "nb_valid": 59134
+  },
+  {
+    "name": "SAINT-QUENTIN-EN-YVELINES",
+    "latitude": 48.8026376907,
+    "longitude": 2.44692748424,
+    "nb_valid": 159075
+  },
+  {
+    "name": "SAINT-REMY-LES-CHEVREUSE",
+    "latitude": 48.8091443609,
+    "longitude": 2.43450989593,
+    "nb_valid": 13252
+  },
+  {
+    "name": "SAINT-SEBASTIEN FROISSART",
+    "latitude": 48.9457959345,
+    "longitude": 2.1445587568,
+    "nb_valid": 23079
+  },
+  {
+    "name": "SAINT-SULPICE",
+    "latitude": 48.9457959345,
+    "longitude": 2.1445587568,
+    "nb_valid": 35373
+  },
+  {
+    "name": "SAINTE-COLOMBE-SEPTVEILLES",
+    "latitude": 48.3936415495,
+    "longitude": 2.39341072405,
+    "nb_valid": 906
+  },
+  {
+    "name": "SAINTE-GENEVIEVE-DES-BOIS",
+    "latitude": 48.8225837068,
+    "longitude": 2.29846419197,
+    "nb_valid": 40742
+  },
+  {
+    "name": "SANNOIS",
+    "latitude": 48.8153075312,
+    "longitude": 2.29707779833,
+    "nb_valid": 43488
+  },
+  {
+    "name": "SANTEUIL-LE-PERCHAY",
+    "latitude": 48.8828919175,
+    "longitude": 2.30905226455,
+    "nb_valid": 217
+  },
+  {
+    "name": "SARCELLES-SAINT-BRICE",
+    "latitude": 48.2935917687,
+    "longitude": 2.40113389443,
+    "nb_valid": 30539
+  },
+  {
+    "name": "SARTROUVILLE",
+    "latitude": 48.9895025071,
+    "longitude": 1.70301613419,
+    "nb_valid": 137470
+  },
+  {
+    "name": "SAVIGNY-LE-TEMPLE-NANDY",
+    "latitude": 48.9895025071,
+    "longitude": 1.70301613419,
+    "nb_valid": 36228
+  },
+  {
+    "name": "SAVIGNY-SUR-ORGE",
+    "latitude": 48.9836545075,
+    "longitude": 1.71521098645,
+    "nb_valid": 80417
+  },
+  {
+    "name": "SCEAUX",
+    "latitude": 48.8527251193,
+    "longitude": 2.40608916188,
+    "nb_valid": 17235
+  },
+  {
+    "name": "SEGUR",
+    "latitude": 48.8914168342,
+    "longitude": 2.34973840702,
+    "nb_valid": 27753
+  },
+  {
+    "name": "SENTIER",
+    "latitude": 48.8914650003,
+    "longitude": 2.34981545185,
+    "nb_valid": 85503
+  },
+  {
+    "name": "SERMAISE",
+    "latitude": 48.8337088491,
+    "longitude": 2.24384059238,
+    "nb_valid": 568
+  },
+  {
+    "name": "SEUGY",
+    "latitude": 48.9385977752,
+    "longitude": 2.35590281042,
+    "nb_valid": 113
+  },
+  {
+    "name": "SEVRAN-BEAUDOTTES",
+    "latitude": 48.9389501578,
+    "longitude": 2.35632186742,
+    "nb_valid": 127331
+  },
+  {
+    "name": "SEVRAN-LIVRY",
+    "latitude": 48.7684217766,
+    "longitude": 1.51333305235,
+    "nb_valid": 58446
+  },
+  {
+    "name": "SEVRES RIVE GAUCHE",
+    "latitude": 48.8809920835,
+    "longitude": 2.07917759196,
+    "nb_valid": 4861
+  },
+  {
+    "name": "SEVRES-BABYLONE",
+    "latitude": 48.8932385948,
+    "longitude": 1.87173847573,
+    "nb_valid": 89262
+  },
+  {
+    "name": "SEVRES-LECOURBE",
+    "latitude": 49.1354741446,
+    "longitude": 3.07562656432,
+    "nb_valid": 29903
+  },
+  {
+    "name": "SEVRES-VILLE-D'AVRAY",
+    "latitude": 48.8587040102,
+    "longitude": 2.40968568697,
+    "nb_valid": 19138
+  },
+  {
+    "name": "SIMPLON",
+    "latitude": 48.7349392965,
+    "longitude": 2.86895583008,
+    "nb_valid": 84657
+  },
+  {
+    "name": "SOLFERINO",
+    "latitude": 48.8715031037,
+    "longitude": 2.09654825276,
+    "nb_valid": 40962
+  },
+  {
+    "name": "SOUPPES",
+    "latitude": 48.5655938628,
+    "longitude": 2.29092446985,
+    "nb_valid": 5338
+  },
+  {
+    "name": "STADE DE FRANCE-SAINT-DENIS",
+    "latitude": 48.8904854538,
+    "longitude": 2.35999576641,
+    "nb_valid": 106328
+  },
+  {
+    "name": "STAINS CERISAIE",
+    "latitude": 48.8243285035,
+    "longitude": 2.37758429146,
+    "nb_valid": 13428
+  },
+  {
+    "name": "STALINGRAD",
+    "latitude": 48.725197641,
+    "longitude": 2.25735518815,
+    "nb_valid": 199867
+  },
+  {
+    "name": "STRASBOURG-SAINT-DENIS",
+    "latitude": 48.7243094192,
+    "longitude": 2.25896643431,
+    "nb_valid": 205808
+  },
+  {
+    "name": "SUCY-BONNEUIL",
+    "latitude": 48.7347165868,
+    "longitude": 2.2734834644,
+    "nb_valid": 76427
+  },
+  {
+    "name": "SULLY-MORLAND",
+    "latitude": 48.7347165868,
+    "longitude": 2.2734834644,
+    "nb_valid": 32454
+  },
+  {
+    "name": "SURESNES-MONT VALERIEN",
+    "latitude": 48.8501273238,
+    "longitude": 2.34805429048,
+    "nb_valid": 33241
+  },
+  {
+    "name": "SURVILLIERS-FOSSES",
+    "latitude": 48.909305376,
+    "longitude": 1.85722753849,
+    "nb_valid": 28769
+  },
+  {
+    "name": "TACOIGNIERES-RICHEBOURG",
+    "latitude": 48.9870565461,
+    "longitude": 2.05978782668,
+    "nb_valid": 1046
+  },
+  {
+    "name": "TAVERNY",
+    "latitude": 48.9084168864,
+    "longitude": 2.53917333094,
+    "nb_valid": 7072
+  },
+  {
+    "name": "TELEGRAPHE",
+    "latitude": 48.9191790277,
+    "longitude": 2.41383718232,
+    "nb_valid": 66845
+  },
+  {
+    "name": "TEMPLE",
+    "latitude": 48.9572688678,
+    "longitude": 2.87344818875,
+    "nb_valid": 22332
+  },
+  {
+    "name": "TERNES",
+    "latitude": 48.5272433206,
+    "longitude": 2.65499028486,
+    "nb_valid": 111345
+  },
+  {
+    "name": "THIEUX-NANTOUILLET",
+    "latitude": 48.5272433206,
+    "longitude": 2.65499028486,
+    "nb_valid": 139
+  },
+  {
+    "name": "THOMERY",
+    "latitude": 48.8668000351,
+    "longitude": 2.38338325046,
+    "nb_valid": 556
+  },
+  {
+    "name": "THUN-LE-PARADIS",
+    "latitude": 48.5705968587,
+    "longitude": 2.43209853366,
+    "nb_valid": 2020
+  },
+  {
+    "name": "TOLBIAC",
+    "latitude": 49.0776990428,
+    "longitude": 2.20544672552,
+    "nb_valid": 83203
+  },
+  {
+    "name": "TORCY",
+    "latitude": 49.0580478127,
+    "longitude": 2.19124475918,
+    "nb_valid": 150321
+  },
+  {
+    "name": "Total général",
+    "latitude": 49.014133685,
+    "longitude": 2.07830659141,
+    "nb_valid": 51982487
+  },
+  {
+    "name": "TOURNAN",
+    "latitude": 48.8148843142,
+    "longitude": 2.24091929487,
+    "nb_valid": 14087
+  },
+  {
+    "name": "TRAPPES",
+    "latitude": 48.7835393328,
+    "longitude": 2.22528029528,
+    "nb_valid": 36327
+  },
+  {
+    "name": "TRIEL-SUR-SEINE",
+    "latitude": 48.8191743291,
+    "longitude": 2.23859833779,
+    "nb_valid": 5701
+  },
+  {
+    "name": "TRILPORT",
+    "latitude": 48.8074926258,
+    "longitude": 2.24088306797,
+    "nb_valid": 6758
+  },
+  {
+    "name": "TRINITE-D'ESTIENNE D'ORVES",
+    "latitude": 49.0057625368,
+    "longitude": 1.90178197858,
+    "nb_valid": 37664
+  },
+  {
+    "name": "TROCADERO",
+    "latitude": 48.837117007,
+    "longitude": 2.40233316592,
+    "nb_valid": 145884
+  },
+  {
+    "name": "TUILERIES",
+    "latitude": 48.8479348079,
+    "longitude": 2.26421877705,
+    "nb_valid": 30885
+  },
+  {
+    "name": "US",
+    "latitude": 48.8478956502,
+    "longitude": 2.26408203075,
+    "nb_valid": 435
+  },
+  {
+    "name": "VAIRES-TORCY",
+    "latitude": 48.8452475655,
+    "longitude": 2.2616234924,
+    "nb_valid": 22351
+  },
+  {
+    "name": "VAL-D'ARGENTEUIL",
+    "latitude": 48.8450581723,
+    "longitude": 2.26174512496,
+    "nb_valid": 66802
+  },
+  {
+    "name": "VAL-D'EUROPE",
+    "latitude": 48.8471310082,
+    "longitude": 2.27276375332,
+    "nb_valid": 141500
+  },
+  {
+    "name": "VAL-DE-FONTENAY",
+    "latitude": 48.8737699887,
+    "longitude": 2.31445603619,
+    "nb_valid": 199941
+  },
+  {
+    "name": "VALMONDOIS",
+    "latitude": 48.8737095277,
+    "longitude": 2.31460632162,
+    "nb_valid": 3627
+  },
+  {
+    "name": "VANEAU",
+    "latitude": 48.9758587558,
+    "longitude": 2.64240630503,
+    "nb_valid": 20202
+  },
+  {
+    "name": "VANVES-MALAKOFF",
+    "latitude": 48.9758587558,
+    "longitude": 2.64240630503,
+    "nb_valid": 13815
+  },
+  {
+    "name": "VARENNE",
+    "latitude": 48.8804494561,
+    "longitude": 2.30945116799,
+    "nb_valid": 28516
+  },
+  {
+    "name": "VAUBOYEN",
+    "latitude": 48.3484160142,
+    "longitude": 2.03223977339,
+    "nb_valid": 876
+  },
+  {
+    "name": "VAUCELLES",
+    "latitude": 48.0070317015,
+    "longitude": 2.74303831268,
+    "nb_valid": 3749
+  },
+  {
+    "name": "VAUCRESSON",
+    "latitude": 48.8398410732,
+    "longitude": 2.4088668504,
+    "nb_valid": 3926
+  },
+  {
+    "name": "VAUGIRARD (ADOLPHE CHERIOU)",
+    "latitude": 48.3795261033,
+    "longitude": 2.9425234154,
+    "nb_valid": 65989
+  },
+  {
+    "name": "VAUX-SUR-SEINE",
+    "latitude": 48.80260198,
+    "longitude": 1.81646679422,
+    "nb_valid": 2692
+  },
+  {
+    "name": "VAVIN",
+    "latitude": 48.8444086721,
+    "longitude": 2.39007511282,
+    "nb_valid": 33808
+  },
+  {
+    "name": "VERNEUIL-L'ETANG",
+    "latitude": 48.7082378286,
+    "longitude": 2.46228224605,
+    "nb_valid": 4196
+  },
+  {
+    "name": "VERNOU-SUR-SEINE",
+    "latitude": 49.0804937079,
+    "longitude": 2.00371537163,
+    "nb_valid": 235
+  },
+  {
+    "name": "VERNOUILLET-VERNEUIL",
+    "latitude": 49.0074232971,
+    "longitude": 2.19761981397,
+    "nb_valid": 30580
+  },
+  {
+    "name": "VERSAILLES CHATEAU",
+    "latitude": 49.0074232971,
+    "longitude": 2.19761981397,
+    "nb_valid": 30864
+  },
+  {
+    "name": "VERSAILLES RIVE DROITE",
+    "latitude": 48.3364817806,
+    "longitude": 2.73800161988,
+    "nb_valid": 49753
+  },
+  {
+    "name": "VERSAILLES-CHANTIERS",
+    "latitude": 48.8437354893,
+    "longitude": 2.32435304116,
+    "nb_valid": 149261
+  },
+  {
+    "name": "VERT-GALANT",
+    "latitude": 48.8423274377,
+    "longitude": 2.32098483563,
+    "nb_valid": 84665
+  },
+  {
+    "name": "VIARMES",
+    "latitude": 48.8411869211,
+    "longitude": 2.32050922753,
+    "nb_valid": 855
+  },
+  {
+    "name": "VICTOR HUGO",
+    "latitude": 48.8437813048,
+    "longitude": 2.3243970124,
+    "nb_valid": 95745
+  },
+  {
+    "name": "VIGNEUX-SUR-SEINE",
+    "latitude": 48.8421022072,
+    "longitude": 2.32127856274,
+    "nb_valid": 57959
+  },
+  {
+    "name": "VILLABE",
+    "latitude": 48.8063774473,
+    "longitude": 2.15150011876,
+    "nb_valid": 1204
+  },
+  {
+    "name": "VILLAINES",
+    "latitude": 48.8908567963,
+    "longitude": 2.8264054973,
+    "nb_valid": 86
+  },
+  {
+    "name": "VILLEJUIF-LEO LAGRANGE",
+    "latitude": 49.0662886977,
+    "longitude": 2.32292045583,
+    "nb_valid": 45842
+  },
+  {
+    "name": "VILLEJUIF-LOUIS ARAGON",
+    "latitude": 48.8215089174,
+    "longitude": 2.33333983286,
+    "nb_valid": 142235
+  },
+  {
+    "name": "VILLEJUIF-PAUL VAILLANT-COUTURIER",
+    "latitude": 48.3785977679,
+    "longitude": 2.79930742793,
+    "nb_valid": 51893
+  },
+  {
+    "name": "VILLENEUVE-LE-ROI",
+    "latitude": 48.6140152409,
+    "longitude": 2.88825289679,
+    "nb_valid": 16173
+  },
+  {
+    "name": "VILLENEUVE-SAINT-GEORGES",
+    "latitude": 48.7894966796,
+    "longitude": 2.90738727037,
+    "nb_valid": 197373
+  },
+  {
+    "name": "VILLENEUVE-TRIAGE",
+    "latitude": 48.7720742166,
+    "longitude": 2.36781500163,
+    "nb_valid": 9343
+  },
+  {
+    "name": "VILLENNES-SUR-SEINE",
+    "latitude": 48.5871539054,
+    "longitude": 2.47349036636,
+    "nb_valid": 3839
+  },
+  {
+    "name": "VILLEPARISIS-MITRY-LE-NEUF",
+    "latitude": 48.8137984821,
+    "longitude": 3.04293826468,
+    "nb_valid": 26104
+  },
+  {
+    "name": "VILLEPINTE",
+    "latitude": 48.8311126604,
+    "longitude": 2.32970501262,
+    "nb_valid": 36753
+  },
+  {
+    "name": "VILLEPREUX-LES-CLAYES",
+    "latitude": 48.8607082299,
+    "longitude": 2.32562029875,
+    "nb_valid": 15606
+  },
+  {
+    "name": "VILLETANEUSE UN",
+    "latitude": 48.8290105028,
+    "longitude": 2.22531285328,
+    "nb_valid": 15505
+  },
+  {
+    "name": "VILLIERS",
+    "latitude": 48.5621248332,
+    "longitude": 3.01176932905,
+    "nb_valid": 89527
+  },
+  {
+    "name": "VILLIERS-LE-BEL-GONESSE-ARNOUVILLE",
+    "latitude": 48.8957453121,
+    "longitude": 2.22321296703,
+    "nb_valid": 118053
+  },
+  {
+    "name": "VILLIERS-MONTBARBIN",
+    "latitude": 48.9017458864,
+    "longitude": 2.21511051038,
+    "nb_valid": 257
+  },
+  {
+    "name": "VILLIERS-NEAUPHLE PONTCHARTRAIN",
+    "latitude": 48.9015496743,
+    "longitude": 2.21523234727,
+    "nb_valid": 2648
+  },
+  {
+    "name": "VILLIERS-SUR-MARNE-PLESSIS-TREVISE",
+    "latitude": 48.8951258913,
+    "longitude": 2.19536398691,
+    "nb_valid": 78691
+  },
+  {
+    "name": "VINCENNES",
+    "latitude": 49.1428841983,
+    "longitude": 2.79445455011,
+    "nb_valid": 201681
+  },
+  {
+    "name": "VIROFLAY RIVE DROITE",
+    "latitude": 48.9740265796,
+    "longitude": 3.21930281555,
+    "nb_valid": 17632
+  },
+  {
+    "name": "VIROFLAY RIVE GAUCHE",
+    "latitude": 48.8473748787,
+    "longitude": 2.39546199483,
+    "nb_valid": 43966
+  },
+  {
+    "name": "VIRY-CHATILLON",
+    "latitude": 48.8475793675,
+    "longitude": 2.39555451217,
+    "nb_valid": 8502
+  },
+  {
+    "name": "VITRY-SUR-SEINE",
+    "latitude": 48.848474286,
+    "longitude": 2.39506230543,
+    "nb_valid": 55762
+  },
+  {
+    "name": "VOLONTAIRES",
+    "latitude": 48.8489446451,
+    "longitude": 2.39587943519,
+    "nb_valid": 41385
+  },
+  {
+    "name": "VOLTAIRE (LEON BLUM)",
+    "latitude": 48.8482371104,
+    "longitude": 2.39582358883,
+    "nb_valid": 108549
+  },
+  {
+    "name": "VOSVES",
+    "latitude": 48.8332167197,
+    "longitude": 2.36285639952,
+    "nb_valid": 70
+  },
+  {
+    "name": "VULAINES-SUR-SEINE-SAMOREAU",
+    "latitude": 48.2677581099,
+    "longitude": 2.68564708994,
+    "nb_valid": 265
+  },
+  {
+    "name": "WAGRAM",
+    "latitude": 48.853485713,
+    "longitude": 2.51382529103,
+    "nb_valid": 40857
+  },
+  {
+    "name": "YERRES",
+    "latitude": 49.014133685,
+    "longitude": 2.07830659141,
+    "nb_valid": 40063
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "federation": "equitation_dressage",
+    "agriculteur": 0.057584269662921,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.148876404494382,
+    "employes": 0.193820224719101,
+    "ouvrier": 0.122191011235955,
+    "retraite": 0.168539325842697,
+    "non_actif": 0.165730337078652
+  },
+  {
+    "federation": "equitation_concours_complet",
+    "agriculteur": 0.057584269662921,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.148876404494382,
+    "employes": 0.193820224719101,
+    "ouvrier": 0.122191011235955,
+    "retraite": 0.168539325842697,
+    "non_actif": 0.165730337078652
+  },
+  {
+    "federation": "equitation_obstacle",
+    "agriculteur": 0.057584269662921,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.148876404494382,
+    "employes": 0.193820224719101,
+    "ouvrier": 0.122191011235955,
+    "retraite": 0.168539325842697,
+    "non_actif": 0.165730337078652
+  },
+  {
+    "federation": "escrime",
+    "agriculteur": 0.056277056277056,
+    "cadres_et_profession_intelectuelles_supérieur": 0.1800433839479393,
+    "profession_intermediaire": 0.1822125813449024,
+    "employes": 0.1995661605206074,
+    "ouvrier":0.0954446854663774,
+    "retraite":0.08676789587852498,
+    "non_actif": 0.193058568329718
+  },
+  {
+    "federation": "football",
+    "agriculteur": 0.053738317757009,
+    "cadres_et_profession_intelectuelles_supérieur": 0.168831168831169,
+    "profession_intermediaire": 0.108225108225108,
+    "employes": 0.207792207792208,
+    "ouvrier":0.069264069264069,
+    "retraite":0.168831168831169,
+    "non_actif": 0.220779220779221
+  },
+  {
+    "federation": "gymnastique_artistique",
+    "agriculteur": 0.039414414414414,
+    "cadres_et_profession_intelectuelles_supérieur": 0.137387387387387,
+    "profession_intermediaire": 0.177927927927928,
+    "employes": 0.202702702702703,
+    "ouvrier": 0.081081081081081,
+    "retraite": 0.164414414414414,
+    "non_actif": 0.195945945945946
+  },
+  {
+    "federation": "gymnastique_rythmique",
+    "agriculteur": 0.039414414414414,
+    "cadres_et_profession_intelectuelles_supérieur": 0.137387387387387,
+    "profession_intermediaire": 0.177927927927928,
+    "employes": 0.202702702702703,
+    "ouvrier": 0.081081081081081,
+    "retraite": 0.164414414414414,
+    "non_actif": 0.195945945945946
+  },
+  {
+    "federation": "halterophilie",
+    "agriculteur": 0.125138427464009,
+    "cadres_et_profession_intelectuelles_supérieur": 0.0985603543743079,
+    "profession_intermediaire": 0.1207087486157254,
+    "employes": 0.1904761904761905,
+    "ouvrier": 0.2635658914728682,
+    "retraite": 0.0509413067552602,
+    "non_actif": 0.150609080841639
+  },
+  {
+    "federation": "handball",
+    "agriculteur": 0.053738317757009,
+    "cadres_et_profession_intelectuelles_supérieur": 0.168831168831169,
+    "profession_intermediaire": 0.108225108225108,
+    "employes": 0.207792207792208,
+    "ouvrier":0.069264069264069,
+    "retraite":0.168831168831169,
+    "non_actif": 0.220779220779221
+  },
+  {
+    "federation": "judo",
+    "agriculteur": 0.1251384274640089,
+    "cadres_et_profession_intelectuelles_supérieur": 0.0985603543743079,
+    "profession_intermediaire": 0.1207087486157254,
+    "employes": 0.1904761904761905,
+    "ouvrier": 0.2635658914728682,
+    "retraite": 0.0509413067552602,
+    "non_actif": 0.150609080841639
+  },
+  {
+      "federation": "aviron",
+      "agriculteur": 0.0042679900744417,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1600496277915633,
+      "profession_intermediaire": 0.1823821339950372,
+      "employes": 0.2022332506203474,
+      "ouvrier": 0.0682382133995037,
+      "retraite": 0.1985111662531017,
+      "non_actif": 0.1650124069478908
+  },
+  {
+      "federation": "badminton",
+      "agriculteur": 0.0607375271149675,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1800433839479393,
+      "profession_intermediaire": 0.1822125813449024,
+      "employes": 0.1995661605206074,
+      "ouvrier":0.0954446854663774,
+      "retraite":0.08676789587852498,
+      "non_actif": 0.193058568329718
+  },
+  {
+      "federation": "basketball",
+      "agriculteur": 0.0090410402275498,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1635514018691589,
+      "profession_intermediaire": 0.1448598130841121,
+      "employes": 0.1799065420560748,
+      "ouvrier": 0.1588785046728972,
+      "retraite": 0.0280373831775701,
+      "non_actif": 0.2710280373831776
+  },
+  {
+      "federation": "boxe",
+      "agriculteur": 0.1251384274640089,
+      "cadres_et_profession_intelectuelles_supérieur": 0.0985603543743079,
+      "profession_intermediaire": 0.1207087486157254,
+      "employes": 0.1904761904761905,
+      "ouvrier": 0.2635658914728682,
+      "retraite": 0.0509413067552602,
+      "non_actif": 0.150609080841639
+  },
+  {
+      "federation": "canoe_kayak_sprint",
+      "agriculteur": 0.0027047146401985,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1600496277915633,
+      "profession_intermediaire": 0.1823821339950372,
+      "employes": 0.2022332506203474,
+      "ouvrier": 0.0682382133995037,
+      "retraite": 0.1985111662531017,
+      "non_actif":0.1650124069478908
+  },
+  {
+      "federation": "canoe_kayak_slalom",
+      "agriculteur": 0.0027047146401985,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1600496277915633,
+      "profession_intermediaire": 0.1823821339950372,
+      "employes": 0.2022332506203474,
+      "ouvrier": 0.0682382133995037,
+      "retraite": 0.1985111662531017,
+      "non_actif":0.1650124069478908
+  },
+  {
+      "federation": "cyclisme_sur_piste",
+      "agriculteur": 0.0575035063113604,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1430575035063114,
+      "profession_intermediaire": 0.1486676016830295,
+      "employes": 0.1935483870967742,
+      "ouvrier": 0.1220196353436185,
+      "retraite": 0.1683029453015428,
+      "non_actif": 0.1654978962131837
+  },
+  {
+      "federation": "VTT",
+      "agriculteur": 0.0575035063113604,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1430575035063114,
+      "profession_intermediaire": 0.1486676016830295,
+      "employes": 0.1935483870967742,
+      "ouvrier": 0.1220196353436185,
+      "retraite": 0.1683029453015428,
+      "non_actif": 0.1654978962131837
+  },
+  {
+      "federation": "cyclisme_sur_route",
+      "agriculteur": 0.0575035063113604,
+      "cadres_et_profession_intelectuelles_supérieur": 0.1430575035063114,
+      "profession_intermediaire": 0.1486676016830295,
+      "employes": 0.1935483870967742,
+      "ouvrier": 0.1220196353436185,
+      "retraite": 0.1683029453015428,
+      "non_actif": 0.1654978962131837
+  },
+  {
+    "federation":"tir_à_l_arc",
+    "agriculteur": 0.056277056277056,
+    "cadres_et_profession_intelectuelles_supérieur":  0.168831168831169,
+    "profession_intermediaire":  0.108225108225108,
+    "employes":  0.207792207792208,
+    "ouvrier":  0.069264069264069,
+    "retraite":  0.168831168831169,
+    "non_actif": 0.220779220779221
+  },
+  {
+    "federation":"triathlon",
+    "agriculteur": 0.059055118110236,
+    "cadres_et_profession_intelectuelles_supérieur":  0.165354330708661,
+    "profession_intermediaire":  0.110236220472441,
+    "employes":  0.228346456692913,
+    "ouvrier":  0.145669291338583,
+    "retraite":  0.039370078740157,
+    "non_actif": 0.251968503937008
+  },
+  {
+    "federation":"voile",
+    "agriculteur":0.062034739454094,
+    "cadres_et_profession_intelectuelles_supérieur":  0.160049627791563,
+    "profession_intermediaire":  0.182382133995037,
+    "employes":  0.202233250620347,
+    "ouvrier":  0.068238213399504,
+    "retraite":  0.161290322580645,
+    "non_actif": 0.165012406947891
+  },
+  {
+    "federation":"volleyball",
+    "agriculteur": 0.053738317757009,
+    "cadres_et_profession_intelectuelles_supérieur":  0.163551401869159,
+    "profession_intermediaire":  0.144859813084112,
+    "employes":  0.179906542056075,
+    "ouvrier":  0.158878504672897,
+    "retraite": 0.02803738317757,
+    "non_actif": 0.271028037383178
+  },
+  {
+    "federation":"beach_volley",
+    "agriculteur": 0.053738317757009,
+    "cadres_et_profession_intelectuelles_supérieur":  0.163551401869159,
+    "profession_intermediaire":  0.144859813084112,
+    "employes":  0.179906542056075,
+    "ouvrier":  0.158878504672897,
+    "retraite": 0.02803738317757,
+    "non_actif": 0.271028037383178
+  },
+  {
+    "federation":"golf",
+    "agriculteur":0.056277056277056,
+    "cadres_et_profession_intelectuelles_supérieur": 0.168831168831169,
+    "profession_intermediaire": 0.108225108225108,
+    "employes": 0.207792207792208,
+    "ouvrier":"0.06926406926406",
+    "retraite": 0.168831168831169,
+    "non_actif":0.220779220779221
+  },
+  {
+    "federation":"rugby",
+    "agriculteur":0.053738317757009,
+    "cadres_et_profession_intelectuelles_supérieur": 0.163551401869159,
+    "profession_intermediaire": 0.144859813084112,
+    "employes": 0.179906542056075,
+    "ouvrier": 0.158878504672897,
+    "retraite":0.02803738317757,
+    "non_actif":0.271028037383178
+  },
+  {
+    "federation":"karate",
+    "agriculteur":0.125138427464009,
+    "cadres_et_profession_intelectuelles_supérieur": 0.098560354374308,
+    "profession_intermediaire": 0.120708748615725,
+    "employes":0.19047619047619,
+    "ouvrier": 0.263565891472868,
+    "retraite":0.05094130675526,
+    "non_actif":0.150609080841639
+  },
+  {
+    "federation":"skate",
+    "agriculteur":0.05750350631136,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143057503506311,
+    "profession_intermediaire": 0.148667601683029,
+    "employes": 0.193548387096774,
+    "ouvrier": 0.122019635343619,
+    "retraite": 0.168302945301543,
+    "non_actif":0.165497896213184
+  },
+  {
+    "federation": "baseball",
+    "agriculteur": 0.066588785046729,
+    "cadres_et_profession_intelectuelles_supérieur": 0.081775700934579,
+    "profession_intermediaire": 0.12070874861,
+    "employes": 0.089953271028037,
+    "ouvrier": 0.079439252336449,
+    "retraite": 0.014018691588785,
+    "non_actif": 0.135514018691589
+  },
+  {
+    "federation": "lutte",
+    "agriculteur": 0.12513842746,
+    "cadres_et_profession_intelectuelles_supérieur":0.09856035437,
+    "profession_intermediaire": 0.148876404494382,
+    "employes": 0.19047619047,
+    "ouvrier": 0.26356589147,
+    "retraite": 0.05094130675,
+    "non_actif": 0.15060908084
+  },
+  {
+    "federation": "natation",
+    "agriculteur": 0.06203473945,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.18238213399,
+    "employes": 0.20223325062,
+    "ouvrier": 0.06823821339,
+    "retraite": 0.16129032258,
+    "non_actif": 0.16501240694
+  },
+  {
+    "federation": "natation_synchronise",
+    "agriculteur": 0.06203473945,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.18238213399,
+    "employes": 0.20223325062,
+    "ouvrier": 0.06823821339,
+    "retraite": 0.16129032258,
+    "non_actif": 0.16501240694
+  },
+  {
+    "federation": "water_polo",
+    "agriculteur": 0.06203473945,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.18238213399,
+    "employes": 0.20223325062,
+    "ouvrier": 0.06823821339,
+    "retraite": 0.16129032258,
+    "non_actif": 0.16501240694
+  },
+  {
+    "federation": "plongeon",
+    "agriculteur": 0.06203473945,
+    "cadres_et_profession_intelectuelles_supérieur": 0.143258426966292,
+    "profession_intermediaire": 0.12070874861,
+    "employes": 0.19047619047,
+    "ouvrier": 0.06823821339,
+    "retraite": 0.16129032258,
+    "non_actif": 0.16501240694
+  },
+  {
+    "federation": "pentathlon_moderne",
+    "agriculteur": 0.05905511811,
+    "cadres_et_profession_intelectuelles_supérieur": 0.09856035437,
+    "profession_intermediaire": 0.11023622047,
+    "employes": 0.22834645669,
+    "ouvrier": 0.14566929133,
+    "retraite": 0.03937007874,
+    "non_actif": 0.25196850393
+  },
+  {
+    "federation": "taekwondo",
+    "agriculteur": 0.12513842746,
+    "cadres_et_profession_intelectuelles_supérieur": 0.1653543307,
+    "profession_intermediaire": 0.11023622047,
+    "employes": 0.22834645669,
+    "ouvrier": 0.26356589147,
+    "retraite": 0.05094130675,
+    "non_actif": 0.15060908084
+  },
+  {
+    "federation": "tennis",
+    "agriculteur": 0.06073752711,
+    "cadres_et_profession_intelectuelles_supérieur": 0.18004338394,
+    "profession_intermediaire": 0.18004338394,
+    "employes": 0.19956616052,
+    "ouvrier": 0.09544468546,
+    "retraite": 0.08676789587,
+    "non_actif": 0.19305856833
+  },
+  {
+    "federation": "tennis_de_table",
+    "agriculteur": 0.06073752711,
+    "cadres_et_profession_intelectuelles_supérieur": 0.18004338394,
+    "profession_intermediaire": 0.18004338394,
+    "employes": 0.19956616052,
+    "ouvrier": 0.09544468546,
+    "retraite": 0.08676789587,
+    "non_actif": 0.19305856833
+  },
+  {
+    "federation": "tir",
+    "agriculteur": 0.05627705627,
+    "cadres_et_profession_intelectuelles_supérieur": 0.16883116883,
+    "profession_intermediaire": 0.10822510822,
+    "employes": 0.20779220779,
+    "ouvrier":0.06926406926,
+    "retraite":0.16883116883,
+    "non_actif": 0.220779220779221
+  },
+  {
+    "federation": "hockey_sur_gazon",
+    "agriculteur": 0.053738317757009,
+    "cadres_et_profession_intelectuelles_supérieur": 0.163551401869159,
+    "profession_intermediaire": 0.144859813084112,
+    "employes": 0.179906542056075,
+    "ouvrier": 0.158878504672897,
+    "retraite": 0.02803738317757,
+    "non_actif":0.271028037383178
+  },
+  {
+    "federation": "athletisme",
+    "agriculteur": 0.0355140186915888,
+    "cadres_et_profession_intelectuelles_supérieur": 0.1146417445482866,
+    "profession_intermediaire": 0.1975077881619938,
+    "employes": 0.1626168224299065,
+    "ouvrier": 0.1071651090342679,
+    "retraite": 0.2523364485981308,
+    "non_actif": 0.1302180685358255
+  }
+
+]

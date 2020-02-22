@@ -1,0 +1,371 @@
+[
+  {
+    "fédération": "athletisme",
+    "date_de_debut": "2024-08-02",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Stade de france",
+    "latitude": 48.9244592,
+    "longitude": 2.3579758,
+    "capacité": 78000
+  },
+  {
+    "fédération": "natation",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-04",
+    "nom_du_lieux": "Centre nautique",
+    "latitude": 48.927105,
+    "longitude": 2.3542703,
+    "capacité": 15000
+  },
+  {
+    "fédération": "water_polo",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-11",
+    "nom_du_lieux": "Centre nautique",
+    "latitude": 48.927105,
+    "longitude": 2.3542703,
+    "capacité": 15000
+  },
+  {
+    "fédération": "plongeon",
+    "date_de_debut": "2024-07-28",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Centre nautique",
+    "latitude": 48.927105,
+    "longitude": 2.3542703,
+    "capacité": 5000
+  },
+  {
+    "fédération": "natation_synchronise",
+    "date_de_debut": "2024-08-04",
+    "date_de_fin": "2024-08-07",
+    "nom_du_lieux": "Centre nautique",
+    "latitude": 48.927105,
+    "longitude": 2.3542703,
+    "capacité": 5000
+  },
+  {
+    "fédération": "tir",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-07",
+    "nom_du_lieux": "Stand de tir du bourget",
+    "latitude": 48.9652212,
+    "longitude": 2.3944426,
+    "capacité": 3000
+  },
+  {
+    "fédération": "volleyball",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Parc des exposition du bourget",
+    "latitude": 48.9441477,
+    "longitude": 2.4278287,
+    "capacité": 7000
+  },
+  {
+    "fédération": "beach_volley",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-11",
+    "nom_du_lieux": "Champ de Mars",
+    "latitude": 48.855651,
+    "longitude": 2.2964417,
+    "capacité": 12000
+  },
+  {
+    "fédération": "triathlon",
+    "date_de_debut": "2024-07-31",
+    "date_de_fin": "2024-08-05",
+    "nom_du_lieux": "Tour Eiffel",
+    "latitude": 48.8583736,
+    "longitude": 2.2922926,
+    "capacité": 10000
+  },
+  {
+    "fédération": "cyclisme_sur_route",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-01",
+    "nom_du_lieux": "Champs Élisées",
+    "latitude": 48.8683219,
+    "longitude": 2.3000216,
+    "capacité": 4000
+  },
+  {
+    "fédération": "escrime",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-04",
+    "nom_du_lieux": "Grand Palais",
+    "latitude": 48.8661126,
+    "longitude": 2.3102657,
+    "capacité": 8000
+  },
+  {
+    "fédération": "taekwondo",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-01",
+    "nom_du_lieux": "Grand Palais",
+    "latitude": 48.8661126,
+    "longitude": 2.3102657,
+    "capacité": 8000
+  },
+  {
+    "fédération": "karate",
+    "date_de_debut": "2024-08-04",
+    "date_de_fin": "2024-08-06",
+    "nom_du_lieux": "Grand Palais",
+    "latitude": 48.8661126,
+    "longitude": 2.3102657,
+    "capacité": 8000
+  },
+  {
+    "fédération": "judo",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Grand Palais éphémère",
+    "latitude": 48.8548463,
+    "longitude": 2.2986197,
+    "capacité": 9000
+  },
+  {
+    "fédération": "lutte",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Grand Palais éphémère",
+    "latitude": 48.8548463,
+    "longitude": 2.2986197,
+    "capacité": 9000
+  },
+  {
+    "fédération": "tir_a_l_arc",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Esplanade des invalides",
+    "latitude": 48.8558529,
+    "longitude": 2.3103798,
+    "capacité": 8000
+  },
+  {
+    "fédération": "handball",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Parc des exposition porte de Versailles",
+    "latitude": 48.8300133,
+    "longitude": 2.2849514,
+    "capacité": 12000
+  },
+  {
+    "fédération": "tennis_de_table",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Parc des exposition porte de Versailles",
+    "latitude": 48.8300133,
+    "longitude": 2.2849514,
+    "capacité": 6000
+  },
+  {
+    "fédération": "football",
+    "date_de_debut": "2024-07-26",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Parc des Princes",
+    "latitude": 48.8416578,
+    "longitude": 2.2491774,
+    "capacité": 48583
+  },
+  {
+    "fédération": "rugby",
+    "date_de_debut": "2024-07-30",
+    "date_de_fin": "2024-08-04",
+    "nom_du_lieux": "Stade Jean Bouin",
+    "latitude": 48.8433235,
+    "longitude": 2.2507473,
+    "capacité": 20000
+  },
+  {
+    "fédération": "baseball",
+    "date_de_debut": "2024-07-26",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Stade Jean Bouin",
+    "latitude": 48.8433235,
+    "longitude":2.2507473,
+    "capacité": 20000
+  },
+  {
+    "fédération": "tennis",
+    "date_de_debut": "2024-07-29",
+    "date_de_fin": "2024-08-06",
+    "nom_du_lieux": "Stade Roland-Garros",
+    "latitude": 48.8457678,
+    "longitude": 2.2478809,
+    "capacité": 15000
+  },
+  {
+    "fédération": "boxe",
+    "date_de_debut": "2024-07-28",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Stade Roland-Garros",
+    "latitude": 48.8457678,
+    "longitude": 2.2478809,
+    "capacité": 10056
+  },
+  {
+    "fédération": "basketball",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-10",
+    "nom_du_lieux": "Paris Arena I",
+    "latitude": 48.8385421,
+    "longitude": 2.3785915,
+    "capacité": 15603
+  },
+  {
+    "fédération": "badminton",
+    "date_de_debut": "2024-07-26",
+    "date_de_fin": "2024-08-05",
+    "nom_du_lieux": "Paris Arena II",
+    "latitude": 48.900671,
+    "longitude": 2.3603474,
+    "capacité": 7500
+  },
+  {
+    "fédération": "gymnastique_artistique",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-06",
+    "nom_du_lieux": "Paris la défense Arena",
+    "latitude": 48.8952846,
+    "longitude": 2.2294761,
+    "capacité": 17500
+  },
+  {
+    "fédération": "gymnastique_rythmique",
+    "date_de_debut": "2024-07-07",
+    "date_de_fin": "2024-08-09",
+    "nom_du_lieux": "Paris la défense Arena",
+    "latitude": 48.8952846,
+    "longitude": 2.2294761,
+    "capacité": 17500
+  },
+  {
+    "fédération": "hockey_sur_gazon",
+    "date_de_debut": "2024-07-27",
+    "date_de_fin": "2024-08-03",
+    "nom_du_lieux": "Stade olympique yves-du-manoir",
+    "latitude": 48.9292771,
+    "longitude": 2.2477717,
+    "capacité": 15000
+  },
+  {
+    "fédération": "skate",
+    "date_de_debut": "2024-08-03",
+    "date_de_fin": "2024-08-08",
+    "nom_du_lieux": "Stade olympique yves-du-manoir",
+    "latitude": 48.9292771,
+    "longitude": 2.2477717,
+    "capacité": 15000
+  },
+  {
+    "fédération": "halterophilie",
+    "date_de_debut": "2024-07-28",
+    "date_de_fin": "2024-08-06",
+    "nom_du_lieux": "Zénith de paris",
+    "latitude": 48.8942038,
+    "longitude": 2.3932285,
+    "capacité": 6000
+  },
+  {
+    "fédération": "aviron",
+    "date_de_debut": "2024-07-26",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Base nautique vaire sur marne",
+    "latitude": 48.8640606,
+    "longitude": 2.6335413,
+    "capacité": 14000
+  },
+  {
+    "fédération": "canoe_kayak_sprint",
+    "date_de_debut": "2024-08-03",
+    "date_de_fin": "2024-08-09",
+    "nom_du_lieux": "Base nautique vaire sur marne",
+    "latitude": 48.8640606,
+    "longitude": 2.6335413,
+    "capacité": 14000
+  },
+  {
+    "fédération": "canoe_kayak_slalom",
+    "date_de_debut": "2024-07-28",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Base nautique vaire sur marne",
+    "latitude": 48.8640606,
+    "longitude": 2.6335413,
+    "capacité": 14000
+  },
+  {
+    "fédération": "equitation_concours_complet",
+    "date_de_debut": "2024-08-04",
+    "date_de_fin": "2024-08-07",
+    "nom_du_lieux": "Chateau de Versailles",
+    "latitude": 48.8071494,
+    "longitude": 2.1232518,
+    "capacité": 20000
+  },
+  {
+    "fédération": "equitation_dressage",
+    "date_de_debut": "2024-08-29",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Chateau de Versailles",
+    "latitude": 48.8071494,
+    "longitude": 2.1232518,
+    "capacité": 20000
+  },
+  {
+    "fédération": "equitation_obstacle",
+    "date_de_debut": "2024-08-05",
+    "date_de_fin": "2024-08-09",
+    "nom_du_lieux": "Chateau de Versailles",
+    "latitude": 48.8071494,
+    "longitude": 2.1232518,
+    "capacité": 20000
+  },
+  {
+    "fédération": "pentathlon_moderne",
+    "date_de_debut": "2024-08-06",
+    "date_de_fin": "2024-08-08",
+    "nom_du_lieux": "Chateau de Versailles",
+    "latitude": 48.8071494,
+    "longitude": 2.1232518,
+    "capacité": 20000
+  },
+  {
+    "fédération": "cyclisme_sur_piste",
+    "date_de_debut": "2024-08-03",
+    "date_de_fin": "2024-08-09",
+    "nom_du_lieux": "Vélodrome national",
+    "latitude": 48.7880323,
+    "longitude": 2.0348519,
+    "capacité": 4800
+  },
+  {
+    "fédération": "BMX",
+    "date_de_debut": "2024-07-30",
+    "date_de_fin": "2024-08-31",
+    "nom_du_lieux": "Vélodrome national",
+    "latitude": 48.7880323,
+    "longitude": 2.0348519,
+    "capacité": 6000
+  },
+  {
+    "fédération": "VTT",
+    "date_de_debut": "2024-07-31",
+    "date_de_fin": "2024-08-02",
+    "nom_du_lieux": "Colline d'Élancourt",
+    "latitude": 48.7883356,
+    "longitude": 1.9680236,
+    "capacité": 20000
+  },
+  {
+    "fédération": "Golf",
+    "date_de_debut": "2024-07-26",
+    "date_de_fin": "2024-08-05",
+    "nom_du_lieux": "Golf national",
+    "latitude": 48.7505321,
+    "longitude": 2.0779281,
+    "capacité": 2720
+  }
+]
