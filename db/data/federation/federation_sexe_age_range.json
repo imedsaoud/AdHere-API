@@ -6712,6 +6712,2167 @@
   "sexe": "f",
   "age_range": "non-renseigne",
   "count": 1
-}
+}, 
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 6
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 1653
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 11862
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 6995
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 1908
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 1896
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 2166
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 2497
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 3151
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 4035
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 3647
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 3504
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 3553
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 2779
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 1759
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 680
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 357
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"h",
+      "age_range": "non-renseigne",
+      "count": 0
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 2
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 707
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 4865
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 3772
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 1021
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 1155
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 1098
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 1209
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 1452
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 1651
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 1406
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 1225
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 936
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 644
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 338
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 141
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 63
+    },
+    {
+      "federation":"tir-a-l-arc",
+      "sexe":"f",
+      "age_range": "non-renseigne",
+      "count": 0
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 0
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 1061
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 3791
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 3368
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 1556
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 2695
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 3829
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 4435
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 5686
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 6157
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 4112
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 2258
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 916
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 414
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 164
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 40
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 10
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"h",
+      "age_range": "non-renseigne",
+      "count": 1
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 0
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 683
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 2047
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 1774
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 791
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 1215
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 1193
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 1261
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 1606
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 1608
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 1046
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 512
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 159
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 59
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 20
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 8
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 3
+    },
+    {
+      "federation":"triathlon",
+      "sexe":"f",
+      "age_range": "non-renseigne",
+      "count": 0
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 926
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 28931
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 44590
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 16496
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 4355
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 3420
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 4029
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 4437
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 5790
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 7177
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 6912
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 6705
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 5786
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 4467
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 2929
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 1052
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 475
+    },
+    {
+      "federation":"voile",
+      "sexe":"h",
+      "age_range": "non-renseigne",
+      "count": 12
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 668
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 20938
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 31747
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 11638
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 2739
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 1892
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 1863
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 2008
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 2376
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 2497
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 2264
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 1915
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 1288
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 779
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 404
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 108
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 57
+    },
+    {
+      "federation":"voile",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 0
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 307
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 3629
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 9266
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 9631
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 4321
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 5006
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 5227
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 4991
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 4587
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 3512
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 2022
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 1197
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 837
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 552
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 315
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 104
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 43
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 5
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 233
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 3309
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 12095
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 12934
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 4107
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 4524
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 3759
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 3469
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 2598
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 1264
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 653
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 356
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 203
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 147
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 59
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 24
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 16
+    },
+    {
+      "federation":"volleyball",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 2
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 307
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 3629
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 9266
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 9631
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 4321
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 5006
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 5227
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 4991
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 4587
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 3512
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 2022
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 1197
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 837
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 552
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 315
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 104
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 43
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 5
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 233
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 3309
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 12095
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 12934
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 4107
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 4524
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 3759
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 3469
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 2598
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 1264
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 653
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 356
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 203
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 147
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 59
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 24
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 16
+    },
+    {
+      "federation":"beach_volley",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 2
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 421
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 8338
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 13507
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 9206
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 6150
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 8035
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 11747
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 15536
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 18981
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 24956
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 26293
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 27744
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 32903
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 38389
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 33024
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 15628
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 8928
+    },
+    {
+      "federation":"golf",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 2
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 162
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 3597
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 5223
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 2620
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 1341
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 1550
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 2088
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 2892
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 4449
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 7286
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 10124
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 13069
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 16368
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 18567
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 14676
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 6160
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 2766
+    },
+    {
+      "federation":"golf",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 0
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 0
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 41917
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 64317
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 50244
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 28667
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 26834
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 21189
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 16525
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 14166
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 14077
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 8946
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 6023
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 4679
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 3705
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 2398
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 841
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 333
+    },
+    {
+      "federation":"rugby",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 7
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 0
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 2013
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 3910
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 6593
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 3599
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 3481
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 2203
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 1949
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 1892
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 1649
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 1095
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 642
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 385
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 277
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 155
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 38
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 14
+    },
+    {
+      "federation":"rugby",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 0
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 927
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 37971
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 37971
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 17745
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 5740
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 5720
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 6775
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 8719
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 10369
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 10673
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 7888
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 5976
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 4176
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 2522
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 1211
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 405
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 203
+    },
+    {
+      "federation":"karate",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 45
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 479
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 16682
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 20677
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 11425
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 3434
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 3728
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 4303
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 5521
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 6079
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 5691
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 3995
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 2665
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 1693
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 1175
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 712
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 246
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 178
+    },
+    {
+      "federation":"karate",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 29
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 23
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 1091
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 2586
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 2044
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 1123
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 1213
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 1283
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 1085
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 837
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 651
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 230
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 102
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 55
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 32
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 25
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 11
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 2
+    },
+    {
+      "federation":"skate",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 0
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 23
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 1091
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 2586
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 2044
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 1123
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 1213
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 1283
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "35-39",
+      "count": 1085
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 837
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 651
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 230
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 102
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 55
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 32
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 25
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 11
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 2
+    },
+    {
+      "federation":"skate",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 0
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "0-4",
+      "count": 23
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "5-9",
+      "count": 1091
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "10-14",
+      "count": 2586
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "15-19",
+      "count": 2044
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "20-24",
+      "count": 1123
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "25-29",
+      "count": 1213
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "30-34",
+      "count": 1283
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "35-39",
+      "count": 1085
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "40-44",
+      "count": 837
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "45-49",
+      "count": 651
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "50-54",
+      "count": 230
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "55-59",
+      "count": 102
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "60-64",
+      "count": 55
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "65-69",
+      "count": 32
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "70-74",
+      "count": 25
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "75-79",
+      "count": 11
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "80+",
+      "count": 2
+    },
+    {
+      "federation":"baseball",
+      "sexe":"h",
+      "age_range": "non renseigne",
+      "count": 0
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "0-4",
+      "count": 2
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "5-9",
+      "count": 204
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "10-14",
+      "count": 495
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "15-19",
+      "count": 512
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "20-24",
+      "count": 344
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "25-29",
+      "count": 349
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "30-34",
+      "count": 333
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_ranfge": "35-39",
+      "count": 302
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "40-44",
+      "count": 220
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "45-49",
+      "count": 115
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "50-54",
+      "count": 62
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "55-59",
+      "count": 35
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "60-64",
+      "count": 11
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "65-69",
+      "count": 10
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "70-74",
+      "count": 7
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "75-79",
+      "count": 1
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "80+",
+      "count": 0
+    },
+    {
+      "federation":"baseball",
+      "sexe":"f",
+      "age_range": "non renseigne",
+      "count": 0
+    }
+  
  
 ]
