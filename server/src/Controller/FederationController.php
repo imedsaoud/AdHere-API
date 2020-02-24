@@ -12,14 +12,11 @@ namespace App\Controller;
 use App\Entity\Events;
 use App\Entity\Federation;
 use Doctrine\ORM\EntityManagerInterface;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Symfony\Component\Routing\Annotation\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Method;
-
-
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
-
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\HttpKernel\HttpClientKernel;
 
 
@@ -37,60 +34,31 @@ class FederationController extends AbstractController
      * @Route("/federations", name="get_federations")
      * @Method("GET")
      */
-    public function findFederations(): JsonResponse
+    public function findFederations(Request $request): JsonResponse
     {
-        $federations = $this->em->getRepository(Federation::class)->findAll();
+        $federationIds = $request->get('federationIds');
 
-        foreach ($federations as $result) {
-            $response[] = array(
-                'id' => $result->getId(),
-            );
+        if ($federationIds === null) {
+            $federations = $this->em->getRepository(Federation::class)->findAll();
+            foreach ($federations as $result) {
+                $response[] = array(
+                    'id' => $result->getId(),
+                    'name' => $result->getName(),
+                    'count' => $result->getCount()
+                );
+            }
+            return new JsonResponse($response, 200);
         }
-        return new JsonResponse($federations, 200);
+            $federationIdsTab = explode(",", $federationIds);
+            foreach ($federationIdsTab as $id) {
+                $federation = $this->em->getRepository(Federation::class)->find($id);
+
+                $response[] = array(
+                    'id' => $federation->getId(),
+                    'count' => $federation->getCount()
+                );
+            }
+            return new JsonResponse($response, 200);
     }
 
-    /**
-     * @Route("/federations/{eventId}", name="get_federation_by_id")
-     * @Method("GET")
-     */
-    public function findFederationByEventId(int $eventId): JsonResponse
-    {
-        $event = $this->em->getRepository(Event::class)->find($eventId);
-
-        $federation = $this->em->getRepository(Federation::class)->findBy([
-            'event' => $event
-        ]);
-
-        if ($federation === null) {
-            return new JsonResponse(null, 404);
-        }
-
-        return new JsonResponse($federation, 200);
-    }
-
-    /**
-     * @Route("/federations/events", name="get_federations")
-     * @Method("GET")
-     */
-    public function findFederationByEventIds(Request $request): JsonResponse
-    {
-        $eventId = $request->get('eventIds');
-
-        if ($eventId === null) {
-            return new JsonResponse(null, 400);
-        }
-
-        $eventIds = implode(',', $eventId);
-
-        foreach ($eventIds as $id) {
-            $event = $this->em->getRepository(Event::class)->find($id);
-
-            $result [] = $this->em->getRepository(Federation::class)->findBy([
-                'event' => $event
-            ]);
-        }
-
-
-        return new JsonResponse($result, 200);
-    }
 }

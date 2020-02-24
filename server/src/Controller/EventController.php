@@ -31,9 +31,36 @@ class EventController extends AbstractController
         $endDate = $request->get('end');
 
         if ($beginDate !== null && $endDate !== null) {
-            return new JsonResponse($this->em->getRepository(Events::class)->getEventsBetweenDates($beginDate,$endDate));
+            $events = $this->em->getRepository(Events::class)->getEventsBetweenDates($beginDate,$endDate);
+            foreach ($events as $event) {
+                $response[] = array(
+                    'id' => $event->getId(),
+                    'Geo_name' => $event->getGeoName(),
+                    'Lat' => $event->getGeoLat(),
+                    'Lng' => $event->getGeoLng(),
+                    'Spectators' => $event->getSpectator(),
+                    'Date_start' => $event->getDateStart(),
+                    'Date_end' => $event->getDateEnd(),
+                    'id_federation' => $event->getIdFederation()->getId()
+                );
+            }
+            return new JsonResponse($response,200);
         }
-        return new JsonResponse($this->em->getRepository(Events::class)->findAll(), 200);
+
+        $events = $this->em->getRepository(Events::class)->findAll();
+        foreach ($events as $event) {
+            $response[] = array(
+                'id' => $event->getId(),
+                'Geo_name' => $event->getGeoName(),
+                'Lat' => $event->getGeoLat(),
+                'Lng' => $event->getGeoLng(),
+                'Spectators' => $event->getSpectator(),
+                'Date_start' => $event->getDateStart(),
+                'Date_end' => $event->getDateEnd(),
+                'id_federation' => $event->getIdFederation()->getId()
+            );
+        }
+        return new JsonResponse($response, 200);
     }
 
     /**
@@ -50,11 +77,14 @@ class EventController extends AbstractController
 
         $response[] = array(
             'id' => $event->getId(),
-            'Name' => $event->getGeoName(),
+            'Geo_name' => $event->getGeoName(),
             'Lat' => $event->getGeoLat(),
+            'Lng' => $event->getGeoLng(),
+            'Spectators' => $event->getSpectator(),
+            'Date_start' => $event->getDateStart(),
+            'Date_end' => $event->getDateEnd(),
+            'id_federation' => $event->getIdFederation()->getId()
         );
-
-
 
         return new JsonResponse($response, 200);
     }
