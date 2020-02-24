@@ -1,0 +1,2934 @@
+[
+  {
+    "LIBELLE_ARRET": "ABBESSES",
+    "NB_VALID": 36670
+  },
+  {
+    "LIBELLE_ARRET": "ABLON",
+    "NB_VALID": 10678
+  },
+  {
+    "LIBELLE_ARRET": "ACHERES-GRAND-CORMIER",
+    "NB_VALID": 512
+  },
+  {
+    "LIBELLE_ARRET": "ACHERES-VILLE",
+    "NB_VALID": 37250
+  },
+  {
+    "LIBELLE_ARRET": "AEROPORT CHARLES DE GAULLE 1",
+    "NB_VALID": 68018
+  },
+  {
+    "LIBELLE_ARRET": "AEROPORT CHARLES DE GAULLE 2-TGV",
+    "NB_VALID": 97870
+  },
+  {
+    "LIBELLE_ARRET": "ALESIA",
+    "NB_VALID": 110484
+  },
+  {
+    "LIBELLE_ARRET": "ALEXANDRE DUMAS",
+    "NB_VALID": 76062
+  },
+  {
+    "LIBELLE_ARRET": "ALLEE DE LA TOUR RENDEZ-VOUS",
+    "NB_VALID": 1373
+  },
+  {
+    "LIBELLE_ARRET": "ALMA-MARCEAU",
+    "NB_VALID": 79089
+  },
+  {
+    "LIBELLE_ARRET": "ANATOLE FRANCE",
+    "NB_VALID": 91681
+  },
+  {
+    "LIBELLE_ARRET": "ANDRESY",
+    "NB_VALID": 4688
+  },
+  {
+    "LIBELLE_ARRET": "ANGERVILLE",
+    "NB_VALID": 2410
+  },
+  {
+    "LIBELLE_ARRET": "ANTONY",
+    "NB_VALID": 176789
+  },
+  {
+    "LIBELLE_ARRET": "ANVERS",
+    "NB_VALID": 129447
+  },
+  {
+    "LIBELLE_ARRET": "ARCUEIL-CACHAN",
+    "NB_VALID": 85460
+  },
+  {
+    "LIBELLE_ARRET": "ARGENTEUIL",
+    "NB_VALID": 174389
+  },
+  {
+    "LIBELLE_ARRET": "ARGENTINE",
+    "NB_VALID": 77252
+  },
+  {
+    "LIBELLE_ARRET": "ARPAJON",
+    "NB_VALID": 9950
+  },
+  {
+    "LIBELLE_ARRET": "ARTS ET METIERS",
+    "NB_VALID": 80186
+  },
+  {
+    "LIBELLE_ARRET": "ASNIERES",
+    "NB_VALID": 74253
+  },
+  {
+    "LIBELLE_ARRET": "ASSEMBLEE NATIONALE",
+    "NB_VALID": 22211
+  },
+  {
+    "LIBELLE_ARRET": "ATHIS-MONS",
+    "NB_VALID": 7809
+  },
+  {
+    "LIBELLE_ARRET": "AUBER",
+    "NB_VALID": 98444
+  },
+  {
+    "LIBELLE_ARRET": "AUBERGENVILLE-ELISABETHVILLE",
+    "NB_VALID": 27206
+  },
+  {
+    "LIBELLE_ARRET": "AUBERVILLIERS-PANTIN (QUATRE CHEMINS)",
+    "NB_VALID": 256638
+  },
+  {
+    "LIBELLE_ARRET": "AULNAY-SOUS-BOIS",
+    "NB_VALID": 210883
+  },
+  {
+    "LIBELLE_ARRET": "AUSTERLITZ",
+    "NB_VALID": 377063
+  },
+  {
+    "LIBELLE_ARRET": "AUVERS-SUR-OISE",
+    "NB_VALID": 676
+  },
+  {
+    "LIBELLE_ARRET": "AVENUE DU PRESIDENT KENNEDY",
+    "NB_VALID": 2397
+  },
+  {
+    "LIBELLE_ARRET": "AVENUE EMILE ZOLA",
+    "NB_VALID": 42227
+  },
+  {
+    "LIBELLE_ARRET": "AVENUE FOCH",
+    "NB_VALID": 8277
+  },
+  {
+    "LIBELLE_ARRET": "AVENUE HENRI MARTIN",
+    "NB_VALID": 12702
+  },
+  {
+    "LIBELLE_ARRET": "AVRON",
+    "NB_VALID": 45691
+  },
+  {
+    "LIBELLE_ARRET": "BAGNEUX",
+    "NB_VALID": 53942
+  },
+  {
+    "LIBELLE_ARRET": "BAGNEUX-SUR-LOING",
+    "NB_VALID": 534
+  },
+  {
+    "LIBELLE_ARRET": "BALARD",
+    "NB_VALID": 202309
+  },
+  {
+    "LIBELLE_ARRET": "BALLANCOURT",
+    "NB_VALID": 2762
+  },
+  {
+    "LIBELLE_ARRET": "BARBES-ROCHECHOUART",
+    "NB_VALID": 252129
+  },
+  {
+    "LIBELLE_ARRET": "BASILIQUE DE SAINT-DENIS",
+    "NB_VALID": 125356
+  },
+  {
+    "LIBELLE_ARRET": "BASTILLE",
+    "NB_VALID": 238925
+  },
+  {
+    "LIBELLE_ARRET": "BECON-LES-BRUYERES",
+    "NB_VALID": 66202
+  },
+  {
+    "LIBELLE_ARRET": "BEL-AIR",
+    "NB_VALID": 64726
+  },
+  {
+    "LIBELLE_ARRET": "BELLEVILLE",
+    "NB_VALID": 195392
+  },
+  {
+    "LIBELLE_ARRET": "BELLEVUE",
+    "NB_VALID": 7823
+  },
+  {
+    "LIBELLE_ARRET": "BELLOY-SAINT-MARTIN",
+    "NB_VALID": 636
+  },
+  {
+    "LIBELLE_ARRET": "BERAULT",
+    "NB_VALID": 77785
+  },
+  {
+    "LIBELLE_ARRET": "BERCY",
+    "NB_VALID": 157815
+  },
+  {
+    "LIBELLE_ARRET": "BESSANCOURT",
+    "NB_VALID": 4306
+  },
+  {
+    "LIBELLE_ARRET": "BEYNES",
+    "NB_VALID": 873
+  },
+  {
+    "LIBELLE_ARRET": "BIBLIOTHEQUE FRANCOIS MITTERRAND",
+    "NB_VALID": 248467
+  },
+  {
+    "LIBELLE_ARRET": "BIEVRES",
+    "NB_VALID": 3162
+  },
+  {
+    "LIBELLE_ARRET": "BILLANCOURT",
+    "NB_VALID": 61124
+  },
+  {
+    "LIBELLE_ARRET": "BIR-HAKEIM (GRENELLE)",
+    "NB_VALID": 146017
+  },
+  {
+    "LIBELLE_ARRET": "BLANC-MESNIL",
+    "NB_VALID": 52060
+  },
+  {
+    "LIBELLE_ARRET": "BLANCHE",
+    "NB_VALID": 66649
+  },
+  {
+    "LIBELLE_ARRET": "BOBIGNY-PABLO PICASSO",
+    "NB_VALID": 267019
+  },
+  {
+    "LIBELLE_ARRET": "BOBIGNY-PANTIN (RAYMOND QUENEAU)",
+    "NB_VALID": 86015
+  },
+  {
+    "LIBELLE_ARRET": "BOIGNEVILLE",
+    "NB_VALID": 63
+  },
+  {
+    "LIBELLE_ARRET": "BOIS-COLOMBES",
+    "NB_VALID": 70957
+  },
+  {
+    "LIBELLE_ARRET": "BOIS-LE-ROI",
+    "NB_VALID": 6786
+  },
+  {
+    "LIBELLE_ARRET": "BOISSIERE",
+    "NB_VALID": 49593
+  },
+  {
+    "LIBELLE_ARRET": "BOISSISE-LE-ROI",
+    "NB_VALID": 494
+  },
+  {
+    "LIBELLE_ARRET": "BOISSY-L'AILLERIE",
+    "NB_VALID": 1507
+  },
+  {
+    "LIBELLE_ARRET": "BOISSY-SAINT-LEGER",
+    "NB_VALID": 100553
+  },
+  {
+    "LIBELLE_ARRET": "BOLIVAR",
+    "NB_VALID": 9564
+  },
+  {
+    "LIBELLE_ARRET": "BONDY",
+    "NB_VALID": 72521
+  },
+  {
+    "LIBELLE_ARRET": "BONNE NOUVELLE",
+    "NB_VALID": 115268
+  },
+  {
+    "LIBELLE_ARRET": "BONNIERES",
+    "NB_VALID": 2611
+  },
+  {
+    "LIBELLE_ARRET": "BOTZARIS",
+    "NB_VALID": 19019
+  },
+  {
+    "LIBELLE_ARRET": "BOUCICAUT",
+    "NB_VALID": 49220
+  },
+  {
+    "LIBELLE_ARRET": "BOUFFEMONT-MOISSELLES",
+    "NB_VALID": 6548
+  },
+  {
+    "LIBELLE_ARRET": "BOUGIVAL",
+    "NB_VALID": 2888
+  },
+  {
+    "LIBELLE_ARRET": "BOULAINVILLIERS",
+    "NB_VALID": 3329
+  },
+  {
+    "LIBELLE_ARRET": "BOULEVARD VICTOR",
+    "NB_VALID": 23986
+  },
+  {
+    "LIBELLE_ARRET": "BOULOGNE-JEAN JAURES",
+    "NB_VALID": 104274
+  },
+  {
+    "LIBELLE_ARRET": "BOULOGNE-PONT DE SAINT CLOUD",
+    "NB_VALID": 66639
+  },
+  {
+    "LIBELLE_ARRET": "BOURAY",
+    "NB_VALID": 8113
+  },
+  {
+    "LIBELLE_ARRET": "BOURG-LA-REINE",
+    "NB_VALID": 100073
+  },
+  {
+    "LIBELLE_ARRET": "BOURGET T11",
+    "NB_VALID": 18586
+  },
+  {
+    "LIBELLE_ARRET": "BOURRON-MARLOTTE-GREZ",
+    "NB_VALID": 612
+  },
+  {
+    "LIBELLE_ARRET": "BOURSE",
+    "NB_VALID": 104286
+  },
+  {
+    "LIBELLE_ARRET": "BOUSSY-SAINT-ANTOINE",
+    "NB_VALID": 35289
+  },
+  {
+    "LIBELLE_ARRET": "BOUTIGNY-SUR-ESSONNE",
+    "NB_VALID": 489
+  },
+  {
+    "LIBELLE_ARRET": "BREGUET-SABIN",
+    "NB_VALID": 36882
+  },
+  {
+    "LIBELLE_ARRET": "BRETIGNY",
+    "NB_VALID": 63597
+  },
+  {
+    "LIBELLE_ARRET": "BREUILLET-BRUYERES-LE-CHATEL",
+    "NB_VALID": 1833
+  },
+  {
+    "LIBELLE_ARRET": "BREUILLET-VILLAGE",
+    "NB_VALID": 2902
+  },
+  {
+    "LIBELLE_ARRET": "BREVAL",
+    "NB_VALID": 1975
+  },
+  {
+    "LIBELLE_ARRET": "BROCHANT",
+    "NB_VALID": 81531
+  },
+  {
+    "LIBELLE_ARRET": "BRUNOY",
+    "NB_VALID": 37489
+  },
+  {
+    "LIBELLE_ARRET": "BRUYERES-SUR-OISE",
+    "NB_VALID": 592
+  },
+  {
+    "LIBELLE_ARRET": "BRY-SUR-MARNE",
+    "NB_VALID": 51059
+  },
+  {
+    "LIBELLE_ARRET": "BUNO-GIRONVILLE",
+    "NB_VALID": 238
+  },
+  {
+    "LIBELLE_ARRET": "BURES-SUR-YVETTE",
+    "NB_VALID": 9154
+  },
+  {
+    "LIBELLE_ARRET": "BUSSY-SAINT-GEORGES",
+    "NB_VALID": 99293
+  },
+  {
+    "LIBELLE_ARRET": "BUTTES-CHAUMONT",
+    "NB_VALID": 16232
+  },
+  {
+    "LIBELLE_ARRET": "BUZENVAL",
+    "NB_VALID": 48739
+  },
+  {
+    "LIBELLE_ARRET": "CADET",
+    "NB_VALID": 83199
+  },
+  {
+    "LIBELLE_ARRET": "CAMBRONNE",
+    "NB_VALID": 70084
+  },
+  {
+    "LIBELLE_ARRET": "CAMPO-FORMIO",
+    "NB_VALID": 41053
+  },
+  {
+    "LIBELLE_ARRET": "CARDINAL-LEMOINE",
+    "NB_VALID": 41916
+  },
+  {
+    "LIBELLE_ARRET": "CARREFOUR PLEYEL",
+    "NB_VALID": 65878
+  },
+  {
+    "LIBELLE_ARRET": "CENSIER-DAUBENTON",
+    "NB_VALID": 50194
+  },
+  {
+    "LIBELLE_ARRET": "CERGY LE HAUT",
+    "NB_VALID": 14248
+  },
+  {
+    "LIBELLE_ARRET": "CERGY-PREFECTURE",
+    "NB_VALID": 153524
+  },
+  {
+    "LIBELLE_ARRET": "CERGY-SAINT-CHRISTOPHE",
+    "NB_VALID": 109196
+  },
+  {
+    "LIBELLE_ARRET": "CERNAY",
+    "NB_VALID": 27888
+  },
+  {
+    "LIBELLE_ARRET": "CESSON",
+    "NB_VALID": 12516
+  },
+  {
+    "LIBELLE_ARRET": "CHAMARANDE",
+    "NB_VALID": 1114
+  },
+  {
+    "LIBELLE_ARRET": "CHAMP DE COURSES D'ENGHIEN",
+    "NB_VALID": 9679
+  },
+  {
+    "LIBELLE_ARRET": "CHAMP DE MARS-TOUR EIFFEL",
+    "NB_VALID": 10393
+  },
+  {
+    "LIBELLE_ARRET": "CHAMPAGNE-SUR-OISE",
+    "NB_VALID": 2206
+  },
+  {
+    "LIBELLE_ARRET": "CHAMPAGNE-SUR-SEINE",
+    "NB_VALID": 3750
+  },
+  {
+    "LIBELLE_ARRET": "CHAMPBENOIST-POIGNY",
+    "NB_VALID": 1970
+  },
+  {
+    "LIBELLE_ARRET": "CHAMPIGNY",
+    "NB_VALID": 107205
+  },
+  {
+    "LIBELLE_ARRET": "CHAMPS-ELYSEES-CLEMENCEAU",
+    "NB_VALID": 55665
+  },
+  {
+    "LIBELLE_ARRET": "CHANGIS-SAINT-JEAN",
+    "NB_VALID": 2357
+  },
+  {
+    "LIBELLE_ARRET": "CHANTELOUP-LES-VIGNES",
+    "NB_VALID": 7830
+  },
+  {
+    "LIBELLE_ARRET": "CHAPONVAL",
+    "NB_VALID": 52
+  },
+  {
+    "LIBELLE_ARRET": "CHARDON-LAGACHE",
+    "NB_VALID": 20818
+  },
+  {
+    "LIBELLE_ARRET": "CHARENTON-ECOLES",
+    "NB_VALID": 96760
+  },
+  {
+    "LIBELLE_ARRET": "CHARLES DE GAULLE ETOILE",
+    "NB_VALID": 281765
+  },
+  {
+    "LIBELLE_ARRET": "CHARLES MICHELS",
+    "NB_VALID": 117782
+  },
+  {
+    "LIBELLE_ARRET": "CHARONNE",
+    "NB_VALID": 81012
+  },
+  {
+    "LIBELLE_ARRET": "CHARS",
+    "NB_VALID": 1223
+  },
+  {
+    "LIBELLE_ARRET": "CHARTRETTES",
+    "NB_VALID": 118
+  },
+  {
+    "LIBELLE_ARRET": "CHATEAU D'EAU",
+    "NB_VALID": 127720
+  },
+  {
+    "LIBELLE_ARRET": "CHATEAU DE VINCENNES",
+    "NB_VALID": 146416
+  },
+  {
+    "LIBELLE_ARRET": "CHATEAU ROUGE",
+    "NB_VALID": 203507
+  },
+  {
+    "LIBELLE_ARRET": "CHATEAU-LANDON",
+    "NB_VALID": 37684
+  },
+  {
+    "LIBELLE_ARRET": "CHATELET",
+    "NB_VALID": 303214
+  },
+  {
+    "LIBELLE_ARRET": "CHATELET-LES HALLES",
+    "NB_VALID": 883674
+  },
+  {
+    "LIBELLE_ARRET": "CHATILLON-MONTROUGE",
+    "NB_VALID": 210276
+  },
+  {
+    "LIBELLE_ARRET": "CHATOU-CROISSY",
+    "NB_VALID": 43035
+  },
+  {
+    "LIBELLE_ARRET": "CHAUSSEE D'ANTIN (LA FAYETTE)",
+    "NB_VALID": 205379
+  },
+  {
+    "LIBELLE_ARRET": "CHAVILLE RIVE DROITE",
+    "NB_VALID": 35420
+  },
+  {
+    "LIBELLE_ARRET": "CHAVILLE RIVE GAUCHE",
+    "NB_VALID": 6741
+  },
+  {
+    "LIBELLE_ARRET": "CHAVILLE-VELIZY",
+    "NB_VALID": 12108
+  },
+  {
+    "LIBELLE_ARRET": "CHELLES-GOURNAY",
+    "NB_VALID": 89004
+  },
+  {
+    "LIBELLE_ARRET": "CHEMIN D'ANTONY",
+    "NB_VALID": 3317
+  },
+  {
+    "LIBELLE_ARRET": "CHEMIN VERT",
+    "NB_VALID": 36384
+  },
+  {
+    "LIBELLE_ARRET": "CHENAY-GAGNY",
+    "NB_VALID": 31576
+  },
+  {
+    "LIBELLE_ARRET": "CHESSY - MARNE-LA-VALLEE",
+    "NB_VALID": 107051
+  },
+  {
+    "LIBELLE_ARRET": "CHEVALERET",
+    "NB_VALID": 43153
+  },
+  {
+    "LIBELLE_ARRET": "CHILLY-MAZARIN",
+    "NB_VALID": 6733
+  },
+  {
+    "LIBELLE_ARRET": "CHOISY-LE-ROI",
+    "NB_VALID": 145355
+  },
+  {
+    "LIBELLE_ARRET": "CITE",
+    "NB_VALID": 35994
+  },
+  {
+    "LIBELLE_ARRET": "CITE UNIVERSITAIRE",
+    "NB_VALID": 188377
+  },
+  {
+    "LIBELLE_ARRET": "CLAMART",
+    "NB_VALID": 15270
+  },
+  {
+    "LIBELLE_ARRET": "CLICHY-LEVALLOIS",
+    "NB_VALID": 139790
+  },
+  {
+    "LIBELLE_ARRET": "COIGNIERES",
+    "NB_VALID": 2501
+  },
+  {
+    "LIBELLE_ARRET": "COLOMBES",
+    "NB_VALID": 48495
+  },
+  {
+    "LIBELLE_ARRET": "COLONEL FABIEN",
+    "NB_VALID": 125443
+  },
+  {
+    "LIBELLE_ARRET": "COMBS-LA-VILLE-QUINCY",
+    "NB_VALID": 37407
+  },
+  {
+    "LIBELLE_ARRET": "COMMERCE",
+    "NB_VALID": 79935
+  },
+  {
+    "LIBELLE_ARRET": "COMPANS",
+    "NB_VALID": 134
+  },
+  {
+    "LIBELLE_ARRET": "CONCORDE",
+    "NB_VALID": 116234
+  },
+  {
+    "LIBELLE_ARRET": "CONFLANS-FIN-D'OISE",
+    "NB_VALID": 27034
+  },
+  {
+    "LIBELLE_ARRET": "CONFLANS-SAINTE-HONORINE",
+    "NB_VALID": 53902
+  },
+  {
+    "LIBELLE_ARRET": "CONVENTION",
+    "NB_VALID": 124464
+  },
+  {
+    "LIBELLE_ARRET": "CORBEIL-ESSONNES",
+    "NB_VALID": 39035
+  },
+  {
+    "LIBELLE_ARRET": "CORENTIN CARIOU",
+    "NB_VALID": 97285
+  },
+  {
+    "LIBELLE_ARRET": "CORENTIN-CELTON",
+    "NB_VALID": 106883
+  },
+  {
+    "LIBELLE_ARRET": "CORMEILLES-EN-PARISIS",
+    "NB_VALID": 25932
+  },
+  {
+    "LIBELLE_ARRET": "CORVISART",
+    "NB_VALID": 48235
+  },
+  {
+    "LIBELLE_ARRET": "COUDRAY-MONTCEAUX",
+    "NB_VALID": 49
+  },
+  {
+    "LIBELLE_ARRET": "COUILLY-SAINT-GERMAIN-QUINCY",
+    "NB_VALID": 309
+  },
+  {
+    "LIBELLE_ARRET": "COULOMMIERS",
+    "NB_VALID": 9808
+  },
+  {
+    "LIBELLE_ARRET": "COUR SAINT-EMILION",
+    "NB_VALID": 141166
+  },
+  {
+    "LIBELLE_ARRET": "COURBEVOIE",
+    "NB_VALID": 26489
+  },
+  {
+    "LIBELLE_ARRET": "COURCELLE-SUR-YVETTE",
+    "NB_VALID": 3869
+  },
+  {
+    "LIBELLE_ARRET": "COURCELLES",
+    "NB_VALID": 78918
+  },
+  {
+    "LIBELLE_ARRET": "COURONNES",
+    "NB_VALID": 76894
+  },
+  {
+    "LIBELLE_ARRET": "CRECY-EN-BRIE-LA-CHAPELLE",
+    "NB_VALID": 932
+  },
+  {
+    "LIBELLE_ARRET": "CRETEIL POMP",
+    "NB_VALID": 120957
+  },
+  {
+    "LIBELLE_ARRET": "CRETEIL-L'ECHAT (HOPITAL MONDOR)",
+    "NB_VALID": 41059
+  },
+  {
+    "LIBELLE_ARRET": "CRETEIL-P. LAC",
+    "NB_VALID": 74520
+  },
+  {
+    "LIBELLE_ARRET": "CRETEIL-PREFECTURE (HOTEL DE VILLE)",
+    "NB_VALID": 138033
+  },
+  {
+    "LIBELLE_ARRET": "CRETEIL-UNIVERSITE",
+    "NB_VALID": 74918
+  },
+  {
+    "LIBELLE_ARRET": "CRIMEE",
+    "NB_VALID": 169241
+  },
+  {
+    "LIBELLE_ARRET": "CROIX DE CHAVAUX (JACQUES DUCLOS)",
+    "NB_VALID": 153958
+  },
+  {
+    "LIBELLE_ARRET": "CROUY-SUR-OURCQ",
+    "NB_VALID": 1070
+  },
+  {
+    "LIBELLE_ARRET": "DAMMARTIN-JUILLY-SAINT-MARD",
+    "NB_VALID": 10921
+  },
+  {
+    "LIBELLE_ARRET": "DANUBE",
+    "NB_VALID": 19851
+  },
+  {
+    "LIBELLE_ARRET": "DAUMESNIL",
+    "NB_VALID": 125104
+  },
+  {
+    "LIBELLE_ARRET": "DENFERT-ROCHEREAU",
+    "NB_VALID": 205410
+  },
+  {
+    "LIBELLE_ARRET": "DEUIL-MONTMAGNY",
+    "NB_VALID": 24299
+  },
+  {
+    "LIBELLE_ARRET": "DOMONT",
+    "NB_VALID": 27644
+  },
+  {
+    "LIBELLE_ARRET": "DOURDAN",
+    "NB_VALID": 4564
+  },
+  {
+    "LIBELLE_ARRET": "DOURDAN-LA-FORET",
+    "NB_VALID": 331
+  },
+  {
+    "LIBELLE_ARRET": "DRANCY",
+    "NB_VALID": 90056
+  },
+  {
+    "LIBELLE_ARRET": "DUGNY COURNEU",
+    "NB_VALID": 4698
+  },
+  {
+    "LIBELLE_ARRET": "DUGOMMIER",
+    "NB_VALID": 77171
+  },
+  {
+    "LIBELLE_ARRET": "DUPLEIX",
+    "NB_VALID": 84095
+  },
+  {
+    "LIBELLE_ARRET": "DUROC",
+    "NB_VALID": 88955
+  },
+  {
+    "LIBELLE_ARRET": "ECOLE MILITAIRE",
+    "NB_VALID": 95565
+  },
+  {
+    "LIBELLE_ARRET": "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+    "NB_VALID": 66226
+  },
+  {
+    "LIBELLE_ARRET": "ECOUEN-EZANVILLE",
+    "NB_VALID": 15262
+  },
+  {
+    "LIBELLE_ARRET": "EDGAR QUINET",
+    "NB_VALID": 53681
+  },
+  {
+    "LIBELLE_ARRET": "EGLISE D'AUTEUIL",
+    "NB_VALID": 4870
+  },
+  {
+    "LIBELLE_ARRET": "EGLISE DE PANTIN",
+    "NB_VALID": 99677
+  },
+  {
+    "LIBELLE_ARRET": "EGLY",
+    "NB_VALID": 3462
+  },
+  {
+    "LIBELLE_ARRET": "EMERAINVILLE-PONTAULT-COMBAULT",
+    "NB_VALID": 53703
+  },
+  {
+    "LIBELLE_ARRET": "ENGHIEN-LES-BAINS",
+    "NB_VALID": 70394
+  },
+  {
+    "LIBELLE_ARRET": "EPINAY SEIN T11",
+    "NB_VALID": 23892
+  },
+  {
+    "LIBELLE_ARRET": "EPINAY VIL T11",
+    "NB_VALID": 6953
+  },
+  {
+    "LIBELLE_ARRET": "EPINAY-SUR-ORGE",
+    "NB_VALID": 16082
+  },
+  {
+    "LIBELLE_ARRET": "EPINAY-SUR-SEINE",
+    "NB_VALID": 13094
+  },
+  {
+    "LIBELLE_ARRET": "EPINAY-VILLETANEUSE",
+    "NB_VALID": 87926
+  },
+  {
+    "LIBELLE_ARRET": "EPLUCHES",
+    "NB_VALID": 210
+  },
+  {
+    "LIBELLE_ARRET": "EPONE-MEZIERES",
+    "NB_VALID": 8657
+  },
+  {
+    "LIBELLE_ARRET": "ERAGNY-NEUVILLE",
+    "NB_VALID": 6920
+  },
+  {
+    "LIBELLE_ARRET": "ERMONT-EAUBONNE",
+    "NB_VALID": 91421
+  },
+  {
+    "LIBELLE_ARRET": "ERMONT-HALTE",
+    "NB_VALID": 6440
+  },
+  {
+    "LIBELLE_ARRET": "ESBLY",
+    "NB_VALID": 12093
+  },
+  {
+    "LIBELLE_ARRET": "ESPLANADE DE LA DEFENSE",
+    "NB_VALID": 279415
+  },
+  {
+    "LIBELLE_ARRET": "ESSONNES-ROBINSON",
+    "NB_VALID": 2813
+  },
+  {
+    "LIBELLE_ARRET": "ETAMPES",
+    "NB_VALID": 32303
+  },
+  {
+    "LIBELLE_ARRET": "ETIENNE-MARCEL",
+    "NB_VALID": 65161
+  },
+  {
+    "LIBELLE_ARRET": "ETRECHY",
+    "NB_VALID": 3175
+  },
+  {
+    "LIBELLE_ARRET": "EUROPE",
+    "NB_VALID": 21882
+  },
+  {
+    "LIBELLE_ARRET": "EVRY",
+    "NB_VALID": 7191
+  },
+  {
+    "LIBELLE_ARRET": "EVRY-COURCOURONNES",
+    "NB_VALID": 130252
+  },
+  {
+    "LIBELLE_ARRET": "EXELMANS",
+    "NB_VALID": 56609
+  },
+  {
+    "LIBELLE_ARRET": "FAIDHERBE-CHALIGNY",
+    "NB_VALID": 84059
+  },
+  {
+    "LIBELLE_ARRET": "FALGUIERE",
+    "NB_VALID": 23074
+  },
+  {
+    "LIBELLE_ARRET": "FAREMOUTIERS-POMMEUSE",
+    "NB_VALID": 1718
+  },
+  {
+    "LIBELLE_ARRET": "FELIX FAURE",
+    "NB_VALID": 32941
+  },
+  {
+    "LIBELLE_ARRET": "FILLES DU CALVAIRE",
+    "NB_VALID": 40802
+  },
+  {
+    "LIBELLE_ARRET": "FONTAINE-LE-PORT",
+    "NB_VALID": 228
+  },
+  {
+    "LIBELLE_ARRET": "FONTAINE-MICHALON",
+    "NB_VALID": 18263
+  },
+  {
+    "LIBELLE_ARRET": "FONTAINEBLEAU-AVON",
+    "NB_VALID": 29640
+  },
+  {
+    "LIBELLE_ARRET": "FONTENAY-AUX-ROSES",
+    "NB_VALID": 28225
+  },
+  {
+    "LIBELLE_ARRET": "FONTENAY-LE-FLEURY",
+    "NB_VALID": 11969
+  },
+  {
+    "LIBELLE_ARRET": "FONTENAY-SOUS-BOIS",
+    "NB_VALID": 67311
+  },
+  {
+    "LIBELLE_ARRET": "FORT D'AUBERVILLIERS",
+    "NB_VALID": 130016
+  },
+  {
+    "LIBELLE_ARRET": "FR. POPULAIRE",
+    "NB_VALID": 79542
+  },
+  {
+    "LIBELLE_ARRET": "FRANCONVILLE-LE-PLESSIS-BOUCHARD",
+    "NB_VALID": 48216
+  },
+  {
+    "LIBELLE_ARRET": "FRANKLIN-D.ROOSEVELT",
+    "NB_VALID": 332120
+  },
+  {
+    "LIBELLE_ARRET": "FRATERNELLE",
+    "NB_VALID": 7776
+  },
+  {
+    "LIBELLE_ARRET": "FREINVILLE-SEVRAN",
+    "NB_VALID": 753
+  },
+  {
+    "LIBELLE_ARRET": "FREPILLON",
+    "NB_VALID": 3048
+  },
+  {
+    "LIBELLE_ARRET": "GABRIEL PERI-ASNIERES-GENNEVILLIERS",
+    "NB_VALID": 148604
+  },
+  {
+    "LIBELLE_ARRET": "GAGNY",
+    "NB_VALID": 47628
+  },
+  {
+    "LIBELLE_ARRET": "GAITE",
+    "NB_VALID": 90374
+  },
+  {
+    "LIBELLE_ARRET": "GALLIENI (PARC DE BAGNOLET)",
+    "NB_VALID": 142692
+  },
+  {
+    "LIBELLE_ARRET": "GAMBETTA",
+    "NB_VALID": 169592
+  },
+  {
+    "LIBELLE_ARRET": "GARANCIERES-LA QUEUE",
+    "NB_VALID": 3240
+  },
+  {
+    "LIBELLE_ARRET": "GARCHES-MARNES-LA-COQUETTE",
+    "NB_VALID": 23610
+  },
+  {
+    "LIBELLE_ARRET": "GARE DE GENNEVILLIERS",
+    "NB_VALID": 20201
+  },
+  {
+    "LIBELLE_ARRET": "GARE DE L'EST",
+    "NB_VALID": 872668
+  },
+  {
+    "LIBELLE_ARRET": "GARE DE LYON",
+    "NB_VALID": 1104637
+  },
+  {
+    "LIBELLE_ARRET": "GARE DU NORD",
+    "NB_VALID": 781322
+  },
+  {
+    "LIBELLE_ARRET": "GARGAN",
+    "NB_VALID": 4977
+  },
+  {
+    "LIBELLE_ARRET": "GARGENVILLE",
+    "NB_VALID": 3187
+  },
+  {
+    "LIBELLE_ARRET": "GARGES-SARCELLES",
+    "NB_VALID": 233591
+  },
+  {
+    "LIBELLE_ARRET": "GARIBALDI",
+    "NB_VALID": 87388
+  },
+  {
+    "LIBELLE_ARRET": "GAZERAN",
+    "NB_VALID": 1625
+  },
+  {
+    "LIBELLE_ARRET": "GENTILLY",
+    "NB_VALID": 84598
+  },
+  {
+    "LIBELLE_ARRET": "GEORGE V",
+    "NB_VALID": 130694
+  },
+  {
+    "LIBELLE_ARRET": "GIF-SUR-YVETTE",
+    "NB_VALID": 12845
+  },
+  {
+    "LIBELLE_ARRET": "GLACIERE",
+    "NB_VALID": 77184
+  },
+  {
+    "LIBELLE_ARRET": "GONCOURT (HOPITAL SAINT-LOUIS)",
+    "NB_VALID": 72670
+  },
+  {
+    "LIBELLE_ARRET": "GOUSSAINVILLE",
+    "NB_VALID": 47420
+  },
+  {
+    "LIBELLE_ARRET": "GRAND-BOURG",
+    "NB_VALID": 1890
+  },
+  {
+    "LIBELLE_ARRET": "GRANDS BOULEVARDS (RUE MONTMARTRE)",
+    "NB_VALID": 124936
+  },
+  {
+    "LIBELLE_ARRET": "GRAVIGNY-BALIZY",
+    "NB_VALID": 3562
+  },
+  {
+    "LIBELLE_ARRET": "GRETZ-ARMAINVILLIERS",
+    "NB_VALID": 6756
+  },
+  {
+    "LIBELLE_ARRET": "GRIGNY-CENTRE",
+    "NB_VALID": 52984
+  },
+  {
+    "LIBELLE_ARRET": "GROS-NOYER-SAINT-PRIX",
+    "NB_VALID": 11556
+  },
+  {
+    "LIBELLE_ARRET": "GROSLAY",
+    "NB_VALID": 10050
+  },
+  {
+    "LIBELLE_ARRET": "GUERARD-LA-CELLE-SUR-MORIN",
+    "NB_VALID": 587
+  },
+  {
+    "LIBELLE_ARRET": "GUILLERVAL",
+    "NB_VALID": 87
+  },
+  {
+    "LIBELLE_ARRET": "GUY MOQUET",
+    "NB_VALID": 119734
+  },
+  {
+    "LIBELLE_ARRET": "HAUSSMANN-SAINT-LAZARE",
+    "NB_VALID": 348413
+  },
+  {
+    "LIBELLE_ARRET": "HAVRE-CAUMARTIN",
+    "NB_VALID": 119600
+  },
+  {
+    "LIBELLE_ARRET": "HERBLAY",
+    "NB_VALID": 46146
+  },
+  {
+    "LIBELLE_ARRET": "HERICY",
+    "NB_VALID": 344
+  },
+  {
+    "LIBELLE_ARRET": "HOCHE",
+    "NB_VALID": 165853
+  },
+  {
+    "LIBELLE_ARRET": "HOTEL DE VILLE",
+    "NB_VALID": 309348
+  },
+  {
+    "LIBELLE_ARRET": "HOUDAN",
+    "NB_VALID": 8764
+  },
+  {
+    "LIBELLE_ARRET": "HOUILLES-CARRIERES-SUR-SEINE",
+    "NB_VALID": 116008
+  },
+  {
+    "LIBELLE_ARRET": "IENA",
+    "NB_VALID": 46283
+  },
+  {
+    "LIBELLE_ARRET": "IGNY",
+    "NB_VALID": 2500
+  },
+  {
+    "LIBELLE_ARRET": "Inconnu",
+    "NB_VALID": 59434
+  },
+  {
+    "LIBELLE_ARRET": "INVALIDES",
+    "NB_VALID": 92562
+  },
+  {
+    "LIBELLE_ARRET": "ISLES-ARMENTIERES-CONGIS",
+    "NB_VALID": 737
+  },
+  {
+    "LIBELLE_ARRET": "ISSOU-PORCHEVILLE",
+    "NB_VALID": 816
+  },
+  {
+    "LIBELLE_ARRET": "ISSY",
+    "NB_VALID": 18882
+  },
+  {
+    "LIBELLE_ARRET": "ISSY-VAL DE SEINE",
+    "NB_VALID": 62349
+  },
+  {
+    "LIBELLE_ARRET": "IVRY-SUR-SEINE",
+    "NB_VALID": 15833
+  },
+  {
+    "LIBELLE_ARRET": "JACQUES BONSERGENT",
+    "NB_VALID": 47229
+  },
+  {
+    "LIBELLE_ARRET": "JASMIN",
+    "NB_VALID": 32470
+  },
+  {
+    "LIBELLE_ARRET": "JAURES",
+    "NB_VALID": 148097
+  },
+  {
+    "LIBELLE_ARRET": "JAVEL",
+    "NB_VALID": 161784
+  },
+  {
+    "LIBELLE_ARRET": "JOINVILLE-LE-PONT",
+    "NB_VALID": 95317
+  },
+  {
+    "LIBELLE_ARRET": "JOURDAIN",
+    "NB_VALID": 94961
+  },
+  {
+    "LIBELLE_ARRET": "JOUY-EN-JOSAS",
+    "NB_VALID": 2914
+  },
+  {
+    "LIBELLE_ARRET": "JULES JOFFRIN",
+    "NB_VALID": 147984
+  },
+  {
+    "LIBELLE_ARRET": "JUSSIEU",
+    "NB_VALID": 107737
+  },
+  {
+    "LIBELLE_ARRET": "JUVISY",
+    "NB_VALID": 161204
+  },
+  {
+    "LIBELLE_ARRET": "JUZIERS",
+    "NB_VALID": 1463
+  },
+  {
+    "LIBELLE_ARRET": "KLEBER",
+    "NB_VALID": 21706
+  },
+  {
+    "LIBELLE_ARRET": "L'ABBAYE",
+    "NB_VALID": 1711
+  },
+  {
+    "LIBELLE_ARRET": "L'ETANG-LA-VILLE",
+    "NB_VALID": 2075
+  },
+  {
+    "LIBELLE_ARRET": "L'ISLE-ADAM-PARMAIN",
+    "NB_VALID": 4936
+  },
+  {
+    "LIBELLE_ARRET": "LA BARRE-ORMESSON",
+    "NB_VALID": 16473
+  },
+  {
+    "LIBELLE_ARRET": "LA CELLE-SAINT-CLOUD",
+    "NB_VALID": 4712
+  },
+  {
+    "LIBELLE_ARRET": "LA CHAPELLE",
+    "NB_VALID": 235493
+  },
+  {
+    "LIBELLE_ARRET": "LA COURNEUVE 8 MAI 1945",
+    "NB_VALID": 184131
+  },
+  {
+    "LIBELLE_ARRET": "LA COURNEUVE-AUBERVILLIERS",
+    "NB_VALID": 138154
+  },
+  {
+    "LIBELLE_ARRET": "LA CROIX-DE-BERNY-FRESNES",
+    "NB_VALID": 94949
+  },
+  {
+    "LIBELLE_ARRET": "LA DEFENSE-GRANDE ARCHE",
+    "NB_VALID": 1859266
+  },
+  {
+    "LIBELLE_ARRET": "LA FERTE-ALAIS",
+    "NB_VALID": 1829
+  },
+  {
+    "LIBELLE_ARRET": "LA FERTE-SOUS-JOUARRE",
+    "NB_VALID": 19006
+  },
+  {
+    "LIBELLE_ARRET": "LA FOURCHE",
+    "NB_VALID": 70308
+  },
+  {
+    "LIBELLE_ARRET": "LA FRETTE-MONTIGNY",
+    "NB_VALID": 4017
+  },
+  {
+    "LIBELLE_ARRET": "LA GARENNE-COLOMBES",
+    "NB_VALID": 57988
+  },
+  {
+    "LIBELLE_ARRET": "LA GRANDE PAROISSE",
+    "NB_VALID": 434
+  },
+  {
+    "LIBELLE_ARRET": "LA HACQUINIERE",
+    "NB_VALID": 4198
+  },
+  {
+    "LIBELLE_ARRET": "LA MOTTE-PICQUET-GRENELLE",
+    "NB_VALID": 137446
+  },
+  {
+    "LIBELLE_ARRET": "LA MUETTE",
+    "NB_VALID": 78421
+  },
+  {
+    "LIBELLE_ARRET": "LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON",
+    "NB_VALID": 5045
+  },
+  {
+    "LIBELLE_ARRET": "LA PLAINE-STADE DE FRANCE",
+    "NB_VALID": 148634
+  },
+  {
+    "LIBELLE_ARRET": "LA REMISE A JORELLE",
+    "NB_VALID": 916
+  },
+  {
+    "LIBELLE_ARRET": "LA TOUR MAUBOURG",
+    "NB_VALID": 57922
+  },
+  {
+    "LIBELLE_ARRET": "LA VARENNE-CHENNEVIERES",
+    "NB_VALID": 47553
+  },
+  {
+    "LIBELLE_ARRET": "LA VERRIERE",
+    "NB_VALID": 44965
+  },
+  {
+    "LIBELLE_ARRET": "LAGNY-THORIGNY",
+    "NB_VALID": 49200
+  },
+  {
+    "LIBELLE_ARRET": "LAMARCK-CAULAINCOURT",
+    "NB_VALID": 47535
+  },
+  {
+    "LIBELLE_ARRET": "LAPLACE",
+    "NB_VALID": 94885
+  },
+  {
+    "LIBELLE_ARRET": "LARDY",
+    "NB_VALID": 2842
+  },
+  {
+    "LIBELLE_ARRET": "LAUMIERE",
+    "NB_VALID": 141424
+  },
+  {
+    "LIBELLE_ARRET": "LE BOURGET",
+    "NB_VALID": 160601
+  },
+  {
+    "LIBELLE_ARRET": "LE BRAS-DE-FER",
+    "NB_VALID": 27396
+  },
+  {
+    "LIBELLE_ARRET": "LE GUICHET",
+    "NB_VALID": 18536
+  },
+  {
+    "LIBELLE_ARRET": "LE KREMLIN-BICETRE",
+    "NB_VALID": 106642
+  },
+  {
+    "LIBELLE_ARRET": "LE MEE",
+    "NB_VALID": 32757
+  },
+  {
+    "LIBELLE_ARRET": "LE PARC-DE-SAINT-MAUR",
+    "NB_VALID": 44845
+  },
+  {
+    "LIBELLE_ARRET": "LE PELETIER",
+    "NB_VALID": 74271
+  },
+  {
+    "LIBELLE_ARRET": "LE PERRAY",
+    "NB_VALID": 3519
+  },
+  {
+    "LIBELLE_ARRET": "LE PLESSIS-CHENET",
+    "NB_VALID": 213
+  },
+  {
+    "LIBELLE_ARRET": "LE RAINCY-VILLEMOMBLE-MONTFERMEIL",
+    "NB_VALID": 96599
+  },
+  {
+    "LIBELLE_ARRET": "LE STADE",
+    "NB_VALID": 18949
+  },
+  {
+    "LIBELLE_ARRET": "LE VAL-D'OR",
+    "NB_VALID": 29019
+  },
+  {
+    "LIBELLE_ARRET": "LE VERT-DE-MAISONS",
+    "NB_VALID": 28846
+  },
+  {
+    "LIBELLE_ARRET": "LE VESINET-CENTRE",
+    "NB_VALID": 32082
+  },
+  {
+    "LIBELLE_ARRET": "LE VESINET-LE PECQ",
+    "NB_VALID": 43816
+  },
+  {
+    "LIBELLE_ARRET": "LEDRU-ROLLIN",
+    "NB_VALID": 91893
+  },
+  {
+    "LIBELLE_ARRET": "LES AGNETTES-ASNIERES-GENNEVILLIERS",
+    "NB_VALID": 75225
+  },
+  {
+    "LIBELLE_ARRET": "LES ARDOINES",
+    "NB_VALID": 38305
+  },
+  {
+    "LIBELLE_ARRET": "LES BACONNETS",
+    "NB_VALID": 59921
+  },
+  {
+    "LIBELLE_ARRET": "LES BOULLEREAUX-CHAMPIGNY",
+    "NB_VALID": 26333
+  },
+  {
+    "LIBELLE_ARRET": "LES CLAIRIERES-DE-VERNEUIL",
+    "NB_VALID": 2189
+  },
+  {
+    "LIBELLE_ARRET": "LES COQUETIERS",
+    "NB_VALID": 1351
+  },
+  {
+    "LIBELLE_ARRET": "LES COURTILLES",
+    "NB_VALID": 145927
+  },
+  {
+    "LIBELLE_ARRET": "LES GOBELINS",
+    "NB_VALID": 60234
+  },
+  {
+    "LIBELLE_ARRET": "LES GRESILLONS",
+    "NB_VALID": 18622
+  },
+  {
+    "LIBELLE_ARRET": "LES HALLES",
+    "NB_VALID": 237974
+  },
+  {
+    "LIBELLE_ARRET": "LES MUREAUX",
+    "NB_VALID": 60012
+  },
+  {
+    "LIBELLE_ARRET": "LES NOUES",
+    "NB_VALID": 13112
+  },
+  {
+    "LIBELLE_ARRET": "LES PAVILLONS-SOUS-BOIS",
+    "NB_VALID": 2432
+  },
+  {
+    "LIBELLE_ARRET": "LES SABLONS (JARDIN D'ACCLIMATATION)",
+    "NB_VALID": 155232
+  },
+  {
+    "LIBELLE_ARRET": "LES SAULES",
+    "NB_VALID": 9284
+  },
+  {
+    "LIBELLE_ARRET": "LES VALLEES",
+    "NB_VALID": 47141
+  },
+  {
+    "LIBELLE_ARRET": "LES YVRIS-NOISY-LE-GRAND",
+    "NB_VALID": 8770
+  },
+  {
+    "LIBELLE_ARRET": "LES-ESSARTS-LE-ROI",
+    "NB_VALID": 5318
+  },
+  {
+    "LIBELLE_ARRET": "LIBERTE",
+    "NB_VALID": 89316
+  },
+  {
+    "LIBELLE_ARRET": "LIEGE",
+    "NB_VALID": 40902
+  },
+  {
+    "LIBELLE_ARRET": "LIEUSAINT-MOISSY",
+    "NB_VALID": 80088
+  },
+  {
+    "LIBELLE_ARRET": "LIMAY",
+    "NB_VALID": 4653
+  },
+  {
+    "LIBELLE_ARRET": "LIVRY-SUR-SEINE",
+    "NB_VALID": 705
+  },
+  {
+    "LIBELLE_ARRET": "LIZY-SUR-OURCQ",
+    "NB_VALID": 2010
+  },
+  {
+    "LIBELLE_ARRET": "LOGNES",
+    "NB_VALID": 47210
+  },
+  {
+    "LIBELLE_ARRET": "LONGJUMEAU",
+    "NB_VALID": 2814
+  },
+  {
+    "LIBELLE_ARRET": "LONGUEVILLE",
+    "NB_VALID": 7123
+  },
+  {
+    "LIBELLE_ARRET": "LOUIS BLANC",
+    "NB_VALID": 41695
+  },
+  {
+    "LIBELLE_ARRET": "LOUISE MICHEL",
+    "NB_VALID": 84417
+  },
+  {
+    "LIBELLE_ARRET": "LOURMEL",
+    "NB_VALID": 62404
+  },
+  {
+    "LIBELLE_ARRET": "LOUVECIENNES",
+    "NB_VALID": 1380
+  },
+  {
+    "LIBELLE_ARRET": "LOUVRE-RIVOLI",
+    "NB_VALID": 54246
+  },
+  {
+    "LIBELLE_ARRET": "LOUVRES",
+    "NB_VALID": 9426
+  },
+  {
+    "LIBELLE_ARRET": "LOZERE",
+    "NB_VALID": 11000
+  },
+  {
+    "LIBELLE_ARRET": "LUXEMBOURG",
+    "NB_VALID": 121888
+  },
+  {
+    "LIBELLE_ARRET": "LUZARCHES",
+    "NB_VALID": 531
+  },
+  {
+    "LIBELLE_ARRET": "LYCEE HENRI SELLIER",
+    "NB_VALID": 1482
+  },
+  {
+    "LIBELLE_ARRET": "M. MONTROUGE",
+    "NB_VALID": 127623
+  },
+  {
+    "LIBELLE_ARRET": "MABILLON",
+    "NB_VALID": 29581
+  },
+  {
+    "LIBELLE_ARRET": "MADELEINE",
+    "NB_VALID": 158611
+  },
+  {
+    "LIBELLE_ARRET": "MAGENTA",
+    "NB_VALID": 74335
+  },
+  {
+    "LIBELLE_ARRET": "MAIRIE D'ISSY",
+    "NB_VALID": 114222
+  },
+  {
+    "LIBELLE_ARRET": "MAIRIE D'IVRY",
+    "NB_VALID": 77826
+  },
+  {
+    "LIBELLE_ARRET": "MAIRIE DE CLICHY",
+    "NB_VALID": 212526
+  },
+  {
+    "LIBELLE_ARRET": "MAIRIE DE MONTREUIL",
+    "NB_VALID": 271257
+  },
+  {
+    "LIBELLE_ARRET": "MAIRIE DE SAINT-OUEN",
+    "NB_VALID": 112423
+  },
+  {
+    "LIBELLE_ARRET": "MAIRIE DES LILAS",
+    "NB_VALID": 96288
+  },
+  {
+    "LIBELLE_ARRET": "MAISON BLANCHE",
+    "NB_VALID": 47655
+  },
+  {
+    "LIBELLE_ARRET": "MAISONS-ALFORT-ALFORTVILLE",
+    "NB_VALID": 88448
+  },
+  {
+    "LIBELLE_ARRET": "MAISONS-ALFORT-LES JUILLIOTTES",
+    "NB_VALID": 64401
+  },
+  {
+    "LIBELLE_ARRET": "MAISONS-ALFORT-STADE",
+    "NB_VALID": 38610
+  },
+  {
+    "LIBELLE_ARRET": "MAISONS-LAFFITTE",
+    "NB_VALID": 91496
+  },
+  {
+    "LIBELLE_ARRET": "MAISSE",
+    "NB_VALID": 1246
+  },
+  {
+    "LIBELLE_ARRET": "MALAKOFF-PLATEAU DE VANVES",
+    "NB_VALID": 63742
+  },
+  {
+    "LIBELLE_ARRET": "MALAKOFF-RUE ETIENNE DOLET",
+    "NB_VALID": 72192
+  },
+  {
+    "LIBELLE_ARRET": "MALESHERBES",
+    "NB_VALID": 44929
+  },
+  {
+    "LIBELLE_ARRET": "MANTES-LA-JOLIE",
+    "NB_VALID": 31709
+  },
+  {
+    "LIBELLE_ARRET": "MANTES-STATION",
+    "NB_VALID": 7842
+  },
+  {
+    "LIBELLE_ARRET": "MARAICHERS",
+    "NB_VALID": 60379
+  },
+  {
+    "LIBELLE_ARRET": "MARCADET-POISSONNIERS",
+    "NB_VALID": 50729
+  },
+  {
+    "LIBELLE_ARRET": "MARCEL SEMBAT",
+    "NB_VALID": 160731
+  },
+  {
+    "LIBELLE_ARRET": "MAREIL-MARLY",
+    "NB_VALID": 58
+  },
+  {
+    "LIBELLE_ARRET": "MAREIL-SUR-MAULDRE",
+    "NB_VALID": 390
+  },
+  {
+    "LIBELLE_ARRET": "MARLES-EN-BRIE",
+    "NB_VALID": 3907
+  },
+  {
+    "LIBELLE_ARRET": "MARLY-LE-ROI",
+    "NB_VALID": 6513
+  },
+  {
+    "LIBELLE_ARRET": "MAROLLES-EN-HUREPOIX",
+    "NB_VALID": 8349
+  },
+  {
+    "LIBELLE_ARRET": "MARX DORMOY",
+    "NB_VALID": 88623
+  },
+  {
+    "LIBELLE_ARRET": "MASSY-PALAISEAU",
+    "NB_VALID": 199214
+  },
+  {
+    "LIBELLE_ARRET": "MASSY-VERRIERES",
+    "NB_VALID": 12724
+  },
+  {
+    "LIBELLE_ARRET": "MAUBERT-MUTUALITE",
+    "NB_VALID": 43756
+  },
+  {
+    "LIBELLE_ARRET": "MAULE",
+    "NB_VALID": 1499
+  },
+  {
+    "LIBELLE_ARRET": "MAURECOURT",
+    "NB_VALID": 5151
+  },
+  {
+    "LIBELLE_ARRET": "MEAUX",
+    "NB_VALID": 141144
+  },
+  {
+    "LIBELLE_ARRET": "MELUN",
+    "NB_VALID": 159152
+  },
+  {
+    "LIBELLE_ARRET": "MENILMONTANT",
+    "NB_VALID": 73318
+  },
+  {
+    "LIBELLE_ARRET": "MENNECY",
+    "NB_VALID": 5410
+  },
+  {
+    "LIBELLE_ARRET": "MERIEL",
+    "NB_VALID": 1546
+  },
+  {
+    "LIBELLE_ARRET": "MERY-VAL D'OISE",
+    "NB_VALID": 4181
+  },
+  {
+    "LIBELLE_ARRET": "MEUDON",
+    "NB_VALID": 6987
+  },
+  {
+    "LIBELLE_ARRET": "MEUDON-VAL-FLEURY",
+    "NB_VALID": 18830
+  },
+  {
+    "LIBELLE_ARRET": "MEULAN-HARDRICOURT",
+    "NB_VALID": 4491
+  },
+  {
+    "LIBELLE_ARRET": "MICHEL BIZOT",
+    "NB_VALID": 38533
+  },
+  {
+    "LIBELLE_ARRET": "MICHEL-ANGE-AUTEUIL",
+    "NB_VALID": 38004
+  },
+  {
+    "LIBELLE_ARRET": "MICHEL-ANGE-MOLITOR",
+    "NB_VALID": 36087
+  },
+  {
+    "LIBELLE_ARRET": "MIRABEAU",
+    "NB_VALID": 27908
+  },
+  {
+    "LIBELLE_ARRET": "MIROMESNIL",
+    "NB_VALID": 143523
+  },
+  {
+    "LIBELLE_ARRET": "MITRY-CLAYE",
+    "NB_VALID": 26243
+  },
+  {
+    "LIBELLE_ARRET": "MONCEAU",
+    "NB_VALID": 38839
+  },
+  {
+    "LIBELLE_ARRET": "MONNERVILLE",
+    "NB_VALID": 201
+  },
+  {
+    "LIBELLE_ARRET": "MONTEREAU",
+    "NB_VALID": 15207
+  },
+  {
+    "LIBELLE_ARRET": "MONTFORT-L'AMAURY-MERE",
+    "NB_VALID": 5084
+  },
+  {
+    "LIBELLE_ARRET": "MONTGALLET",
+    "NB_VALID": 48795
+  },
+  {
+    "LIBELLE_ARRET": "MONTGERON-CROSNE",
+    "NB_VALID": 38238
+  },
+  {
+    "LIBELLE_ARRET": "MONTGEROULT-COURCELLES",
+    "NB_VALID": 162
+  },
+  {
+    "LIBELLE_ARRET": "MONTIGNY-BEAUCHAMP",
+    "NB_VALID": 44504
+  },
+  {
+    "LIBELLE_ARRET": "MONTIGNY-SUR-LOING",
+    "NB_VALID": 2048
+  },
+  {
+    "LIBELLE_ARRET": "MONTPARNASSE",
+    "NB_VALID": 948104
+  },
+  {
+    "LIBELLE_ARRET": "MONTREUIL",
+    "NB_VALID": 20724
+  },
+  {
+    "LIBELLE_ARRET": "MONTRY-CONDE",
+    "NB_VALID": 109
+  },
+  {
+    "LIBELLE_ARRET": "MONTSOULT-MAFFLIERS",
+    "NB_VALID": 19160
+  },
+  {
+    "LIBELLE_ARRET": "MORET-VENEUX-LES-SABLONS",
+    "NB_VALID": 7196
+  },
+  {
+    "LIBELLE_ARRET": "MORMANT",
+    "NB_VALID": 2560
+  },
+  {
+    "LIBELLE_ARRET": "MORTCERF",
+    "NB_VALID": 753
+  },
+  {
+    "LIBELLE_ARRET": "MOULIN-GALANT",
+    "NB_VALID": 6065
+  },
+  {
+    "LIBELLE_ARRET": "MOUROUX",
+    "NB_VALID": 639
+  },
+  {
+    "LIBELLE_ARRET": "MOUTON-DUVERNET",
+    "NB_VALID": 35889
+  },
+  {
+    "LIBELLE_ARRET": "MUSEE D'ORSAY",
+    "NB_VALID": 16994
+  },
+  {
+    "LIBELLE_ARRET": "NANGIS",
+    "NB_VALID": 7659
+  },
+  {
+    "LIBELLE_ARRET": "NANTERRE-PREFECTURE",
+    "NB_VALID": 202948
+  },
+  {
+    "LIBELLE_ARRET": "NANTERRE-UNIVERSITE",
+    "NB_VALID": 67578
+  },
+  {
+    "LIBELLE_ARRET": "NANTERRE-VILLE",
+    "NB_VALID": 108107
+  },
+  {
+    "LIBELLE_ARRET": "NANTEUIL-SAACY",
+    "NB_VALID": 5859
+  },
+  {
+    "LIBELLE_ARRET": "NATION",
+    "NB_VALID": 386106
+  },
+  {
+    "LIBELLE_ARRET": "NATIONALE",
+    "NB_VALID": 99709
+  },
+  {
+    "LIBELLE_ARRET": "NEMOURS-SAINT-PIERRE",
+    "NB_VALID": 12373
+  },
+  {
+    "LIBELLE_ARRET": "NEUILLY-PLAISANCE",
+    "NB_VALID": 176584
+  },
+  {
+    "LIBELLE_ARRET": "NEUVILLE UNIVERSITE",
+    "NB_VALID": 29386
+  },
+  {
+    "LIBELLE_ARRET": "NEZEL-AULNAY",
+    "NB_VALID": 392
+  },
+  {
+    "LIBELLE_ARRET": "NOGENT-LE-PERREUX",
+    "NB_VALID": 40179
+  },
+  {
+    "LIBELLE_ARRET": "NOGENT-SUR-MARNE",
+    "NB_VALID": 68382
+  },
+  {
+    "LIBELLE_ARRET": "NOINTEL-MOURS",
+    "NB_VALID": 3902
+  },
+  {
+    "LIBELLE_ARRET": "NOISIEL",
+    "NB_VALID": 76317
+  },
+  {
+    "LIBELLE_ARRET": "NOISY-CHAMPS",
+    "NB_VALID": 162992
+  },
+  {
+    "LIBELLE_ARRET": "NOISY-LE-GRAND-MONT D'EST",
+    "NB_VALID": 224151
+  },
+  {
+    "LIBELLE_ARRET": "NOISY-LE-ROI",
+    "NB_VALID": 515
+  },
+  {
+    "LIBELLE_ARRET": "NOISY-LE-SEC",
+    "NB_VALID": 87791
+  },
+  {
+    "LIBELLE_ARRET": "NOTRE-DAME-DE-LORETTE",
+    "NB_VALID": 63407
+  },
+  {
+    "LIBELLE_ARRET": "NOTRE-DAME-DES-CHAMPS",
+    "NB_VALID": 37725
+  },
+  {
+    "LIBELLE_ARRET": "OBERKAMPF",
+    "NB_VALID": 97473
+  },
+  {
+    "LIBELLE_ARRET": "ODEON",
+    "NB_VALID": 72830
+  },
+  {
+    "LIBELLE_ARRET": "OLYMPIADES",
+    "NB_VALID": 120180
+  },
+  {
+    "LIBELLE_ARRET": "OPERA",
+    "NB_VALID": 233670
+  },
+  {
+    "LIBELLE_ARRET": "ORANGIS-BOIS DE L'EPINE",
+    "NB_VALID": 24292
+  },
+  {
+    "LIBELLE_ARRET": "ORGERUS-BEHOUST",
+    "NB_VALID": 2354
+  },
+  {
+    "LIBELLE_ARRET": "ORLY VILLE",
+    "NB_VALID": 19217
+  },
+  {
+    "LIBELLE_ARRET": "ORSAY-VILLE",
+    "NB_VALID": 38103
+  },
+  {
+    "LIBELLE_ARRET": "OSNY",
+    "NB_VALID": 2850
+  },
+  {
+    "LIBELLE_ARRET": "OURCQ",
+    "NB_VALID": 116632
+  },
+  {
+    "LIBELLE_ARRET": "OZOIR-LA-FERRIERE",
+    "NB_VALID": 20908
+  },
+  {
+    "LIBELLE_ARRET": "PALAIS ROYAL-MUSEE DU LOUVRE",
+    "NB_VALID": 125172
+  },
+  {
+    "LIBELLE_ARRET": "PALAISEAU",
+    "NB_VALID": 28337
+  },
+  {
+    "LIBELLE_ARRET": "PALAISEAU-VILLEBON",
+    "NB_VALID": 9182
+  },
+  {
+    "LIBELLE_ARRET": "PANTIN",
+    "NB_VALID": 85014
+  },
+  {
+    "LIBELLE_ARRET": "PARC DES EXPOSITIONS",
+    "NB_VALID": 37254
+  },
+  {
+    "LIBELLE_ARRET": "PARC-DE-SCEAUX",
+    "NB_VALID": 13881
+  },
+  {
+    "LIBELLE_ARRET": "PARMENTIER",
+    "NB_VALID": 76536
+  },
+  {
+    "LIBELLE_ARRET": "PASSY",
+    "NB_VALID": 88461
+  },
+  {
+    "LIBELLE_ARRET": "PASTEUR",
+    "NB_VALID": 54551
+  },
+  {
+    "LIBELLE_ARRET": "PELLEPORT",
+    "NB_VALID": 9072
+  },
+  {
+    "LIBELLE_ARRET": "PERE LACHAISE",
+    "NB_VALID": 118520
+  },
+  {
+    "LIBELLE_ARRET": "PEREIRE-LEVALLOIS",
+    "NB_VALID": 91554
+  },
+  {
+    "LIBELLE_ARRET": "PERNETY",
+    "NB_VALID": 62018
+  },
+  {
+    "LIBELLE_ARRET": "PERSAN-BEAUMONT",
+    "NB_VALID": 40886
+  },
+  {
+    "LIBELLE_ARRET": "PETIT-JOUY-LES-LOGES",
+    "NB_VALID": 1251
+  },
+  {
+    "LIBELLE_ARRET": "PETIT-VAUX",
+    "NB_VALID": 2581
+  },
+  {
+    "LIBELLE_ARRET": "PHILIPPE AUGUSTE",
+    "NB_VALID": 44646
+  },
+  {
+    "LIBELLE_ARRET": "PICPUS",
+    "NB_VALID": 30450
+  },
+  {
+    "LIBELLE_ARRET": "PIERRE CURIE",
+    "NB_VALID": 41312
+  },
+  {
+    "LIBELLE_ARRET": "PIERREFITTE T11",
+    "NB_VALID": 4320
+  },
+  {
+    "LIBELLE_ARRET": "PIERREFITTE-STAINS",
+    "NB_VALID": 69476
+  },
+  {
+    "LIBELLE_ARRET": "PIERRELAYE",
+    "NB_VALID": 6467
+  },
+  {
+    "LIBELLE_ARRET": "PIGALLE",
+    "NB_VALID": 123834
+  },
+  {
+    "LIBELLE_ARRET": "PLACE D'ITALIE",
+    "NB_VALID": 286137
+  },
+  {
+    "LIBELLE_ARRET": "PLACE DE CLICHY",
+    "NB_VALID": 226447
+  },
+  {
+    "LIBELLE_ARRET": "PLACE DES FETES",
+    "NB_VALID": 41667
+  },
+  {
+    "LIBELLE_ARRET": "PLACE MONGE (JARDIN DES PLANTES)",
+    "NB_VALID": 59829
+  },
+  {
+    "LIBELLE_ARRET": "PLAISANCE",
+    "NB_VALID": 150747
+  },
+  {
+    "LIBELLE_ARRET": "PLAISIR-GRIGNON",
+    "NB_VALID": 27467
+  },
+  {
+    "LIBELLE_ARRET": "PLAISIR-LES-CLAYES",
+    "NB_VALID": 7480
+  },
+  {
+    "LIBELLE_ARRET": "POISSONNIERE",
+    "NB_VALID": 91917
+  },
+  {
+    "LIBELLE_ARRET": "POISSY",
+    "NB_VALID": 131758
+  },
+  {
+    "LIBELLE_ARRET": "PONT DE LEVALLOIS-BECON",
+    "NB_VALID": 155533
+  },
+  {
+    "LIBELLE_ARRET": "PONT DE NEUILLY (AVENUE DE MADRID)",
+    "NB_VALID": 108435
+  },
+  {
+    "LIBELLE_ARRET": "PONT DE RUNGIS",
+    "NB_VALID": 4151
+  },
+  {
+    "LIBELLE_ARRET": "PONT DE SEVRES",
+    "NB_VALID": 121527
+  },
+  {
+    "LIBELLE_ARRET": "PONT-CARDINET",
+    "NB_VALID": 43473
+  },
+  {
+    "LIBELLE_ARRET": "PONT-MARIE (CITE DES ARTS)",
+    "NB_VALID": 39721
+  },
+  {
+    "LIBELLE_ARRET": "PONT-NEUF (LA MONNAIE)",
+    "NB_VALID": 32028
+  },
+  {
+    "LIBELLE_ARRET": "PONT-PETIT",
+    "NB_VALID": 946
+  },
+  {
+    "LIBELLE_ARRET": "PONTHIERRY-PRINGY",
+    "NB_VALID": 2508
+  },
+  {
+    "LIBELLE_ARRET": "PONTOISE",
+    "NB_VALID": 33956
+  },
+  {
+    "LIBELLE_ARRET": "PORCHEFONTAINE",
+    "NB_VALID": 7540
+  },
+  {
+    "LIBELLE_ARRET": "PORT ROYAL",
+    "NB_VALID": 89124
+  },
+  {
+    "LIBELLE_ARRET": "PORTE D'AUTEUIL",
+    "NB_VALID": 11441
+  },
+  {
+    "LIBELLE_ARRET": "PORTE D'ITALIE",
+    "NB_VALID": 65376
+  },
+  {
+    "LIBELLE_ARRET": "PORTE D'IVRY",
+    "NB_VALID": 52970
+  },
+  {
+    "LIBELLE_ARRET": "PORTE D'ORLEANS",
+    "NB_VALID": 151216
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DAUPHINE",
+    "NB_VALID": 57453
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE BAGNOLET",
+    "NB_VALID": 105350
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE CHAMPERRET",
+    "NB_VALID": 100697
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE CHARENTON",
+    "NB_VALID": 67939
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE CHOISY",
+    "NB_VALID": 101254
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE CLICHY",
+    "NB_VALID": 87292
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE CLIGNANCOURT",
+    "NB_VALID": 154912
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE LA CHAPELLE",
+    "NB_VALID": 66855
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE LA VILLETTE",
+    "NB_VALID": 126926
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE MONTREUIL",
+    "NB_VALID": 79484
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE PANTIN",
+    "NB_VALID": 148078
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE SAINT-CLOUD",
+    "NB_VALID": 103023
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE SAINT-OUEN",
+    "NB_VALID": 102212
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE VANVES",
+    "NB_VALID": 123591
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE VERSAILLES",
+    "NB_VALID": 142049
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DE VINCENNES",
+    "NB_VALID": 242660
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DES LILAS",
+    "NB_VALID": 101275
+  },
+  {
+    "LIBELLE_ARRET": "PORTE DOREE",
+    "NB_VALID": 73488
+  },
+  {
+    "LIBELLE_ARRET": "PORTE MAILLOT",
+    "NB_VALID": 202739
+  },
+  {
+    "LIBELLE_ARRET": "PORTE-DE-CLICHY",
+    "NB_VALID": 36374
+  },
+  {
+    "LIBELLE_ARRET": "PRE SAINT-GERVAIS",
+    "NB_VALID": 11574
+  },
+  {
+    "LIBELLE_ARRET": "PRESLES-COURCELLES",
+    "NB_VALID": 2857
+  },
+  {
+    "LIBELLE_ARRET": "PROVINS",
+    "NB_VALID": 8513
+  },
+  {
+    "LIBELLE_ARRET": "PUTEAUX",
+    "NB_VALID": 33827
+  },
+  {
+    "LIBELLE_ARRET": "PYRAMIDES",
+    "NB_VALID": 102256
+  },
+  {
+    "LIBELLE_ARRET": "PYRENEES",
+    "NB_VALID": 58067
+  },
+  {
+    "LIBELLE_ARRET": "QUAI DE LA GARE",
+    "NB_VALID": 93635
+  },
+  {
+    "LIBELLE_ARRET": "QUAI DE LA RAPEE",
+    "NB_VALID": 30249
+  },
+  {
+    "LIBELLE_ARRET": "QUATRE SEPTEMBRE",
+    "NB_VALID": 67581
+  },
+  {
+    "LIBELLE_ARRET": "RAMBOUILLET",
+    "NB_VALID": 47642
+  },
+  {
+    "LIBELLE_ARRET": "RAMBUTEAU",
+    "NB_VALID": 85866
+  },
+  {
+    "LIBELLE_ARRET": "RANELAGH",
+    "NB_VALID": 49202
+  },
+  {
+    "LIBELLE_ARRET": "RASPAIL",
+    "NB_VALID": 53992
+  },
+  {
+    "LIBELLE_ARRET": "REAUMUR-SEBASTOPOL",
+    "NB_VALID": 145065
+  },
+  {
+    "LIBELLE_ARRET": "RENNES",
+    "NB_VALID": 20997
+  },
+  {
+    "LIBELLE_ARRET": "REPUBLIQUE",
+    "NB_VALID": 512301
+  },
+  {
+    "LIBELLE_ARRET": "REUILLY-DIDEROT",
+    "NB_VALID": 164834
+  },
+  {
+    "LIBELLE_ARRET": "RICHARD LENOIR",
+    "NB_VALID": 44216
+  },
+  {
+    "LIBELLE_ARRET": "RICHELIEU-DROUOT",
+    "NB_VALID": 107781
+  },
+  {
+    "LIBELLE_ARRET": "RIQUET",
+    "NB_VALID": 49431
+  },
+  {
+    "LIBELLE_ARRET": "RIS-ORANGIS",
+    "NB_VALID": 8361
+  },
+  {
+    "LIBELLE_ARRET": "ROBESPIERRE",
+    "NB_VALID": 119111
+  },
+  {
+    "LIBELLE_ARRET": "ROBINSON",
+    "NB_VALID": 57955
+  },
+  {
+    "LIBELLE_ARRET": "ROISSY-EN-BRIE",
+    "NB_VALID": 37551
+  },
+  {
+    "LIBELLE_ARRET": "ROME",
+    "NB_VALID": 60325
+  },
+  {
+    "LIBELLE_ARRET": "ROSA PARKS",
+    "NB_VALID": 167945
+  },
+  {
+    "LIBELLE_ARRET": "ROSNY-BOIS-PERRIER",
+    "NB_VALID": 74768
+  },
+  {
+    "LIBELLE_ARRET": "ROSNY-SOUS-BOIS",
+    "NB_VALID": 55816
+  },
+  {
+    "LIBELLE_ARRET": "ROSNY-SUR-SEINE",
+    "NB_VALID": 1765
+  },
+  {
+    "LIBELLE_ARRET": "ROUGEMONT-CHANTELOUP",
+    "NB_VALID": 4107
+  },
+  {
+    "LIBELLE_ARRET": "RUE DE LA POMPE (AVENUE GEORGES MANDEL)",
+    "NB_VALID": 74757
+  },
+  {
+    "LIBELLE_ARRET": "RUE DES BOULETS",
+    "NB_VALID": 56082
+  },
+  {
+    "LIBELLE_ARRET": "RUE DU BAC",
+    "NB_VALID": 37294
+  },
+  {
+    "LIBELLE_ARRET": "RUEIL-MALMAISON",
+    "NB_VALID": 136231
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-AMBROISE",
+    "NB_VALID": 61007
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-AUGUSTIN",
+    "NB_VALID": 49440
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-CHERON",
+    "NB_VALID": 3304
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-CLOUD",
+    "NB_VALID": 72349
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-CYR",
+    "NB_VALID": 36710
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-DENIS",
+    "NB_VALID": 362127
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-DENIS-PORTE DE PARIS",
+    "NB_VALID": 110438
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-DENIS-UNIVERSITE",
+    "NB_VALID": 138893
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-FARGEAU",
+    "NB_VALID": 14958
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-FRANCOIS-XAVIER",
+    "NB_VALID": 41831
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-GEORGES",
+    "NB_VALID": 22714
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-GERMAIN-BEL-AIR-FOURQUEUX",
+    "NB_VALID": 922
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-GERMAIN-DES-PRES",
+    "NB_VALID": 97047
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-GERMAIN-EN-LAYE",
+    "NB_VALID": 134775
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-GERMAIN-GRANDE-CEINTURE",
+    "NB_VALID": 39
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-GRATIEN",
+    "NB_VALID": 19356
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-JACQUES",
+    "NB_VALID": 34748
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-LAZARE",
+    "NB_VALID": 955451
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-LEU-LA-FORET",
+    "NB_VALID": 12310
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MAMMES",
+    "NB_VALID": 1932
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MANDE-TOURELLE",
+    "NB_VALID": 96585
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MARCEL",
+    "NB_VALID": 68569
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MARTIN-D'ETAMPES",
+    "NB_VALID": 4187
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MAUR",
+    "NB_VALID": 56423
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MAUR-CRETEIL",
+    "NB_VALID": 70989
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MICHEL",
+    "NB_VALID": 76323
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MICHEL NOTRE DAME",
+    "NB_VALID": 118891
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-MICHEL-SUR-ORGE",
+    "NB_VALID": 17851
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY",
+    "NB_VALID": 956
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-OUEN",
+    "NB_VALID": 36229
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-OUEN-L'AUMONE",
+    "NB_VALID": 18114
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-OUEN-L'AUMONE-LIESSE",
+    "NB_VALID": 12866
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-OUEN-L'AUMONE-QUARTIER DE L'EGLISE",
+    "NB_VALID": 3991
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-PAUL (LE MARAIS)",
+    "NB_VALID": 122039
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-PHILIPPE-DU-ROULE",
+    "NB_VALID": 64353
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-PLACIDE",
+    "NB_VALID": 59134
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-QUENTIN-EN-YVELINES",
+    "NB_VALID": 159075
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-REMY-LES-CHEVREUSE",
+    "NB_VALID": 13252
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-SEBASTIEN FROISSART",
+    "NB_VALID": 23079
+  },
+  {
+    "LIBELLE_ARRET": "SAINT-SULPICE",
+    "NB_VALID": 35373
+  },
+  {
+    "LIBELLE_ARRET": "SAINTE-COLOMBE-SEPTVEILLES",
+    "NB_VALID": 906
+  },
+  {
+    "LIBELLE_ARRET": "SAINTE-GENEVIEVE-DES-BOIS",
+    "NB_VALID": 40742
+  },
+  {
+    "LIBELLE_ARRET": "SANNOIS",
+    "NB_VALID": 43488
+  },
+  {
+    "LIBELLE_ARRET": "SANTEUIL-LE-PERCHAY",
+    "NB_VALID": 217
+  },
+  {
+    "LIBELLE_ARRET": "SARCELLES-SAINT-BRICE",
+    "NB_VALID": 30539
+  },
+  {
+    "LIBELLE_ARRET": "SARTROUVILLE",
+    "NB_VALID": 137470
+  },
+  {
+    "LIBELLE_ARRET": "SAVIGNY-LE-TEMPLE-NANDY",
+    "NB_VALID": 36228
+  },
+  {
+    "LIBELLE_ARRET": "SAVIGNY-SUR-ORGE",
+    "NB_VALID": 80417
+  },
+  {
+    "LIBELLE_ARRET": "SCEAUX",
+    "NB_VALID": 17235
+  },
+  {
+    "LIBELLE_ARRET": "SEGUR",
+    "NB_VALID": 27753
+  },
+  {
+    "LIBELLE_ARRET": "SENTIER",
+    "NB_VALID": 85503
+  },
+  {
+    "LIBELLE_ARRET": "SERMAISE",
+    "NB_VALID": 568
+  },
+  {
+    "LIBELLE_ARRET": "SEUGY",
+    "NB_VALID": 113
+  },
+  {
+    "LIBELLE_ARRET": "SEVRAN-BEAUDOTTES",
+    "NB_VALID": 127331
+  },
+  {
+    "LIBELLE_ARRET": "SEVRAN-LIVRY",
+    "NB_VALID": 58446
+  },
+  {
+    "LIBELLE_ARRET": "SEVRES RIVE GAUCHE",
+    "NB_VALID": 4861
+  },
+  {
+    "LIBELLE_ARRET": "SEVRES-BABYLONE",
+    "NB_VALID": 89262
+  },
+  {
+    "LIBELLE_ARRET": "SEVRES-LECOURBE",
+    "NB_VALID": 29903
+  },
+  {
+    "LIBELLE_ARRET": "SEVRES-VILLE-D'AVRAY",
+    "NB_VALID": 19138
+  },
+  {
+    "LIBELLE_ARRET": "SIMPLON",
+    "NB_VALID": 84657
+  },
+  {
+    "LIBELLE_ARRET": "SOLFERINO",
+    "NB_VALID": 40962
+  },
+  {
+    "LIBELLE_ARRET": "SOUPPES",
+    "NB_VALID": 5338
+  },
+  {
+    "LIBELLE_ARRET": "STADE DE FRANCE-SAINT-DENIS",
+    "NB_VALID": 106328
+  },
+  {
+    "LIBELLE_ARRET": "STAINS CERISAIE",
+    "NB_VALID": 13428
+  },
+  {
+    "LIBELLE_ARRET": "STALINGRAD",
+    "NB_VALID": 199867
+  },
+  {
+    "LIBELLE_ARRET": "STRASBOURG-SAINT-DENIS",
+    "NB_VALID": 205808
+  },
+  {
+    "LIBELLE_ARRET": "SUCY-BONNEUIL",
+    "NB_VALID": 76427
+  },
+  {
+    "LIBELLE_ARRET": "SULLY-MORLAND",
+    "NB_VALID": 32454
+  },
+  {
+    "LIBELLE_ARRET": "SURESNES-MONT VALERIEN",
+    "NB_VALID": 33241
+  },
+  {
+    "LIBELLE_ARRET": "SURVILLIERS-FOSSES",
+    "NB_VALID": 28769
+  },
+  {
+    "LIBELLE_ARRET": "TACOIGNIERES-RICHEBOURG",
+    "NB_VALID": 1046
+  },
+  {
+    "LIBELLE_ARRET": "TAVERNY",
+    "NB_VALID": 7072
+  },
+  {
+    "LIBELLE_ARRET": "TELEGRAPHE",
+    "NB_VALID": 66845
+  },
+  {
+    "LIBELLE_ARRET": "TEMPLE",
+    "NB_VALID": 22332
+  },
+  {
+    "LIBELLE_ARRET": "TERNES",
+    "NB_VALID": 111345
+  },
+  {
+    "LIBELLE_ARRET": "THIEUX-NANTOUILLET",
+    "NB_VALID": 139
+  },
+  {
+    "LIBELLE_ARRET": "THOMERY",
+    "NB_VALID": 556
+  },
+  {
+    "LIBELLE_ARRET": "THUN-LE-PARADIS",
+    "NB_VALID": 2020
+  },
+  {
+    "LIBELLE_ARRET": "TOLBIAC",
+    "NB_VALID": 83203
+  },
+  {
+    "LIBELLE_ARRET": "TORCY",
+    "NB_VALID": 150321
+  },
+  {
+    "LIBELLE_ARRET": "TOURNAN",
+    "NB_VALID": 14087
+  },
+  {
+    "LIBELLE_ARRET": "TRAPPES",
+    "NB_VALID": 36327
+  },
+  {
+    "LIBELLE_ARRET": "TRIEL-SUR-SEINE",
+    "NB_VALID": 5701
+  },
+  {
+    "LIBELLE_ARRET": "TRILPORT",
+    "NB_VALID": 6758
+  },
+  {
+    "LIBELLE_ARRET": "TRINITE-D'ESTIENNE D'ORVES",
+    "NB_VALID": 37664
+  },
+  {
+    "LIBELLE_ARRET": "TROCADERO",
+    "NB_VALID": 145884
+  },
+  {
+    "LIBELLE_ARRET": "TUILERIES",
+    "NB_VALID": 30885
+  },
+  {
+    "LIBELLE_ARRET": "US",
+    "NB_VALID": 435
+  },
+  {
+    "LIBELLE_ARRET": "VAIRES-TORCY",
+    "NB_VALID": 22351
+  },
+  {
+    "LIBELLE_ARRET": "VAL-D'ARGENTEUIL",
+    "NB_VALID": 66802
+  },
+  {
+    "LIBELLE_ARRET": "VAL-D'EUROPE",
+    "NB_VALID": 141500
+  },
+  {
+    "LIBELLE_ARRET": "VAL-DE-FONTENAY",
+    "NB_VALID": 199941
+  },
+  {
+    "LIBELLE_ARRET": "VALMONDOIS",
+    "NB_VALID": 3627
+  },
+  {
+    "LIBELLE_ARRET": "VANEAU",
+    "NB_VALID": 20202
+  },
+  {
+    "LIBELLE_ARRET": "VANVES-MALAKOFF",
+    "NB_VALID": 13815
+  },
+  {
+    "LIBELLE_ARRET": "VARENNE",
+    "NB_VALID": 28516
+  },
+  {
+    "LIBELLE_ARRET": "VAUBOYEN",
+    "NB_VALID": 876
+  },
+  {
+    "LIBELLE_ARRET": "VAUCELLES",
+    "NB_VALID": 3749
+  },
+  {
+    "LIBELLE_ARRET": "VAUCRESSON",
+    "NB_VALID": 3926
+  },
+  {
+    "LIBELLE_ARRET": "VAUGIRARD (ADOLPHE CHERIOU)",
+    "NB_VALID": 65989
+  },
+  {
+    "LIBELLE_ARRET": "VAUX-SUR-SEINE",
+    "NB_VALID": 2692
+  },
+  {
+    "LIBELLE_ARRET": "VAVIN",
+    "NB_VALID": 33808
+  },
+  {
+    "LIBELLE_ARRET": "VERNEUIL-L'ETANG",
+    "NB_VALID": 4196
+  },
+  {
+    "LIBELLE_ARRET": "VERNOU-SUR-SEINE",
+    "NB_VALID": 235
+  },
+  {
+    "LIBELLE_ARRET": "VERNOUILLET-VERNEUIL",
+    "NB_VALID": 30580
+  },
+  {
+    "LIBELLE_ARRET": "VERSAILLES CHATEAU",
+    "NB_VALID": 30864
+  },
+  {
+    "LIBELLE_ARRET": "VERSAILLES RIVE DROITE",
+    "NB_VALID": 49753
+  },
+  {
+    "LIBELLE_ARRET": "VERSAILLES-CHANTIERS",
+    "NB_VALID": 149261
+  },
+  {
+    "LIBELLE_ARRET": "VERT-GALANT",
+    "NB_VALID": 84665
+  },
+  {
+    "LIBELLE_ARRET": "VIARMES",
+    "NB_VALID": 855
+  },
+  {
+    "LIBELLE_ARRET": "VICTOR HUGO",
+    "NB_VALID": 95745
+  },
+  {
+    "LIBELLE_ARRET": "VIGNEUX-SUR-SEINE",
+    "NB_VALID": 57959
+  },
+  {
+    "LIBELLE_ARRET": "VILLABE",
+    "NB_VALID": 1204
+  },
+  {
+    "LIBELLE_ARRET": "VILLAINES",
+    "NB_VALID": 86
+  },
+  {
+    "LIBELLE_ARRET": "VILLEJUIF-LEO LAGRANGE",
+    "NB_VALID": 45842
+  },
+  {
+    "LIBELLE_ARRET": "VILLEJUIF-LOUIS ARAGON",
+    "NB_VALID": 142235
+  },
+  {
+    "LIBELLE_ARRET": "VILLEJUIF-PAUL VAILLANT-COUTURIER",
+    "NB_VALID": 51893
+  },
+  {
+    "LIBELLE_ARRET": "VILLENEUVE-LE-ROI",
+    "NB_VALID": 16173
+  },
+  {
+    "LIBELLE_ARRET": "VILLENEUVE-SAINT-GEORGES",
+    "NB_VALID": 197373
+  },
+  {
+    "LIBELLE_ARRET": "VILLENEUVE-TRIAGE",
+    "NB_VALID": 9343
+  },
+  {
+    "LIBELLE_ARRET": "VILLENNES-SUR-SEINE",
+    "NB_VALID": 3839
+  },
+  {
+    "LIBELLE_ARRET": "VILLEPARISIS-MITRY-LE-NEUF",
+    "NB_VALID": 26104
+  },
+  {
+    "LIBELLE_ARRET": "VILLEPINTE",
+    "NB_VALID": 36753
+  },
+  {
+    "LIBELLE_ARRET": "VILLEPREUX-LES-CLAYES",
+    "NB_VALID": 15606
+  },
+  {
+    "LIBELLE_ARRET": "VILLETANEUSE UN",
+    "NB_VALID": 15505
+  },
+  {
+    "LIBELLE_ARRET": "VILLIERS",
+    "NB_VALID": 89527
+  },
+  {
+    "LIBELLE_ARRET": "VILLIERS-LE-BEL-GONESSE-ARNOUVILLE",
+    "NB_VALID": 118053
+  },
+  {
+    "LIBELLE_ARRET": "VILLIERS-MONTBARBIN",
+    "NB_VALID": 257
+  },
+  {
+    "LIBELLE_ARRET": "VILLIERS-NEAUPHLE PONTCHARTRAIN",
+    "NB_VALID": 2648
+  },
+  {
+    "LIBELLE_ARRET": "VILLIERS-SUR-MARNE-PLESSIS-TREVISE",
+    "NB_VALID": 78691
+  },
+  {
+    "LIBELLE_ARRET": "VINCENNES",
+    "NB_VALID": 201681
+  },
+  {
+    "LIBELLE_ARRET": "VIROFLAY RIVE DROITE",
+    "NB_VALID": 17632
+  },
+  {
+    "LIBELLE_ARRET": "VIROFLAY RIVE GAUCHE",
+    "NB_VALID": 43966
+  },
+  {
+    "LIBELLE_ARRET": "VIRY-CHATILLON",
+    "NB_VALID": 8502
+  },
+  {
+    "LIBELLE_ARRET": "VITRY-SUR-SEINE",
+    "NB_VALID": 55762
+  },
+  {
+    "LIBELLE_ARRET": "VOLONTAIRES",
+    "NB_VALID": 41385
+  },
+  {
+    "LIBELLE_ARRET": "VOLTAIRE (LEON BLUM)",
+    "NB_VALID": 108549
+  },
+  {
+    "LIBELLE_ARRET": "VOSVES",
+    "NB_VALID": 70
+  },
+  {
+    "LIBELLE_ARRET": "VULAINES-SUR-SEINE-SAMOREAU",
+    "NB_VALID": 265
+  },
+  {
+    "LIBELLE_ARRET": "WAGRAM",
+    "NB_VALID": 40857
+  },
+  {
+    "LIBELLE_ARRET": "YERRES",
+    "NB_VALID": 40063
+  },
+  {
+    "LIBELLE_ARRET": "Total général",
+    "NB_VALID": 51982487
+  }
+]

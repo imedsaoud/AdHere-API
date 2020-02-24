@@ -1,7 +1,7 @@
 <?php
 
 function getDistance($latitudeFrom, $longitudeFrom, $latitudeTo, $longitudeTo) {
-  $earthRadius = 6378137;   
+  $earthRadius = 6378137;
   $latFrom = deg2rad($latitudeFrom);
   $lonFrom = deg2rad($longitudeFrom);
   $latTo = deg2rad($latitudeTo);
@@ -28,7 +28,7 @@ $pdo  = new PDO(
 
 
 // --------------------------STATION-------------------------------------------
-$jsonStation = file_get_contents("../data/station/station.json");
+$jsonStation = file_get_contents("../data/station/station_v1.json");
 $json_data_station = json_decode($jsonStation, true);
 foreach ($json_data_station as $item) {
 
