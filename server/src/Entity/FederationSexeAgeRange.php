@@ -8,7 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
  * FederationSexeAgeRange
  *
  * @ORM\Table(name="federation_sexe_age_range", indexes={@ORM\Index(name="federation_sexe_age_range_Federation_FK", columns={"id_Federation"})})
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="App\Repository\FederationSexeAgeRangeRepository")
  */
 class FederationSexeAgeRange
 {

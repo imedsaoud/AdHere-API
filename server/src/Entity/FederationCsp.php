@@ -8,7 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
  * FederationCsp
  *
  * @ORM\Table(name="federation_csp")
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="App\Repository\FederationCspRepository")
  */
 class FederationCsp
 {

@@ -8,7 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
  * Federation
  *
  * @ORM\Table(name="Federation")
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="App\Repository\FederationRepository")
  */
 class Federation
 {

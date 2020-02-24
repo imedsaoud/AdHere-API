@@ -8,7 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
  * StationDistanceEvent
  *
  * @ORM\Table(name="Station_distance_event", indexes={@ORM\Index(name="Station_distance_event_Events0_FK", columns={"id_Events"}), @ORM\Index(name="Station_distance_event_Station_FK", columns={"id_Station"})})
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="App\Repository\StationDistanceEventRepository")
  */
 class StationDistanceEvent
 {
