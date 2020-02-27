@@ -31,7 +31,7 @@ Groupe 15
 - Dans le fichier `.env.local` décommentez la variable `DATABASE_URL` et remplacé son contenu par votre configuration mysql
 - Lancez l'api avec la commande : `symfony serve`
 
-**Documentation de l'API : [ici !](https://greenparis.docs.apiary.io)**
+**Documentation de l'API : [ici !](https://adhere.docs.apiary.io/)**
 
 
 
