@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b2023c-7267-470d-835d-17262e7f8ae4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AdHere-API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdHere-API.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/config/db_insert_data.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/config/db_insert_data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/config/station_script.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/config/station_script.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/config/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/data/event/evenement_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/data/event/evenement_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/data/station/station_nb_valid.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/data/station/station_nb_valid.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.env" beforeDir="false" afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/Controller/EventController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/EventController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/EventStationsDistanceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/EventStationsDistanceController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/Controller/FederationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/FederationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Entity/Events.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Entity/Events.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Entity/Federation.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Entity/Federation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Entity/FederationCsp.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Entity/FederationCsp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Entity/FederationSexeAgeRange.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Entity/FederationSexeAgeRange.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Entity/Station.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Entity/Station.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Entity/StationDistanceEvent.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Entity/StationDistanceEvent.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Repository/EventsRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/Repository/FederationRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/FederationCspController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/FederationCspController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/symfony.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,19 +43,21 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key=".env file" value="2" />
-          <entry key="JSON" value="2" />
-          <entry key="PHP" value="96" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key=".env file" value="3" />
+          <entry key="JSON" value="14" />
+          <entry key="PHP" value="120" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="SQL" value="2" />
           <entry key="YAML" value="19" />
           <entry key="composer.json" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key=".env file" value="39" />
-          <entry key="JSON" value="2" />
-          <entry key="PHP" value="5281" />
+          <entry key=".env file" value="67" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="6" />
+          <entry key="PHP" value="6338" />
           <entry key="PLAIN_TEXT" value="29" />
           <entry key="YAML" value="16" />
         </counts>
@@ -61,100 +68,114 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2012863046">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="7" />
+          <entry key="PHP" value="2" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="154" />
+          <entry key="PHP" value="278" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Controller/EventController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-              <folding>
-                <element signature="e#34#56#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Entity/Events.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Entity/Station.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/src/Controller/EventStationsDistanceController.php">
+        <entry file="file://$PROJECT_DIR$/db/config/db_insert_data.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="19" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="19" />
-              <folding>
-                <element signature="e#34#56#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="463">
+              <caret line="163" column="6" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationCspController.php">
+        <entry file="file://$PROJECT_DIR$/db/data/event/evenement_2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="91" />
-              <folding>
-                <element signature="e#116#145#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php">
+        <entry file="file://$PROJECT_DIR$/db/data/federation/federation.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="61" />
-              <folding>
-                <element signature="e#34#56#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationCspRepository.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationSexeAgeRangeRepository.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Repository/StationDistanceEventRepository.php">
+        <entry file="file://$PROJECT_DIR$/db/data/federation/federation_csp.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="-5245" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/data/federation/federation_sexe_age_range.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="8875" column="2" lean-forward="true" selection-start-line="8875" selection-start-column="2" selection-end-line="8875" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/Entity/StationDistanceEvent.php">
+        <entry file="file://$PROJECT_DIR$/db/data/station/station.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+            <state relative-caret-position="-65087">
+              <caret line="11" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="21" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/data/station/station_geo.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/data/station/station_nb_valid.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/config/station_script.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/config/db_structure.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-802" />
           </provider>
         </entry>
       </file>
@@ -165,6 +186,9 @@
       <find>/</find>
       <find>EVENT</find>
       <find>Event</find>
+      <find>ABBESSES</find>
+      <find>feder</find>
+      <find>SAINT-DENIS-PORTE DE PARIS</find>
     </findStrings>
     <replaceStrings>
       <replace>-</replace>
@@ -183,7 +207,6 @@
         <option value="$PROJECT_DIR$/db/data/event/evenement.json" />
         <option value="$PROJECT_DIR$/server/src/Repository/EventRepository.php" />
         <option value="$PROJECT_DIR$/server/src/Entity/Event.php" />
-        <option value="$PROJECT_DIR$/server/.env" />
         <option value="$PROJECT_DIR$/server/src/Repository/FederationRepository.php" />
         <option value="$PROJECT_DIR$/server/config/services.yaml" />
         <option value="$PROJECT_DIR$/server/src/Entity/FederationSexeAgeRange.php" />
@@ -193,13 +216,20 @@
         <option value="$PROJECT_DIR$/server/src/Entity/Station.php" />
         <option value="$PROJECT_DIR$/server/src/Repository/EventsRepositoryRepository.php" />
         <option value="$PROJECT_DIR$/server/src/Entity/Events.php" />
-        <option value="$PROJECT_DIR$/server/src/Repository/EventsRepository.php" />
-        <option value="$PROJECT_DIR$/server/src/Controller/FederationCspController.php" />
-        <option value="$PROJECT_DIR$/server/src/Controller/EventController.php" />
-        <option value="$PROJECT_DIR$/server/src/Controller/FederationController.php" />
-        <option value="$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php" />
         <option value="$PROJECT_DIR$/server/src/Repository/StationDistanceEventRepository.php" />
+        <option value="$PROJECT_DIR$/db/data/station/station_geo.json" />
+        <option value="$PROJECT_DIR$/server/src/Repository/EventsRepository.php" />
+        <option value="$PROJECT_DIR$/server/src/Controller/FederationController.php" />
+        <option value="$PROJECT_DIR$/server/src/Controller/FederationCspController.php" />
+        <option value="$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php" />
+        <option value="$PROJECT_DIR$/server/src/Controller/EventController.php" />
         <option value="$PROJECT_DIR$/server/src/Controller/EventStationsDistanceController.php" />
+        <option value="$PROJECT_DIR$/server/src/Controller/MailController.php" />
+        <option value="$PROJECT_DIR$/server/.env" />
+        <option value="$PROJECT_DIR$/db/data/station/station_nb_valid.json" />
+        <option value="$PROJECT_DIR$/db/config/station_script.php" />
+        <option value="$PROJECT_DIR$/db/data/event/evenement_2.json" />
+        <option value="$PROJECT_DIR$/db/config/db_insert_data.php" />
       </list>
     </option>
   </component>
@@ -294,17 +324,22 @@
       <path value="$PROJECT_DIR$/server/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/server/vendor/willdurand/negotiation" />
       <path value="$PROJECT_DIR$/server/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/server/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/sendgrid-mailer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="834" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,6 +351,45 @@
               <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="federation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="station" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="Modelisation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
@@ -346,20 +420,12 @@
               <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdHere-API" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdHere-API" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Repository" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,18 +473,19 @@
       <workItem from="1581415439706" duration="1637000" />
       <workItem from="1581599488729" duration="23370000" />
       <workItem from="1582239658701" duration="2914000" />
-      <workItem from="1582396435267" duration="21892000" />
+      <workItem from="1582396435267" duration="33988000" />
+      <workItem from="1582812253383" duration="1637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50237000" />
+    <option name="totallyTimeSpent" value="63970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03846154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -438,27 +505,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33163264" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -467,61 +513,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/composer.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/symfony.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/config/packages/api_platform.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/composer.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/symfony/http-foundation/JsonResponse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="142" column="20" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/doctrine/orm/lib/Doctrine/ORM/AbstractQuery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="1000" column="69" lean-forward="true" selection-start-line="1000" selection-start-column="69" selection-end-line="1000" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/doctrine/persistence/lib/Doctrine/Persistence/ObjectRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/data/event/evenement.json" />
-    <entry file="file://$PROJECT_DIR$/db/data/federation/federation.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/src/Entity/Repository/EventRepository.php.php" />
     <entry file="file://$PROJECT_DIR$/server/src/Entity/Event.php" />
     <entry file="file://$PROJECT_DIR$/server/config/routes/api_platform.yaml">
@@ -542,13 +534,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/config/packages/doctrine_migrations.yaml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="52" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/bin/console">
       <provider selected="true" editor-type-id="text-editor" />
@@ -575,47 +560,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/EventsRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#115#149#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/EventsRepositoryRepository.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/EventsRepositoryRepository.php" />
     <entry file="file://$PROJECT_DIR$/server/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Entity/Federation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
-          <folding>
-            <element signature="e#115#137#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,66 +582,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/StationRepository.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Controller/EventController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding>
-            <element signature="e#34#56#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Controller/StationController.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Controller/StationController.php" />
     <entry file="file://$PROJECT_DIR$/server/src/Entity/StationDistanceEvent.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationCspController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="91" />
-          <folding>
-            <element signature="e#116#145#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationCspRepository.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/EventsRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#34#56#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/StationDistanceEventRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationSexeAgeRangeRepository.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Entity/Events.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -703,23 +597,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php">
+    <entry file="file://$PROJECT_DIR$/db/config/test.php" />
+    <entry file="file://$PROJECT_DIR$/db/data/station/station_v1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/config/station_v1.json" />
+    <entry file="file://$PROJECT_DIR$/server/src/Entity/Federation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="61" />
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationCspRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/FederationSexeAgeRangeRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/StationDistanceEventRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/EventsRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Controller/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#34#56#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Entity/Events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/src/Controller/EventStationsDistanceController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/symfony.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Repository/StationRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationCspController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#34#56#0#PHP" expanded="true" />
+            <element signature="e#116#145#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Controller/FederationSexeAgeRangeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/Controller/MailController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="e#35#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/federation/federation_csp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/federation/federation.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/federation/federation_sexe_age_range.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="8875" column="2" lean-forward="true" selection-start-line="8875" selection-start-column="2" selection-end-line="8875" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/station/station.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65087">
+          <caret line="11" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/config/db_structure.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-802" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/event/evenement_2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/config/station_script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/station/station_geo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/data/station/station_nb_valid.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/config/db_insert_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="163" column="6" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="6" />
         </state>
       </provider>
     </entry>

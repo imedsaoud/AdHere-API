@@ -85,6 +85,9 @@
       <path value="$PROJECT_DIR$/server/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/server/vendor/willdurand/negotiation" />
       <path value="$PROJECT_DIR$/server/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/server/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/server/vendor/symfony/sendgrid-mailer" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
