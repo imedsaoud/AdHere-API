@@ -1,4 +1,4 @@
-[
+[ 
   {
     "fédération": "athletisme",
     "date_de_debut": "2024-08-02",
@@ -307,8 +307,8 @@
   },
   {
     "fédération": "equitation_dressage",
-    "date_de_debut": "2024-08-29",
-    "date_de_fin": "2024-08-02",
+    "date_de_debut": "2024-08-03",
+    "date_de_fin": "2024-08-10",
     "nom_du_lieux": "Chateau de Versailles",
     "latitude": 48.8071494,
     "longitude": 2.1232518,
@@ -360,7 +360,7 @@
     "capacité": 20000
   },
   {
-    "fédération": "Golf",
+    "fédération": "golf",
     "date_de_debut": "2024-07-26",
     "date_de_fin": "2024-08-05",
     "nom_du_lieux": "Golf national",
