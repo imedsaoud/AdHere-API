@@ -8,7 +8,6 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Method;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpKernel\HttpClientKernel;
 use Symfony\Component\Routing\Annotation\Route;
 
 class EventController extends AbstractController
@@ -22,7 +21,7 @@ class EventController extends AbstractController
     }
 
     /**
-     * @Route("/events", name="get_eventsByDate")
+     * @Route("/events", name="get_events_by_date_range")
      * @Method("GET")
      */
     public function findEventsByDate(Request $request): JsonResponse
@@ -32,6 +31,11 @@ class EventController extends AbstractController
 
         if ($beginDate !== null && $endDate !== null) {
             $events = $this->em->getRepository(Events::class)->getEventsBetweenDates($beginDate,$endDate);
+        } else {
+            $events = $this->em->getRepository(Events::class)->findAll();
+        }
+
+        if ($events) {
             foreach ($events as $event) {
                 $response[] = array(
                     'id' => $event->getId(),
@@ -44,48 +48,9 @@ class EventController extends AbstractController
                     'id_federation' => $event->getIdFederation()->getId()
                 );
             }
-            return new JsonResponse($response,200);
+            return new JsonResponse($response, 200);
+        } else {
+            return new JsonResponse('Sorry no Events for this date range',404);
         }
-
-        $events = $this->em->getRepository(Events::class)->findAll();
-        foreach ($events as $event) {
-            $response[] = array(
-                'id' => $event->getId(),
-                'Geo_name' => $event->getGeoName(),
-                'Lat' => $event->getGeoLat(),
-                'Lng' => $event->getGeoLng(),
-                'Spectators' => $event->getSpectator(),
-                'Date_start' => $event->getDateStart(),
-                'Date_end' => $event->getDateEnd(),
-                'id_federation' => $event->getIdFederation()->getId()
-            );
-        }
-        return new JsonResponse($response, 200);
-    }
-
-    /**
-     * @Route("/events/{id}", name="get_event_by_id")
-     * @Method("GET")
-     */
-    public function findEventsById(int $id): JsonResponse
-    {
-        $event = $this->em->getRepository(Events::class)->find($id);
-
-        if ($event === null) {
-            return new JsonResponse(null, 404);
-        }
-
-        $response[] = array(
-            'id' => $event->getId(),
-            'Geo_name' => $event->getGeoName(),
-            'Lat' => $event->getGeoLat(),
-            'Lng' => $event->getGeoLng(),
-            'Spectators' => $event->getSpectator(),
-            'Date_start' => $event->getDateStart(),
-            'Date_end' => $event->getDateEnd(),
-            'id_federation' => $event->getIdFederation()->getId()
-        );
-
-        return new JsonResponse($response, 200);
     }
 }

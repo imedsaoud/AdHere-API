@@ -9,7 +9,6 @@
 namespace App\Controller;
 
 
-use App\Entity\Events;
 use App\Entity\Federation;
 use Doctrine\ORM\EntityManagerInterface;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Method;
@@ -17,7 +16,6 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Routing\Annotation\Route;
-use Symfony\Component\HttpKernel\HttpClientKernel;
 
 
 class FederationController extends AbstractController
@@ -44,7 +42,7 @@ class FederationController extends AbstractController
                 $response[] = array(
                     'id' => $result->getId(),
                     'name' => $result->getName(),
-                    'count' => $result->getCount()
+                    'licence_count' => $result->getCount()
                 );
             }
             return new JsonResponse($response, 200);
@@ -55,7 +53,8 @@ class FederationController extends AbstractController
 
                 $response[] = array(
                     'id' => $federation->getId(),
-                    'count' => $federation->getCount()
+                    'name' => $federation->getName(),
+                    'licence_count' => $federation->getCount()
                 );
             }
             return new JsonResponse($response, 200);

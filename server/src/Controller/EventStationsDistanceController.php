@@ -8,7 +8,6 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Method;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpKernel\HttpClientKernel;
 use Symfony\Component\Routing\Annotation\Route;
 
 class EventStationsDistanceController extends AbstractController
@@ -34,6 +33,9 @@ class EventStationsDistanceController extends AbstractController
             $eventIdsTab = explode(",", $eventIds);
             foreach ($eventIdsTab as $eventId){
                 $eventDistanceStations = $this->em->getRepository(StationDistanceEvent::class)->getEventDistanceStation($eventId,$meterRange);
+                if ($eventDistanceStations === null) {
+                    return new JsonResponse('Sorry no station around',404);    
+                }
                 foreach ($eventDistanceStations as $eventDistanceStation) {
                     $response[] = array(
                         'id_event' => $eventDistanceStation->getIdEvents()->getId(),
@@ -42,10 +44,7 @@ class EventStationsDistanceController extends AbstractController
                 }
                 return new JsonResponse($response,200);
             }
-
         }
-
         return new JsonResponse('Missing Parameter', 400);
     }
-
 }

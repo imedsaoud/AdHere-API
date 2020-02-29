@@ -2,14 +2,12 @@
 
 namespace App\Controller;
 
-use App\Entity\Events;
 use App\Entity\FederationSexeAgeRange;
 use Doctrine\ORM\EntityManagerInterface;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Method;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpKernel\HttpClientKernel;
 use Symfony\Component\Routing\Annotation\Route;
 
 class FederationSexeAgeRangeController extends AbstractController
@@ -23,10 +21,10 @@ class FederationSexeAgeRangeController extends AbstractController
     }
 
     /**
-     * @Route("/federationDetails", name="get_federationsSarCount")
+     * @Route("/federationAudienceCount", name="get_federations_audience_count")
      * @Method("GET")
      */
-    public function findFederationSexeAgeRangeCount(Request $request): JsonResponse
+    public function findFederationAudienceCount(Request $request): JsonResponse
     {
         $sexe = $request->get('sexe');
         $ageRanges = $request->get('ageRanges');
@@ -50,7 +48,18 @@ class FederationSexeAgeRangeController extends AbstractController
                     }
                 }
             }
-            return new JsonResponse($response,200);
+
+            $totalCount = 0;
+            foreach ($response as $item) {
+                $totalCount += $item['count'];
+            }
+            $finalResponse[] = array(
+                'audience_count' => $totalCount
+            );
+            
+
+            
+            return new JsonResponse($finalResponse,200);
         }
         return new JsonResponse('Missing Parameter', 400);
     }
