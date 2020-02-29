@@ -21,5 +21,6 @@ foreach ($json_station_valids as $station_valid) {
 
 }
 
+
 $newJson = json_encode($json_station_final);
 file_put_contents('station_v1.json', $newJson);
