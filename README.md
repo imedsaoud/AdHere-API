@@ -4,10 +4,10 @@ AdHere API
 Groupe 15
 ---------------
 
-- Saoud Imed [BACK-END]
+- Imed Saoud [BACK-END]
 - Corentin Thibault [UX/UI]
 - Haris Souici [FRONT-END]
-- Donaelle Walter[FRONT-END | UX/UI]
+- Donaelle Walter [FRONT-END|UX/UI]
 
 ## Prérequis
 - mysql
